@@ -5,11 +5,11 @@
 
 |     |Sun.|Mon.|Tue.|Wen.|Thu.|Fri.|Sat.|
 |:----|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|06:30|![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)|![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)|    |    |    |    |    |
-|洗漱  |![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)|![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)|    |    |    |    |    |
-|穿衣  |![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)|![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)|    |    |    |    |    |
-|阅读  |![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)|![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)|    |    |    |    |    |
-|20:30|![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)|![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)|    |    |    |    |    |
+|06:30|![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)|![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)|![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)|    |    |    |    |
+|洗漱  |![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)|![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)|![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)|    |    |    |    |
+|穿衣  |![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)|![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)|![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)|    |    |    |    |
+|阅读  |![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)|![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)|![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)|    |    |    |    |
+|20:30|![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)|![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)|![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)|    |    |    |    |
 
 > 达成一日全部目标可获得一个 **小奖励**
 
