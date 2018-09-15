@@ -1,15 +1,25 @@
 何英睿好习惯养成记录
 ==================
 
+### 2018-09-16 ~ 2018-09-22
+
+|     |Sun.|Mon.|Tue.|Wen.|Thu.|Fri.|Sat.|
+|:----|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|06:30|||    |    |    |    |
+|洗漱  |||    |    |    |    |
+|穿衣  ||||    |    |    |    |
+|阅读  ||||    |    |    |    |
+|20:30||||    |    |    |    |
+
 ### 2018-09-09 ~ 2018-09-15
 
 |     |Sun.|Mon.|Tue.|Wen.|Thu.|Fri.|Sat.|
 |:----|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|06:30|![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)|![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)|![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)|    |    |    |    |
-|洗漱  |![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)|![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)|![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)|    |    |    |    |
-|穿衣  |![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)|![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)|![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)|    |    |    |    |
-|阅读  |![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)|![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)|![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)|    |    |    |    |
-|20:30|![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)|![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)|![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)|    |    |    |    |
+|06:30|![][star]|![][star]|![][star]|![][star]|![][star]|![][star]|![][star]|
+|洗漱  |![][star]|![][star]|![][star]|![][star]|![][star]|![][star]|![][star]|
+|穿衣  |![][star]|![][star]|![][star]|![][star]|![][star]|![][star]|![][star]|
+|阅读  |![][star]|![][star]|![][star]|![][star]|![][star]|![][star]|![][star]|
+|20:30|![][star]|![][star]|![][star]|![][star]|![][star]|![][star]|![][star]|
 
 > 达成一日全部目标可获得一个 **小奖励**
 
@@ -17,3 +27,4 @@
 
 > 连续 **一周** 达成全部目标可获得一个 **大奖励**
 
+[star]:https://assets-cdn.github.com/images/icons/emoji/octocat.png
