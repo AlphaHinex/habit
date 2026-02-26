@@ -1,12 +1,14 @@
-# School
+# English
+
+## School
 
 ![](res/20260224/Weixin%20Image_20260224132312_546_280.jpg)
 ```
 此项作业答案[玫瑰]
 ```
-[7A期末复习材料教师版.pdf](res/20260224/7A期末复习材料教师版.pdf)
+[7A期末复习材料教师版.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/english/res/20260224/7A期末复习材料教师版.pdf)
 
-# Yeki
+## Yeki
 
 ```
 今天完成U8-4课
@@ -20,10 +22,10 @@ while+过去进行时
 1.完成题单
 2.练习册73.78页
 ```
-[Think Level 1-Page 78 Unit 8 Sporting Fails.pdf](res/20260214/Think%20Level%201-Page%2078%20Unit%208%20Sporting%20Fails.pdf)
-[Thk2e_BrE_L1_Grammar_Standard_Unit_8.pdf](res/20260214/Thk2e_BrE_L1_Grammar_Standard_Unit_8.pdf)
-[Thk2e_BrE_L1_Vocabulary_Standard_Unit_8.pdf](res/20260214/Thk2e_BrE_L1_Vocabulary_Standard_Unit_8.pdf)
-[Thk2e_BrE_L1_WB_Unit_08_p078_t02.mp3](res/20260214/Thk2e_BrE_L1_WB_Unit_08_p078_t02.mp3)
-[Thk2e_BrE_L1_WB_Unit_08_p078_t03.mp3](res/20260214/Thk2e_BrE_L1_WB_Unit_08_p078_t03.mp3)
-![](res/20260214/Weixin%20Image_2026-02-23_184146_076.jpg)
-![](res/20260214/Weixin%20Image_20260223184208.jpg)
+[Think Level 1-Page 78 Unit 8 Sporting Fails.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/english/res/20260214/Think%20Level%201-Page%2078%20Unit%208%20Sporting%20Fails.pdf)
+[Thk2e_BrE_L1_Grammar_Standard_Unit_8.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/english/res/20260214/Thk2e_BrE_L1_Grammar_Standard_Unit_8.pdf)
+[Thk2e_BrE_L1_Vocabulary_Standard_Unit_8.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/english/res/20260214/Thk2e_BrE_L1_Vocabulary_Standard_Unit_8.pdf)
+[Thk2e_BrE_L1_WB_Unit_08_p078_t02.mp3](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/english/res/20260214/Thk2e_BrE_L1_WB_Unit_08_p078_t02.mp3)
+[Thk2e_BrE_L1_WB_Unit_08_p078_t03.mp3](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/english/res/20260214/Thk2e_BrE_L1_WB_Unit_08_p078_t03.mp3)
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/english/res/20260214/Weixin%20Image_2026-02-23_184146_076.jpg)
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/english/res/20260214/Weixin%20Image_20260223184208.jpg)
