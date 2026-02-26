@@ -3,7 +3,7 @@
 ## School
 
 语文寒假作业详解答案
-1. [答案一.pdf](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/pdfjs-5.4.624-dist/web/viewer.html?file=https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/chinese/res/语文寒假作业详解答案/答案一.pdf)
+1. [答案一.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案一.pdf)
 1. [答案二.pdf](/res/语文寒假作业详解答案/答案二.pdf)
 1. [答案三.pdf](/res/语文寒假作业详解答案/答案三.pdf)
 1. [答案四.pdf](/res/语文寒假作业详解答案/答案四.pdf)
