@@ -27,6 +27,26 @@
 ## Sunbo
 
 ```
+2026.02.28语文课堂反馈
+一、课堂内容
+1.讲作业--记叙文答疑
+2.课外诗歌诵读《贾生》《过松源晨炊漆公店其五》《约客》
+3.考察陋室铭和爱莲说的背诵，完成程度还不错哦
+二、作业
+打印的套卷完成即可
+```
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/chinese/res/sunbo/Weixin%20Image_20260228173803_83_630.jpg)
+
+```
+收心测试[爱心]
+假期结束，收心归位！
+告诉小孩认真完成假期收心测试，
+试卷答完后，拍照回传到本交流群，
+帮助孩子快速调整状态，元气满满迎接新学期！[加油][加油][加油]
+```
+[2026寒假收心考--初一语文试题(1)](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/sunbo/2026寒假收心考--初一语文试题(1).pdf)
+
+```
 2026.02.26语文课堂反馈
 一、课堂内容
 1.讲作业--记叙文答疑
