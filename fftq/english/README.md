@@ -11,6 +11,17 @@
 ## Yeki
 
 ```
+@Hero妈妈 Hero课内文章理解全对[强]细节关注正确！
+词汇题单全对[机智]对词性词意和用法掌握熟练。
+语法题单过去进行时与一般过去时结构书写正确，区分使用语境和表达倾向辨别准确。
+需要重点强调的是时间状语从句的难点while后接过去进行时，是固定的时态。
+练习册中也需要关注while接过去进行时的固定表达。动词过去式双写尾字母的变化规则。频率副词rarely重点记忆。逻辑性排序题，除between外，还可以使用before/after。
+```
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/english/res/20260227/Weixin%20Image_20260227202357_266_14.jpg)
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/english/res/20260227/Weixin%20Image_20260227202359_267_14.jpg)
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/english/res/20260227/Weixin%20Image_20260227202359_268_14.jpg)
+
+```
 今天完成U8-4课
 内容反馈：
 1. 回顾Sporting fails文章的短语，在文中进行检索和记忆。借助文章内容讲解语法项目。
@@ -25,7 +36,7 @@ while+过去进行时
 [Think Level 1-Page 78 Unit 8 Sporting Fails.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/english/res/20260214/Think%20Level%201-Page%2078%20Unit%208%20Sporting%20Fails.pdf)
 [Thk2e_BrE_L1_Grammar_Standard_Unit_8.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/english/res/20260214/Thk2e_BrE_L1_Grammar_Standard_Unit_8.pdf)
 [Thk2e_BrE_L1_Vocabulary_Standard_Unit_8.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/english/res/20260214/Thk2e_BrE_L1_Vocabulary_Standard_Unit_8.pdf)
-[Thk2e_BrE_L1_WB_Unit_08_p078_t02.mp3](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/english/res/20260214/Thk2e_BrE_L1_WB_Unit_08_p078_t02.mp3)
-[Thk2e_BrE_L1_WB_Unit_08_p078_t03.mp3](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/english/res/20260214/Thk2e_BrE_L1_WB_Unit_08_p078_t03.mp3)
+[Thk2e_BrE_L1_WB_Unit_08_p078_t02.mp3](res/20260214/Thk2e_BrE_L1_WB_Unit_08_p078_t02.mp3)
+[Thk2e_BrE_L1_WB_Unit_08_p078_t03.mp3](res/20260214/Thk2e_BrE_L1_WB_Unit_08_p078_t03.mp3)
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/english/res/20260214/Weixin%20Image_2026-02-23_184146_076.jpg)
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/english/res/20260214/Weixin%20Image_20260223184208.jpg)
