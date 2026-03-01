@@ -1,6 +1,6 @@
 # Chinese
 
-- [School](#School)、[Sunbo](#Sunbo)
+- [School](#school)、[Sunbo](#sunbo)
 
 ## School
 

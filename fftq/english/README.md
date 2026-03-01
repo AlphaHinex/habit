@@ -1,5 +1,7 @@
 # English
 
+- [School](#school)、[Yeki](#yeki)
+
 ## School
 
 ![](res/20260224/Weixin%20Image_20260224132312_546_280.jpg)
@@ -9,6 +11,24 @@
 [7A期末复习材料教师版.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/english/res/20260224/7A期末复习材料教师版.pdf)
 
 ## Yeki
+
+```
+今天完成U8-5课
+内容反馈：
+1.学习文章“The wonderful world of sport”。culture主题下学习四个不常见的运动活动。从“运动地区、发源地、运动项目的融合特点、运动形式、比赛的的获胜条件”这些方面去了解运动内容。
+模块内容的总结和提炼是练习重点。文章中的意群理解正确，在语句整合部分重点练习。
+2. 完成culture文章中关键词的英文释义对应。对文章细节进行表达，练习借助文章语句的信息，组织个人表达语句，运用正确的时态和词汇短语用法。
+作业：
+1.熟读80页课文，选择一个段落背诵
+2.书82.83页
+3.练习册79.80页
+```
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/english/res/20260228/Weixin%20Image_20260228193153_286_14.jpg)
+[Thk2e_BrE_L1_SB_Unit_8_p080_t06.mp3](res/20260228/Thk2e_BrE_L1_SB_Unit_8_p080_t06.mp3)
+[Thk2e_BrE_L1_SB_Unit_8_p082_t07.mp3](res/20260228/Thk2e_BrE_L1_SB_Unit_8_p082_t07.mp3)
+[Thk2e_BrE_L1_WB_Unit_08_p079_t04.mp3](res/20260228/Thk2e_BrE_L1_WB_Unit_08_p079_t04.mp3)
+[Thk2e_BrE_L1_WB_Unit_08_p079_t05.mp3](res/20260228/Thk2e_BrE_L1_WB_Unit_08_p079_t05.mp3)
+[Thk2e_BrE_L1_WB_Unit_08_p080_t07.mp3](res/20260228/Thk2e_BrE_L1_WB_Unit_08_p080_t07.mp3)
 
 ```
 @Hero妈妈 Hero课内文章理解全对[强]细节关注正确！
