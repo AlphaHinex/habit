@@ -1,5 +1,7 @@
 # Chinese
 
+- [School](#School)、[Sunbo](#Sunbo)
+
 ## School
 
 语文寒假作业详解答案
@@ -25,6 +27,23 @@
 1. [答案二十.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案二十.pdf)
 
 ## Sunbo
+
+```
+何英睿同学2026年2月语文课月反馈
+2月实际课时：8
+一、学习内容
+记叙文阅读查缺补漏
+七下古诗文复习与讲解
+二、阶段总结
+1.上课认真态度还有作业完成情况都还算可以，继续保持哈～
+2.答题技巧全面性还要继续提高，不能写完就拉倒了，需要多总结多去思考题型问法，不能所答非所问
+3.古诗文背诵要继续加强～课下注释精准背诵～
+三、3月教学计划
+记叙文查缺补漏
+学过的古诗文复习
+语法与标点符号
+```
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/chinese/res/sunbo/Weixin%20Image_20260228200741_85_630.jpg)
 
 ```
 2026.02.28语文课堂反馈
