@@ -28,6 +28,7 @@
 [Thk2e_BrE_L1_SB_Unit_8_p082_t07.mp3](res/20260228/Thk2e_BrE_L1_SB_Unit_8_p082_t07.mp3)
 [Thk2e_BrE_L1_WB_Unit_08_p079_t04.mp3](res/20260228/Thk2e_BrE_L1_WB_Unit_08_p079_t04.mp3)
 [Thk2e_BrE_L1_WB_Unit_08_p079_t05.mp3](res/20260228/Thk2e_BrE_L1_WB_Unit_08_p079_t05.mp3)
+[Thk2e_BrE_L1_WB_Unit_08_p079_t06.mp3](res/20260228/Thk2e_BrE_L1_WB_Unit_08_p079_t06.mp3)
 [Thk2e_BrE_L1_WB_Unit_08_p080_t07.mp3](res/20260228/Thk2e_BrE_L1_WB_Unit_08_p080_t07.mp3)
 
 ```
