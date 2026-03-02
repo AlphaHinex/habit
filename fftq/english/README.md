@@ -24,12 +24,12 @@
 3.练习册79.80页
 ```
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/english/res/20260228/Weixin%20Image_20260228193153_286_14.jpg)
-[Thk2e_BrE_L1_SB_Unit_8_p080_t06.mp3](res/20260228/Thk2e_BrE_L1_SB_Unit_8_p080_t06.mp3)
-[Thk2e_BrE_L1_SB_Unit_8_p082_t07.mp3](res/20260228/Thk2e_BrE_L1_SB_Unit_8_p082_t07.mp3)
-[Thk2e_BrE_L1_WB_Unit_08_p079_t04.mp3](res/20260228/Thk2e_BrE_L1_WB_Unit_08_p079_t04.mp3)
-[Thk2e_BrE_L1_WB_Unit_08_p079_t05.mp3](res/20260228/Thk2e_BrE_L1_WB_Unit_08_p079_t05.mp3)
-[Thk2e_BrE_L1_WB_Unit_08_p079_t06.mp3](res/20260228/Thk2e_BrE_L1_WB_Unit_08_p079_t06.mp3)
-[Thk2e_BrE_L1_WB_Unit_08_p080_t07.mp3](res/20260228/Thk2e_BrE_L1_WB_Unit_08_p080_t07.mp3)
+- [Thk2e_BrE_L1_SB_Unit_8_p080_t06.mp3](res/20260228/Thk2e_BrE_L1_SB_Unit_8_p080_t06.mp3)
+- [Thk2e_BrE_L1_SB_Unit_8_p082_t07.mp3](res/20260228/Thk2e_BrE_L1_SB_Unit_8_p082_t07.mp3)
+- [Thk2e_BrE_L1_WB_Unit_08_p079_t04.mp3](res/20260228/Thk2e_BrE_L1_WB_Unit_08_p079_t04.mp3)
+- [Thk2e_BrE_L1_WB_Unit_08_p079_t05.mp3](res/20260228/Thk2e_BrE_L1_WB_Unit_08_p079_t05.mp3)
+- [Thk2e_BrE_L1_WB_Unit_08_p079_t06.mp3](res/20260228/Thk2e_BrE_L1_WB_Unit_08_p079_t06.mp3)
+- [Thk2e_BrE_L1_WB_Unit_08_p080_t07.mp3](res/20260228/Thk2e_BrE_L1_WB_Unit_08_p080_t07.mp3)
 
 ```
 @Hero妈妈 Hero课内文章理解全对[强]细节关注正确！
@@ -54,10 +54,10 @@ while+过去进行时
 1.完成题单
 2.练习册73.78页
 ```
-[Think Level 1-Page 78 Unit 8 Sporting Fails.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/english/res/20260214/Think%20Level%201-Page%2078%20Unit%208%20Sporting%20Fails.pdf)
-[Thk2e_BrE_L1_Grammar_Standard_Unit_8.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/english/res/20260214/Thk2e_BrE_L1_Grammar_Standard_Unit_8.pdf)
-[Thk2e_BrE_L1_Vocabulary_Standard_Unit_8.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/english/res/20260214/Thk2e_BrE_L1_Vocabulary_Standard_Unit_8.pdf)
-[Thk2e_BrE_L1_WB_Unit_08_p078_t02.mp3](res/20260214/Thk2e_BrE_L1_WB_Unit_08_p078_t02.mp3)
-[Thk2e_BrE_L1_WB_Unit_08_p078_t03.mp3](res/20260214/Thk2e_BrE_L1_WB_Unit_08_p078_t03.mp3)
+- [Think Level 1-Page 78 Unit 8 Sporting Fails.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/english/res/20260214/Think%20Level%201-Page%2078%20Unit%208%20Sporting%20Fails.pdf)
+- [Thk2e_BrE_L1_Grammar_Standard_Unit_8.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/english/res/20260214/Thk2e_BrE_L1_Grammar_Standard_Unit_8.pdf)
+- [Thk2e_BrE_L1_Vocabulary_Standard_Unit_8.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/english/res/20260214/Thk2e_BrE_L1_Vocabulary_Standard_Unit_8.pdf)
+- [Thk2e_BrE_L1_WB_Unit_08_p078_t02.mp3](res/20260214/Thk2e_BrE_L1_WB_Unit_08_p078_t02.mp3)
+- [Thk2e_BrE_L1_WB_Unit_08_p078_t03.mp3](res/20260214/Thk2e_BrE_L1_WB_Unit_08_p078_t03.mp3)
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/english/res/20260214/Weixin%20Image_2026-02-23_184146_076.jpg)
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/english/res/20260214/Weixin%20Image_20260223184208.jpg)
