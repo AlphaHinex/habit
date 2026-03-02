@@ -4,7 +4,12 @@
 
 ## School
 
-![](res/20260224/Weixin%20Image_20260224132312_546_280.jpg)
+今日英语笔记
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/english/res/7b/Weixin%20Image_20260302195222_572_280.jpg)
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/english/res/7b/Weixin%20Image_20260302195224_573_280.jpg)
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/english/res/7b/Weixin%20Image_20260302195226_574_280.jpg)
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/english/res/20260224/Weixin%20Image_20260224132312_546_280.jpg)
 ```
 此项作业答案[玫瑰]
 ```

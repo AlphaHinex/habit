@@ -4,6 +4,9 @@
 
 ## School
 
+![今日语文笔记](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/chinese/res/7b/Weixin%20Image_20260302194703_563_280.jpg)
+
+
 语文寒假作业详解答案
 1. [答案一.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案一.pdf)
 1. [答案二.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案二.pdf)
