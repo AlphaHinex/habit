@@ -6,6 +6,8 @@
 
 # Notification
 
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/Weixin%20Image_20260302181411_558_280.jpg)
+
 这部分内容应该是寒假作业大本的p146~p148，按要求整理好明天上交。[玫瑰]
 > 🌹请各位学生自行将寒假作业中的心理作业部分裁剪下来，填好班级姓名，开学上交。
 
