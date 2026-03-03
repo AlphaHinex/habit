@@ -1,10 +1,19 @@
-![课表](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/7b.jpg)
-
+- [课程表](#schedule)
 - [数学](./math/)、[语文](./chinese/)、[英语](./english/)
 - [历史](./history/)、[地理](./geography/)、[政治](./politics/)、[生物](./biology/)
 - [物理](./physics/)、[化学](./chemistry/)
 
 # Notification
+
+今日下发一张课后服务单，按要求填好明天带回上交。@所有人 
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/Weixin%20Image_20260303145211_590_280.jpg)
+
+[3.3小测](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/3.3小测.pdf)
+低于20（含）20的打印重考，明天带回上交。
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/Weixin%20Image_20260303121215_584_280.jpg)
+
+
+今天开始每天早上来了有统一任务，请孩子们务必按时到校，今日几个孩子来的有点晚，请家长再督促重视[抱拳]
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/Weixin%20Image_20260302181411_558_280.jpg)
 
@@ -34,3 +43,7 @@
 @所有人 
  通知: 3月2号开学上课，假期余额仅剩一周，请大家按时完成假期作业，调整作息，以良好精神面貌迎接新学期[拥抱]
 ```
+
+## Schedule
+
+![7b课表](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/7b.jpg)
