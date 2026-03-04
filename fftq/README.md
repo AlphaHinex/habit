@@ -5,6 +5,8 @@
 
 # Notification
 
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/Weixin%20Image_20260304181245_614_280.jpg)
+
 今日下发一张课后服务单，按要求填好明天带回上交。@所有人 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/Weixin%20Image_20260303145211_590_280.jpg)
 
