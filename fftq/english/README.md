@@ -4,6 +4,11 @@
 
 ## School
 
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/english/res/7b/20260304/Weixin%20Image_20260304193300_628_280.jpg)
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/english/res/7b/20260304/Weixin%20Image_20260304193301_629_280.jpg)
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/english/res/7b/20260304/Weixin%20Image_20260304193302_630_280.jpg)
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/english/res/7b/20260304/Weixin%20Image_20260304193303_631_280.jpg)
+
 今日英语笔记
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/english/res/7b/Weixin%20Image_20260302195222_572_280.jpg)
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/english/res/7b/Weixin%20Image_20260302195224_573_280.jpg)
