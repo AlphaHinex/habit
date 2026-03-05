@@ -41,10 +41,8 @@ type GitHubUploadResponse struct {
 }
 
 type GitHubFileResponse struct {
-	Content struct {
-		Content string `json:"content"`
-		SHA     string `json:"sha"`
-	} `json:"content"`
+	Content string `json:"content"`
+	SHA     string `json:"sha"`
 }
 
 func getFileFromMsg(client *lark.Client, msgId, key, fileType string) ([]byte, error) {
