@@ -40,6 +40,13 @@ type GitHubUploadResponse struct {
 	} `json:"content"`
 }
 
+type GitHubFileResponse struct {
+	Content struct {
+		Content string `json:"content"`
+		SHA     string `json:"sha"`
+	} `json:"content"`
+}
+
 func getFileFromMsg(client *lark.Client, msgId, key, fileType string) ([]byte, error) {
 	// 创建请求对象
 	req := larkim.NewGetMessageResourceReqBuilder().
@@ -65,7 +72,7 @@ func getFileFromMsg(client *lark.Client, msgId, key, fileType string) ([]byte, e
 	return resp.RawBody, nil
 }
 
-func uploadFileToGitHub(fileData []byte, fileName string) error {
+func uploadImageToGitHub(imageData []byte, fileName string) error {
 	// GitHub 仓库信息
 	repoOwner := "alphahinex"
 	repoName := "habit"
@@ -81,7 +88,7 @@ func uploadFileToGitHub(fileData []byte, fileName string) error {
 	url := fmt.Sprintf("https://api.github.com/repos/%s/%s/contents/%s", repoOwner, repoName, uploadPath)
 
 	// 准备请求数据
-	content := base64.StdEncoding.EncodeToString(fileData)
+	content := base64.StdEncoding.EncodeToString(imageData)
 	reqBody := GitHubUploadRequest{
 		Message: fmt.Sprintf("Add %s", fileName),
 		Content: content,
@@ -125,6 +132,123 @@ func uploadFileToGitHub(fileData []byte, fileName string) error {
 	return nil
 }
 
+func getFileFromGitHub(fileName string) (string, string, error) {
+	// GitHub 仓库信息
+	repoOwner := "alphahinex"
+	repoName := "habit"
+	token := os.Getenv("GITHUB_TOKEN")
+	if token == "" {
+		return "", "", fmt.Errorf("GITHUB_TOKEN environment variable not set")
+	}
+
+	// 构建 GitHub API URL
+	url := fmt.Sprintf("https://api.github.com/repos/%s/%s/contents/%s", repoOwner, repoName, fileName)
+
+	// 创建 HTTP 客户端
+	client := &http.Client{}
+
+	// 创建请求
+	req, err := http.NewRequest("GET", url, nil)
+	if err != nil {
+		return "", "", err
+	}
+
+	// 添加认证头
+	req.Header.Add("Authorization", fmt.Sprintf("token %s", token))
+	req.Header.Add("Content-Type", "application/json")
+
+	// 发送请求
+	resp, err := client.Do(req)
+	if err != nil {
+		return "", "", err
+	}
+	defer resp.Body.Close()
+
+	// 检查响应状态码
+	if resp.StatusCode != http.StatusOK {
+		// 读取错误响应
+		errBody, _ := io.ReadAll(resp.Body)
+		return "", "", fmt.Errorf("failed to get file, status code: %d, error: %s", resp.StatusCode, string(errBody))
+	}
+
+	// 解析响应
+	var fileResp GitHubFileResponse
+	err = json.NewDecoder(resp.Body).Decode(&fileResp)
+	if err != nil {
+		return "", "", err
+	}
+
+	// 解码内容
+	content, err := base64.StdEncoding.DecodeString(fileResp.Content.Content)
+	if err != nil {
+		return "", "", err
+	}
+
+	return string(content), fileResp.Content.SHA, nil
+}
+
+func updateFileOnGitHub(fileName, content, sha string) error {
+	// GitHub 仓库信息
+	repoOwner := "alphahinex"
+	repoName := "habit"
+	token := os.Getenv("GITHUB_TOKEN")
+	if token == "" {
+		return fmt.Errorf("GITHUB_TOKEN environment variable not set")
+	}
+
+	// 构建 GitHub API URL
+	url := fmt.Sprintf("https://api.github.com/repos/%s/%s/contents/%s", repoOwner, repoName, fileName)
+
+	// 准备请求数据
+	reqBody := struct {
+		Message string `json:"message"`
+		Content string `json:"content"`
+		SHA     string `json:"sha"`
+		Branch  string `json:"branch"`
+	}{
+		Message: "Update",
+		Content: base64.StdEncoding.EncodeToString([]byte(content)),
+		SHA:     sha,
+		Branch:  "master",
+	}
+
+	// 编码请求体
+	reqBodyJSON, err := json.Marshal(reqBody)
+	if err != nil {
+		return err
+	}
+
+	// 创建 HTTP 客户端
+	client := &http.Client{}
+
+	// 创建请求
+	req, err := http.NewRequest("PUT", url, nil)
+	if err != nil {
+		return err
+	}
+	req.Body = io.NopCloser(strings.NewReader(string(reqBodyJSON)))
+
+	// 添加认证头
+	req.Header.Add("Authorization", fmt.Sprintf("token %s", token))
+	req.Header.Add("Content-Type", "application/json")
+
+	// 发送请求
+	resp, err := client.Do(req)
+	if err != nil {
+		return err
+	}
+	defer resp.Body.Close()
+
+	// 检查响应状态码
+	if resp.StatusCode != http.StatusOK {
+		// 读取错误响应
+		errBody, _ := io.ReadAll(resp.Body)
+		return fmt.Errorf("failed to update, status code: %d, error: %s", resp.StatusCode, string(errBody))
+	}
+
+	return nil
+}
+
 func main() {
 	appID := os.Getenv("APP_ID")
 	appSecret := os.Getenv("APP_SECRET")
@@ -159,13 +283,34 @@ func main() {
 						// 生成文件名
 						fileName := fmt.Sprintf("%d.jpg", time.Now().Unix())
 
-						//上传到 GitHub
-						err = uploadFileToGitHub(imageData, fileName)
-						if err != nil {
-							fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to upload image: %v\n", err)
-						} else {
-							fmt.Printf("[ OnP2MessageReceiveV1 access ], image uploaded successfully: %s\n", fileName)
-						}
+						// 异步上传到 GitHub
+						go func() {
+							err = uploadImageToGitHub(imageData, fileName)
+							if err != nil {
+								fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to upload image: %v\n", err)
+							} else {
+								fmt.Printf("[ OnP2MessageReceiveV1 access ], image uploaded successfully: %s\n", fileName)
+
+								fileContent, sha, err := getFileFromGitHub("fftq/notification.md")
+								if err != nil {
+									fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to get file: %v\n", err)
+									return
+								}
+
+								// 在文件最前面添加新图片
+								imageURL := fmt.Sprintf("https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/%s/%s",
+									time.Now().Format("20060102"), fileName)
+								newContent := fmt.Sprintf("![](%s)\n\n%s", imageURL, fileContent)
+
+								// 上传更新后的文件
+								err = updateFileOnGitHub("fftq/notification.md", newContent, sha)
+								if err != nil {
+									fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to update file: %v\n", err)
+								} else {
+									fmt.Printf("[ OnP2MessageReceiveV1 access ], file updated successfully\n")
+								}
+							}
+						}()
 					}
 				}
 			}
