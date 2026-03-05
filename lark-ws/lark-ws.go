@@ -298,7 +298,7 @@ func main() {
 								// 在文件最前面添加新图片
 								imageURL := fmt.Sprintf("https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/%s/%s",
 									time.Now().Format("20060102"), fileName)
-								newContent := fmt.Sprintf("![%s](%s)\n\n%s", time.Now().UTC().Format("2006-01-02 15:04 UTC"), imageURL, fileContent)
+								newContent := fmt.Sprintf("%s\n![](%s)\n\n%s", time.Now().UTC().Format("2006-01-02 15:04 UTC"), imageURL, fileContent)
 
 								// 上传更新后的文件
 								err = updateFileOnGitHub("fftq/notification.md", newContent, sha)
