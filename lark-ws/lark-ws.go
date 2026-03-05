@@ -177,12 +177,12 @@ func getFileFromGitHub(fileName string) (string, string, error) {
 	}
 
 	// 解码内容
-	content, err := base64.StdEncoding.DecodeString(fileResp.Content.Content)
+	content, err := base64.StdEncoding.DecodeString(fileResp.Content)
 	if err != nil {
 		return "", "", err
 	}
 
-	return string(content), fileResp.Content.SHA, nil
+	return string(content), fileResp.SHA, nil
 }
 
 func updateFileOnGitHub(fileName, content, sha string) error {
