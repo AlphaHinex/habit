@@ -1,4 +1,7 @@
 2026-03-06 10:05 UTC
+[第一课.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260306/第一课.pdf)
+
+2026-03-06 10:05 UTC
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260306/1772791519.jpg)
 
 2026-03-06 09:53 UTC
