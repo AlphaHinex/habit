@@ -1,3 +1,8 @@
+2026-03-06 10:09 UTC
+```
+昨日英语小单，没掌握好的孩子可以利用周末时间复盘重考🌹
+```
+
 2026-03-06 10:05 UTC
 [第一课.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260306/第一课.pdf)
 
