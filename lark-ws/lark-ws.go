@@ -27,17 +27,15 @@ type ImgMsg struct {
 	ImageKey string `json:"image_key"`
 }
 
+type FileMsg struct {
+	FileKey  string `json:"file_key"`
+	FileName string `json:"file_name"`
+}
+
 type GitHubUploadRequest struct {
 	Message string `json:"message"`
 	Content string `json:"content"`
 	Branch  string `json:"branch"`
-}
-
-type GitHubUploadResponse struct {
-	Content struct {
-		Name string `json:"name"`
-		Path string `json:"path"`
-	} `json:"content"`
 }
 
 type GitHubFileResponse struct {
@@ -70,7 +68,7 @@ func getFileFromMsg(client *lark.Client, msgId, key, fileType string) ([]byte, e
 	return resp.RawBody, nil
 }
 
-func uploadImageToGitHub(imageData []byte, fileName string) error {
+func uploadFileToGitHub(fileData []byte, fileName string) error {
 	// GitHub 仓库信息
 	repoOwner := "alphahinex"
 	repoName := "habit"
@@ -86,7 +84,7 @@ func uploadImageToGitHub(imageData []byte, fileName string) error {
 	url := fmt.Sprintf("https://api.github.com/repos/%s/%s/contents/%s", repoOwner, repoName, uploadPath)
 
 	// 准备请求数据
-	content := base64.StdEncoding.EncodeToString(imageData)
+	content := base64.StdEncoding.EncodeToString(fileData)
 	reqBody := GitHubUploadRequest{
 		Message: fmt.Sprintf("Add %s", fileName),
 		Content: content,
@@ -267,6 +265,27 @@ func main() {
 			err := json.Unmarshal([]byte(*content), &textMsg)
 			if err == nil && len(textMsg.Text) > 0 {
 				fmt.Printf("[ OnP2MessageReceiveV1 access ], text: %s\n", textMsg.Text)
+				go func() {
+					fileContent, sha, err := getFileFromGitHub("fftq/notification.md")
+					if err != nil {
+						fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to get file: %v\n", err)
+						return
+					}
+
+					addToHead := fmt.Sprintf("```\n%s\n```", textMsg.Text)
+					newContent := fmt.Sprintf("%s\n%s\n\n%s",
+						time.Now().UTC().Format("2006-01-02 15:04 UTC"),
+						addToHead,
+						fileContent)
+
+					// 上传更新后的文件
+					err = updateFileOnGitHub("fftq/notification.md", newContent, sha)
+					if err != nil {
+						fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to update file: %v\n", err)
+					} else {
+						fmt.Printf("[ OnP2MessageReceiveV1 access ], file updated successfully\n")
+					}
+				}()
 			} else {
 				var imgMsg ImgMsg
 				err = json.Unmarshal([]byte(*content), &imgMsg)
@@ -283,7 +302,7 @@ func main() {
 
 						// 异步上传到 GitHub
 						go func() {
-							err = uploadImageToGitHub(imageData, fileName)
+							err = uploadFileToGitHub(imageData, fileName)
 							if err != nil {
 								fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to upload image: %v\n", err)
 							} else {
@@ -309,6 +328,45 @@ func main() {
 								}
 							}
 						}()
+					}
+				} else {
+					var fileMsg FileMsg
+					err = json.Unmarshal([]byte(*content), &fileMsg)
+					if err == nil && len(fileMsg.FileKey) > 0 {
+						fileData, err := getFileFromMsg(client, msgId, fileMsg.FileKey, "file")
+						if err != nil {
+							fmt.Printf("[File Message] could not get file: %v\n", err)
+						} else {
+							go func() {
+								err = uploadFileToGitHub(fileData, fileMsg.FileName)
+								if err != nil {
+									fmt.Printf("[File Message] failed to upload file: %v\n", err)
+								} else {
+									fileContent, sha, err := getFileFromGitHub("fftq/notification.md")
+									if err != nil {
+										fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to get file: %v\n", err)
+										return
+									}
+
+									addToHead := fmt.Sprintf("[%s](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/%s/%s)",
+										fileMsg.FileName,
+										time.Now().Format("20060102"),
+										fileMsg.FileName)
+									newContent := fmt.Sprintf("%s\n%s\n\n%s",
+										time.Now().UTC().Format("2006-01-02 15:04 UTC"),
+										addToHead,
+										fileContent)
+
+									// 上传更新后的文件
+									err = updateFileOnGitHub("fftq/notification.md", newContent, sha)
+									if err != nil {
+										fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to update file: %v\n", err)
+									} else {
+										fmt.Printf("[ OnP2MessageReceiveV1 access ], file updated successfully\n")
+									}
+								}
+							}()
+						}
 					}
 				}
 			}
