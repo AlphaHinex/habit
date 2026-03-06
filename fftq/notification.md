@@ -1,4 +1,7 @@
 2026-03-06 10:09 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260306/1772791754.jpg)
+
+2026-03-06 10:09 UTC
 [3.5小测.docx](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260306/3.5小测.docx)
 
 2026-03-06 10:09 UTC
