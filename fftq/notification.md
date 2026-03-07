@@ -1,3 +1,8 @@
+2026-03-07 00:59 UTC
+```
+@Hero妈妈 Hero练习题中通知信息内容解读在图片中标注出来了，可以重新判断。词汇题错题在于词意掌握不准确，建议强化单词词意。语法项目-时间状语条件句，when/while作为关键词的识别，后接不同时态。
+```
+
 2026-03-06 13:09 UTC
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260306/1772802546.jpg)
 
