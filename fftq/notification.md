@@ -1,4 +1,9 @@
 2026-03-12 10:06 UTC
+```
+数学今日练习小单
+```
+
+2026-03-12 10:06 UTC
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260312/1773309977.jpg)
 
 2026-03-11 13:30 UTC
