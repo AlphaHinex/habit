@@ -1,3 +1,11 @@
+2026-03-15 08:58 UTC
+```
+@所有人  
+🌹明早按时到校，到校有学习任务不要迟到。
+🌹明天有语、数、英、地、道，带好各科材料及周末作业。带桌布。
+🌹道法第二课笔记对照群里补全，明早检查。
+```
+
 2026-03-15 03:19 UTC
 [第二课.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260315/第二课.pdf)
 
