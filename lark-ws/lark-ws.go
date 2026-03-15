@@ -44,9 +44,9 @@ type GitHubFileResponse struct {
 }
 
 const (
-	processingEmojiType = "HOURGLASS"
+	processingEmojiType = "Typing"
 	doneEmojiType       = "DONE"
-	failedEmojiType     = "CROSS_MARK"
+	failedEmojiType     = "SWEAT"
 )
 
 func getFileFromMsg(client *lark.Client, msgId, key, fileType string) ([]byte, error) {
@@ -264,7 +264,7 @@ func addMessageReaction(client *lark.Client, msgID, emojiType string) (string, e
 		return "", err
 	}
 	if !resp.Success() {
-		return "", fmt.Errorf("failed to add reaction, code: %d, msg: %s", resp.Code, resp.Msg)
+		return "", fmt.Errorf("failed to add reaction %s, code: %d, msg: %s", emojiType, resp.Code, resp.Msg)
 	}
 	if resp.Data == nil || resp.Data.ReactionId == nil {
 		return "", fmt.Errorf("add reaction succeeded but reaction_id is empty")
