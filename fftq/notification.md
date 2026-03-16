@@ -1,4 +1,7 @@
 2026-03-16 02:52 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260316/1773629538.jpg)
+
+2026-03-16 02:52 UTC
 ```
 第2列周五英语虹桥卷（语篇填空和阅读回答问题，满分20）
 ```
