@@ -1,3 +1,6 @@
+2026-03-17 13:19 UTC
+[扫描件_效的防震减灾措施(图8.6)__.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260317/扫描件_效的防震减灾措施(图8.6)__.pdf)
+
 2026-03-17 12:13 UTC
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260317/1773749613.jpg)
 
