@@ -1,4 +1,7 @@
 2026-03-17 06:31 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260317/1773729099.jpg)
+
+2026-03-17 06:31 UTC
 ```
 右1英语二单元书后单词短语，错超过10的（含10）打印重考明天交
 ```
