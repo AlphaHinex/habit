@@ -1,4 +1,10 @@
 2026-03-18 06:16 UTC
+```
+生物单元练习情况：
+黄色为满分💯，其他为错误情况，错误4个以上的孩子需要加强
+```
+
+2026-03-18 06:16 UTC
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260318/1773814575.jpg)
 
 2026-03-17 13:19 UTC
