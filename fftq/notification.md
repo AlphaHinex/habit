@@ -1,3 +1,6 @@
+2026-03-20 11:01 UTC
+[第三课.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260320/第三课.pdf)
+
 2026-03-19 13:12 UTC
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260319/1773925933.jpg)
 
