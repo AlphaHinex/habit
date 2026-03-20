@@ -1,4 +1,7 @@
 2026-03-20 13:29 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260320/1774013398.jpg)
+
+2026-03-20 13:29 UTC
 ```
 表扬英睿今天上课状态不错，已经可以和我“有来有回”的“回合讨论”了[强]
 也能主动提出来觉得《爱莲说》的内容练得不是很好[强]这个意识特别好[强]
