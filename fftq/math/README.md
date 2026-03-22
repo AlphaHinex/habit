@@ -1,3 +1,8 @@
+2026年3月22日 12:52 星期一
+```
+hi in math
+```
+
 # Math
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/math/res/7b/20260304/Weixin%20Image_20260304191056_621_280.jpg)
