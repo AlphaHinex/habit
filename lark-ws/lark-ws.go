@@ -19,6 +19,28 @@ import (
 	larkws "github.com/larksuite/oapi-sdk-go/v3/ws"
 )
 
+const defaultFilePath = "fftq/notification.md"
+
+var chatFileMapping = map[string]string{
+	"oc_86009321961989ec141e138603f8e0ff": "fftq/notification.md",
+	"oc_6e754653563a3bc4389685bbcb827ef9": "fftq/math/README.md",
+	"oc_a42457d41b102a9c41037f59bca87690": "fftq/chinese/README.md",
+	"oc_d97fb0698c3ab44768be8d50b50449db": "fftq/english/README.md",
+	"oc_278b9f093001b2599f3538bdba90f996": "fftq/history/README.md",
+	"oc_3399ab117e474a4cd2aa19e86cecc406": "fftq/geography/README.md",
+	"oc_03d353dc045eff4e5f839c5a801cafa3": "fftq/politics/README.md",
+	"oc_89af8d0f5c394beffe5f37cdc222b368": "fftq/biology/README.md",
+	"oc_41714f8617f6deee229120fa017579ac": "fftq/physics/README.md",
+	"oc_4984297ba6420c73617635e77a059843": "fftq/chemistry/README.md",
+}
+
+func getFilePath(chatId string) string {
+	if path, ok := chatFileMapping[chatId]; ok {
+		return path
+	}
+	return defaultFilePath
+}
+
 type TextMsg struct {
 	Text string `json:"text"`
 }
@@ -332,6 +354,10 @@ func main() {
 
 			msgID := *event.Event.Message.MessageId
 			rawContent := *event.Event.Message.Content
+			var chatId string
+			if event.Event.Message.ChatId != nil {
+				chatId = *event.Event.Message.ChatId
+			}
 
 			go func() {
 				finalEmojiType := doneEmojiType
@@ -350,7 +376,7 @@ func main() {
 				if err := json.Unmarshal([]byte(rawContent), &textMsg); err == nil && len(textMsg.Text) > 0 {
 					fmt.Printf("[ OnP2MessageReceiveV1 access ], text: %s\n", textMsg.Text)
 
-					fileContent, sha, err := getFileFromGitHub("fftq/notification.md")
+					fileContent, sha, err := getFileFromGitHub(getFilePath(chatId))
 					if err != nil {
 						finalEmojiType = failedEmojiType
 						fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to get file: %v\n", err)
@@ -358,12 +384,13 @@ func main() {
 					}
 
 					addToHead := fmt.Sprintf("```\n%s\n```", textMsg.Text)
+					loc, _ := time.LoadLocation("Asia/Shanghai")
 					newContent := fmt.Sprintf("%s\n%s\n\n%s",
-						time.Now().UTC().Format("2006-01-02 15:04 UTC"),
+						time.Now().In(loc).Format("2006年1月2日 15:04 星期一"),
 						addToHead,
 						fileContent)
 
-					if err := updateFileOnGitHub("fftq/notification.md", newContent, sha); err != nil {
+					if err := updateFileOnGitHub(getFilePath(chatId), newContent, sha); err != nil {
 						finalEmojiType = failedEmojiType
 						fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to update file: %v\n", err)
 					} else {
@@ -371,7 +398,6 @@ func main() {
 					}
 					return
 				}
-
 				var imgMsg ImgMsg
 				if err := json.Unmarshal([]byte(rawContent), &imgMsg); err == nil && len(imgMsg.ImageKey) > 0 {
 					fmt.Printf("[ OnP2MessageReceiveV1 access ], image_key: %s\n", imgMsg.ImageKey)
@@ -392,7 +418,7 @@ func main() {
 
 					fmt.Printf("[ OnP2MessageReceiveV1 access ], image uploaded successfully: %s\n", fileName)
 
-					fileContent, sha, err := getFileFromGitHub("fftq/notification.md")
+					fileContent, sha, err := getFileFromGitHub(getFilePath(chatId))
 					if err != nil {
 						finalEmojiType = failedEmojiType
 						fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to get file: %v\n", err)
@@ -401,9 +427,10 @@ func main() {
 
 					imageURL := fmt.Sprintf("https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/%s/%s",
 						time.Now().Format("20060102"), fileName)
-					newContent := fmt.Sprintf("%s\n![](%s)\n\n%s", time.Now().UTC().Format("2006-01-02 15:04 UTC"), imageURL, fileContent)
+					loc, _ := time.LoadLocation("Asia/Shanghai")
+					newContent := fmt.Sprintf("%s\n![](%s)\n\n%s", time.Now().In(loc).Format("2006年1月2日 15:04 星期一"), imageURL, fileContent)
 
-					if err := updateFileOnGitHub("fftq/notification.md", newContent, sha); err != nil {
+					if err := updateFileOnGitHub(getFilePath(chatId), newContent, sha); err != nil {
 						finalEmojiType = failedEmojiType
 						fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to update file: %v\n", err)
 					} else {
@@ -427,7 +454,7 @@ func main() {
 						return
 					}
 
-					fileContent, sha, err := getFileFromGitHub("fftq/notification.md")
+					fileContent, sha, err := getFileFromGitHub(getFilePath(chatId))
 					if err != nil {
 						finalEmojiType = failedEmojiType
 						fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to get file: %v\n", err)
@@ -438,12 +465,13 @@ func main() {
 						fileMsg.FileName,
 						time.Now().Format("20060102"),
 						fileMsg.FileName)
+					loc, _ := time.LoadLocation("Asia/Shanghai")
 					newContent := fmt.Sprintf("%s\n%s\n\n%s",
-						time.Now().UTC().Format("2006-01-02 15:04 UTC"),
+						time.Now().In(loc).Format("2006年1月2日 15:04 星期一"),
 						addToHead,
 						fileContent)
 
-					if err := updateFileOnGitHub("fftq/notification.md", newContent, sha); err != nil {
+					if err := updateFileOnGitHub(getFilePath(chatId), newContent, sha); err != nil {
 						finalEmojiType = failedEmojiType
 						fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to update file: %v\n", err)
 					} else {
