@@ -273,8 +273,9 @@ func main() {
 					}
 
 					addToHead := fmt.Sprintf("```\n%s\n```", textMsg.Text)
+					loc, _ := time.LoadLocation("Asia/Shanghai")
 					newContent := fmt.Sprintf("%s\n%s\n\n%s",
-						time.Now().UTC().Format("2006-01-02 15:04 UTC"),
+						time.Now().In(loc).Format("2006年1月2日 15:04 星期一"),
 						addToHead,
 						fileContent)
 
