@@ -29,7 +29,98 @@
 1. [答案十九.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案十九.pdf)
 1. [答案二十.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案二十.pdf)
 
+2026-03-07 09:45 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260307/1772876732.jpg)
+
+2026-03-09 10:59 UTC
+```
+语文卷纸答案
+```
+
+2026-03-09 10:59 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260309/1773053960.jpg)
+
+2026-03-09 10:59 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260309/1773053953.jpg)
+
+2026-03-09 10:59 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260309/1773053947.jpg)
+
+2026-03-09 10:59 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260309/1773053939.jpg)
+
+2026-03-11 13:30 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260311/1773235812.jpg)
+
+2026-03-12 11:49 UTC
+```
+今日语文笔记
+```
+
+2026-03-12 11:48 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260312/1773316134.jpg)
+
+2026-03-12 11:48 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260312/1773316125.jpg)
+
+
+2026-03-15 12:39 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260315/1773578359.jpg)
+
+2026-03-15 12:39 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260315/1773578342.jpg)
+
+
+2026-03-16 12:10 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260316/1773663041.jpg)
+
+2026-03-16 12:10 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260316/1773663029.jpg)
+
+
+
+2026-03-19 09:38 UTC
+```
+语文环境描写的作用，背诵，明天抽查。
+```
+
+2026-03-19 09:37 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260319/1773913073.jpg)
+
+2026-03-18 12:51 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260318/1773838299.jpg)
+
+
+2026-03-19 11:05 UTC
+```
+[太阳]预习的字词
+```
+
+2026-03-19 11:04 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260319/1773918295.jpg)
+
+2026-03-19 11:04 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260319/1773918286.jpg)
+
+
+2026-03-21 08:41 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260321/1774082502.jpg)
+
+
 ## Sunbo
+
+2026-03-06 13:09 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260306/1772802546.jpg)
+
+2026-03-06 13:08 UTC
+```
+2026.03.06语文课堂反馈
+一、课堂内容
+1.讲套卷作业--各部分答疑
+2.文言文《活板》讲解（剩下一半下周讲）
+二、作业
+打印的套卷完成即可
+```
 
 ```
 何英睿同学2026年2月语文课月反馈
@@ -113,3 +204,60 @@
 2.一篇记叙文阅读
 ```
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/chinese/res/sunbo/Weixin%20Image_20260223182009_21_1.jpg)
+
+
+2026-03-13 12:05 UTC
+```
+2026.03.13语文课堂反馈
+一、课堂内容
+1.讲套卷作业--各部分答疑（注意作业完成质量，这周质量明显不如上周了，学过的答题技巧得写全哈！记得用，不能又按照自己的想法写了！）
+2.文言文《活板》讲解（画的注释是重点，下节课考）
+二、作业
+作文一篇，完成✅
+```
+
+2026-03-13 12:05 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260313/1773403533.jpg)
+
+
+2026-03-18 07:54 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260318/1773820475.jpg)
+
+2026-03-18 07:54 UTC
+```
+英睿周考试卷分析如上↑
+```
+
+2026-03-18 07:54 UTC
+```
+整体来讲，这次英睿周考很是有进步的。选择题正确率还是很高的，比之前好很多了。然后记叙文的答题技巧也有进步，但还是有讲过的题的答题技巧记不全，答不全，需要再练习练习。然后最遗憾的就是他错别字有点严重，咱们需要再多练习一下。等课上，我会再把他的文言文和诗歌的一些默写再多给他纠正纠正～
+```
+
+2026-03-20 13:30 UTC
+```
+2026.03.20语文课堂反馈
+一、课堂内容
+1.作文批改建议、结构讲解
+2.作文范文讲解与分享
+二、作业
+套卷完成
+```
+
+2026-03-20 13:29 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260320/1774013398.jpg)
+
+2026-03-20 13:29 UTC
+```
+表扬英睿今天上课状态不错，已经可以和我“有来有回”的“回合讨论”了[强]
+也能主动提出来觉得《爱莲说》的内容练得不是很好[强]这个意识特别好[强]
+```
+
+2026-03-20 13:29 UTC
+```
+下周我会重点找一些关于陋室铭和爱莲说的理解性默写，再带英睿好好练一下
+```
+
+2026-03-20 13:29 UTC
+```
+本节课主要是关于作文的讲解，分享的三篇例文都是非常好的模板作文，可以直接套用
+```

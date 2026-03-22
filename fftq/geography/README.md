@@ -9,3 +9,60 @@
 只抄p5
 p7，p11先不用抄
 ```
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260305/1772718504.jpg)
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260305/1772718855.jpg)
+
+2026-03-08 02:05 UTC
+```
+地理练习册答案，请认真核对
+```
+
+2026-03-08 02:05 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260308/1772935526.jpg)
+
+2026-03-10 11:46 UTC
+```
+地理作业答案。
+```
+
+2026-03-10 11:45 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260310/1773143156.jpg)
+
+2026-03-10 11:45 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260310/1773143119.jpg)
+
+2026-03-15 13:42 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260315/1773582144.jpg)
+
+2026-03-15 13:42 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260315/1773582132.jpg)
+
+
+2026-03-17 11:09 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260317/1773745784.jpg)
+
+2026-03-17 11:09 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260317/1773745772.jpg)
+
+2026-03-17 11:09 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260317/1773745769.jpg)
+
+2026-03-17 13:19 UTC
+```
+这个笔记可酌情处理，明天抄完就行，因为早些时间发没有发出去
+```
+
+2026-03-17 13:19 UTC
+[扫描件_效的防震减灾措施(图8.6)__.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260317/扫描件_效的防震减灾措施(图8.6)__.pdf)
+
+
+2026-03-19 11:12 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260319/1773918752.jpg)
+
+2026-03-19 11:12 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260319/1773918739.jpg)
+
+2026-03-19 11:11 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260319/1773918717.jpg)

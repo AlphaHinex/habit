@@ -1,8 +1,3 @@
-2026年3月22日 12:52 星期一
-```
-hi in math
-```
-
 # Math
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/math/res/7b/20260304/Weixin%20Image_20260304191056_621_280.jpg)
@@ -12,3 +7,79 @@ hi in math
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/math/res/7b/20260302/Weixin%20Image_20260302200758_576_280.jpg)
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/math/res/7b/20260302/Weixin%20Image_20260302200805_577_280.jpg)
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/math/res/7b/20260302/Weixin%20Image_20260302200834_578_280.jpg)
+
+![2026-03-05 14:08 UTC](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260305/1772719688.jpg)
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260305/1772719255.jpg)
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260305/1772719121.jpg)
+
+2026-03-08 05:14 UTC
+```
+[太阳][太阳]数学校本答案
+```
+
+2026-03-08 05:13 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260308/1772946834.jpg)
+
+2026-03-09 13:32 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260309/1773063121.jpg)
+
+2026-03-10 13:10 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260310/1773148200.jpg)
+
+2026-03-10 13:09 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260310/1773148187.jpg)
+
+2026-03-11 13:29 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260311/1773235774.jpg)
+
+2026-03-11 13:29 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260311/1773235748.jpg)
+
+
+2026-03-12 13:35 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260312/1773322526.jpg)
+
+2026-03-12 13:35 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260312/1773322513.jpg)
+
+
+2026-03-17 12:13 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260317/1773749613.jpg)
+
+2026-03-18 11:37 UTC
+```
+[太阳]数校本23页前答案
+```
+
+2026-03-18 11:37 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260318/1773833841.jpg)
+
+
+2026-03-19 10:26 UTC
+```
+[太阳]今早练习答案～
+```
+
+2026-03-19 10:26 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260319/1773915971.jpg)
+
+2026-03-19 10:26 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260319/1773915959.jpg)
+
+
+2026-03-19 12:44 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260319/1773924279.jpg)
+
+2026-03-19 12:44 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260319/1773924253.jpg)
+
+
+2026-03-22 09:02 UTC
+```
+[太阳]数校本答案～
+```
+
+2026-03-22 09:01 UTC
+[第一章 整式的乘除 答案.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260322/第一章 整式的乘除 答案.pdf)

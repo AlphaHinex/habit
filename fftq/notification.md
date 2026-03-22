@@ -22,206 +22,16 @@
 群内各科笔记及时对照整理🌹
 ```
 
-2026-03-22 09:02 UTC
-```
-[太阳]数校本答案～
-```
-
-2026-03-22 09:01 UTC
-[第一章 整式的乘除 答案.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260322/第一章 整式的乘除 答案.pdf)
-
-2026年3月22日 12:53 星期一
-```
-hi
-```
-
-2026-03-22 04:47 UTC
-```
-hi
-```
-
-2026-03-22 04:05 UTC
-```
-fftq again
-```
-
-2026-03-22 04:04 UTC
-```
-hi in private
-```
-
-2026-03-22 04:04 UTC
-```
-hi in fftq
-```
-
-2026-03-22 03:59 UTC
-```
-hi
-```
-
-2026-03-22 03:47 UTC
-```
-@_user_1 hi
-```
-
-2026-03-21 12:03 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260321/1774094623.jpg)
-
-2026-03-21 12:03 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260321/1774094610.jpg)
-
-2026-03-21 12:03 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260321/1774094596.jpg)
-
-2026-03-21 12:03 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260321/1774094583.jpg)
-
-2026-03-21 08:41 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260321/1774082502.jpg)
-
-2026-03-20 13:30 UTC
-```
-2026.03.20语文课堂反馈
-一、课堂内容
-1.作文批改建议、结构讲解
-2.作文范文讲解与分享
-二、作业
-套卷完成
-```
-
-2026-03-20 13:29 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260320/1774013398.jpg)
-
-2026-03-20 13:29 UTC
-```
-表扬英睿今天上课状态不错，已经可以和我“有来有回”的“回合讨论”了[强]
-也能主动提出来觉得《爱莲说》的内容练得不是很好[强]这个意识特别好[强]
-```
-
-2026-03-20 13:29 UTC
-```
-下周我会重点找一些关于陋室铭和爱莲说的理解性默写，再带英睿好好练一下
-```
-
-2026-03-20 13:29 UTC
-```
-本节课主要是关于作文的讲解，分享的三篇例文都是非常好的模板作文，可以直接套用
-```
 
 2026-03-20 11:02 UTC
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260320/1774004534.jpg)
 
-2026-03-20 11:02 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260320/1774004521.jpg)
-
-2026-03-20 11:01 UTC
-[第三课.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260320/第三课.pdf)
-
-2026-03-19 13:12 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260319/1773925933.jpg)
-
-2026-03-19 13:12 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260319/1773925924.jpg)
-
-2026-03-19 13:11 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260319/1773925913.jpg)
-
-2026-03-19 12:44 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260319/1773924279.jpg)
-
-2026-03-19 12:44 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260319/1773924253.jpg)
-
-2026-03-19 11:12 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260319/1773918752.jpg)
-
-2026-03-19 11:12 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260319/1773918739.jpg)
-
-2026-03-19 11:11 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260319/1773918717.jpg)
-
-2026-03-19 11:05 UTC
-```
-[太阳]预习的字词
-```
-
-2026-03-19 11:04 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260319/1773918295.jpg)
-
-2026-03-19 11:04 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260319/1773918286.jpg)
-
-2026-03-19 11:04 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260319/1773918260.jpg)
-
-2026-03-19 11:04 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260319/1773918243.jpg)
-
-2026-03-19 10:26 UTC
-```
-[太阳]今早练习答案～
-```
-
-2026-03-19 10:26 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260319/1773915971.jpg)
-
-2026-03-19 10:26 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260319/1773915959.jpg)
-
 2026-03-19 10:25 UTC
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260319/1773915941.jpg)
-
-2026-03-19 09:38 UTC
-```
-语文环境描写的作用，背诵，明天抽查。
-```
-
-2026-03-19 09:37 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260319/1773913073.jpg)
-
-2026-03-18 12:51 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260318/1773838299.jpg)
-
-2026-03-18 12:51 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260318/1773838281.jpg)
-
-2026-03-18 12:51 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260318/1773838272.jpg)
-
-2026-03-18 11:37 UTC
-```
-[太阳]数校本23页前答案
-```
-
-2026-03-18 11:37 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260318/1773833841.jpg)
-
-2026-03-18 11:37 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260318/1773833822.jpg)
-
-2026-03-18 11:36 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260318/1773833801.jpg)
-
-2026-03-18 11:36 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260318/1773833784.jpg)
 
 2026-03-18 10:24 UTC
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260318/1773829466.jpg)
 
-2026-03-18 07:54 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260318/1773820475.jpg)
-
-2026-03-18 07:54 UTC
-```
-英睿周考试卷分析如上↑
-```
-
-2026-03-18 07:54 UTC
-```
-整体来讲，这次英睿周考很是有进步的。选择题正确率还是很高的，比之前好很多了。然后记叙文的答题技巧也有进步，但还是有讲过的题的答题技巧记不全，答不全，需要再练习练习。然后最遗憾的就是他错别字有点严重，咱们需要再多练习一下。等课上，我会再把他的文言文和诗歌的一些默写再多给他纠正纠正～
-```
 
 2026-03-18 06:16 UTC
 ```
@@ -231,35 +41,6 @@ hi
 
 2026-03-18 06:16 UTC
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260318/1773814575.jpg)
-
-2026-03-17 13:19 UTC
-```
-这个笔记可酌情处理，明天抄完就行，因为早些时间发没有发出去
-```
-
-2026-03-17 13:19 UTC
-[扫描件_效的防震减灾措施(图8.6)__.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260317/扫描件_效的防震减灾措施(图8.6)__.pdf)
-
-2026-03-17 12:13 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260317/1773749613.jpg)
-
-2026-03-17 11:57 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260317/1773748638.jpg)
-
-2026-03-17 11:57 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260317/1773748629.jpg)
-
-2026-03-17 11:57 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260317/1773748619.jpg)
-
-2026-03-17 11:09 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260317/1773745784.jpg)
-
-2026-03-17 11:09 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260317/1773745772.jpg)
-
-2026-03-17 11:09 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260317/1773745769.jpg)
 
 2026-03-17 10:48 UTC
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260317/1773744499.jpg)
@@ -274,33 +55,6 @@ hi
 ```
 右1英语二单元书后单词短语，错超过10的（含10）打印重考明天交
 ```
-
-2026-03-17 06:31 UTC
-[单词默写练习-Unit 2.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260317/单词默写练习-Unit 2.pdf)
-
-2026-03-16 14:30 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260316/1773671410.jpg)
-
-2026-03-16 14:29 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260316/1773671397.jpg)
-
-2026-03-16 14:29 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260316/1773671384.jpg)
-
-2026-03-16 12:10 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260316/1773663041.jpg)
-
-2026-03-16 12:10 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260316/1773663029.jpg)
-
-2026-03-16 12:06 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260316/1773662777.jpg)
-
-2026-03-16 12:06 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260316/1773662762.jpg)
-
-2026-03-16 12:05 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260316/1773662751.jpg)
 
 2026-03-16 10:37 UTC
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260316/1773657427.jpg)
@@ -327,26 +81,11 @@ hi
 2026-03-16 02:51 UTC
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260316/1773629513.jpg)
 
-2026-03-15 13:42 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260315/1773582144.jpg)
-
-2026-03-15 13:42 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260315/1773582132.jpg)
-
 2026-03-15 12:39 UTC
 ```
 [太阳]数学：带限时作业A3小卷
 和错题本～
 ```
-
-2026-03-15 12:39 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260315/1773578359.jpg)
-
-2026-03-15 12:39 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260315/1773578342.jpg)
-
-2026-03-15 11:50 UTC
-[7b.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260315/7b.pdf)
 
 2026-03-15 08:58 UTC
 ```
@@ -356,31 +95,6 @@ hi
 🌹道法第二课笔记对照群里补全，明早检查。
 ```
 
-2026-03-15 03:19 UTC
-[第二课.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260315/第二课.pdf)
-
-2026-03-15 03:19 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260315/1773544748.jpg)
-
-2026-03-15 03:19 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260315/1773544740.jpg)
-
-2026-03-15 03:18 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260315/1773544732.jpg)
-
-2026-03-13 12:05 UTC
-```
-2026.03.13语文课堂反馈
-一、课堂内容
-1.讲套卷作业--各部分答疑（注意作业完成质量，这周质量明显不如上周了，学过的答题技巧得写全哈！记得用，不能又按照自己的想法写了！）
-2.文言文《活板》讲解（画的注释是重点，下节课考）
-二、作业
-作文一篇，完成✅
-```
-
-2026-03-13 12:05 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260313/1773403533.jpg)
-
 2026-03-13 08:43 UTC
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260313/1773391395.jpg)
 
@@ -388,45 +102,8 @@ hi
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260313/1773391388.jpg)
 
 2026-03-13 06:20 UTC
-[3.13小测.docx](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260313/3.13小测.docx)
-
-2026-03-13 06:20 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260313/1773382849.jpg)
-
-2026-03-13 06:20 UTC
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260313/1773382837.jpg)
 
-2026-03-12 13:35 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260312/1773322526.jpg)
-
-2026-03-12 13:35 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260312/1773322513.jpg)
-
-2026-03-12 12:37 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260312/1773319061.jpg)
-
-2026-03-12 12:37 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260312/1773319048.jpg)
-
-2026-03-12 11:49 UTC
-```
-今日语文笔记
-```
-
-2026-03-12 11:48 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260312/1773316134.jpg)
-
-2026-03-12 11:48 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260312/1773316125.jpg)
-
-2026-03-12 11:48 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260312/1773316106.jpg)
-
-2026-03-12 11:48 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260312/1773316094.jpg)
-
-2026-03-12 11:47 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260312/1773316072.jpg)
 
 2026-03-12 10:32 UTC
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260312/1773311554.jpg)
@@ -439,61 +116,12 @@ hi
 2026-03-12 10:06 UTC
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260312/1773309977.jpg)
 
-2026-03-11 13:30 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260311/1773235812.jpg)
-
-2026-03-11 13:29 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260311/1773235774.jpg)
-
-2026-03-11 13:29 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260311/1773235748.jpg)
 
 2026-03-11 10:45 UTC
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260311/1773225907.jpg)
 
 2026-03-11 10:44 UTC
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260311/1773225875.jpg)
-
-2026-03-10 13:10 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260310/1773148200.jpg)
-
-2026-03-10 13:09 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260310/1773148187.jpg)
-
-2026-03-10 12:08 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260310/1773144486.jpg)
-
-2026-03-10 12:07 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260310/1773144473.jpg)
-
-2026-03-10 12:07 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260310/1773144458.jpg)
-
-2026-03-10 12:07 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260310/1773144446.jpg)
-
-2026-03-10 12:07 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260310/1773144425.jpg)
-
-2026-03-10 12:06 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260310/1773144407.jpg)
-
-2026-03-10 12:06 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260310/1773144382.jpg)
-
-2026-03-10 12:06 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260310/1773144367.jpg)
-
-2026-03-10 11:46 UTC
-```
-地理作业答案。
-```
-
-2026-03-10 11:45 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260310/1773143156.jpg)
-
-2026-03-10 11:45 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260310/1773143119.jpg)
 
 2026-03-10 10:20 UTC
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260310/1773138025.jpg)
@@ -514,40 +142,6 @@ hi
 2026-03-10 02:48 UTC
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260310/1773110910.jpg)
 
-2026-03-09 13:32 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260309/1773063121.jpg)
-
-2026-03-09 10:59 UTC
-```
-语文卷纸答案
-```
-
-2026-03-09 10:59 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260309/1773053960.jpg)
-
-2026-03-09 10:59 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260309/1773053953.jpg)
-
-2026-03-09 10:59 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260309/1773053947.jpg)
-
-2026-03-09 10:59 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260309/1773053939.jpg)
-
-2026-03-09 10:57 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260309/1773053842.jpg)
-
-2026-03-09 10:57 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260309/1773053834.jpg)
-
-2026-03-09 10:57 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260309/1773053818.jpg)
-
-2026-03-09 10:54 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260309/1773053649.jpg)
-
-2026-03-09 10:52 UTC
-[我的好邻居姚远.docx](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260309/我的好邻居姚远.docx)
 
 2026-03-09 10:45 UTC
 ```
@@ -568,66 +162,6 @@ hi
 2026-03-09 09:25 UTC
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260309/1773048312.jpg)
 
-2026-03-08 10:09 UTC
-```
-@所有人  
-🌹明早按时到校，到校有学习任务不要迟到。
-🌹明天有语、数、英、地、道，带好各科材料及周末作业。带桌布。
-🌹地理、数学作业对照群里答案批改。
-```
-
-2026-03-08 05:14 UTC
-```
-[太阳][太阳]数学校本答案
-```
-
-2026-03-08 05:13 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260308/1772946834.jpg)
-
-2026-03-08 02:05 UTC
-```
-地理练习册答案，请认真核对
-```
-
-2026-03-08 02:05 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260308/1772935526.jpg)
-
-2026-03-07 09:45 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260307/1772876732.jpg)
-
-2026-03-07 03:09 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260307/1772852945.jpg)
-
-2026-03-07 03:07 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260307/1772852835.jpg)
-
-2026-03-07 03:07 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260307/1772852826.jpg)
-
-2026-03-07 03:06 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260307/1772852805.jpg)
-
-2026-03-07 01:02 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260307/1772845329.jpg)
-
-2026-03-07 00:59 UTC
-```
-@Hero妈妈 Hero练习题中通知信息内容解读在图片中标注出来了，可以重新判断。词汇题错题在于词意掌握不准确，建议强化单词词意。语法项目-时间状语条件句，when/while作为关键词的识别，后接不同时态。
-```
-
-2026-03-06 13:09 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260306/1772802546.jpg)
-
-2026-03-06 13:08 UTC
-```
-2026.03.06语文课堂反馈
-一、课堂内容
-1.讲套卷作业--各部分答疑
-2.文言文《活板》讲解（剩下一半下周讲）
-二、作业
-打印的套卷完成即可
-```
-
 2026-03-06 10:12 UTC
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260306/1772791929.jpg)
 
@@ -635,21 +169,9 @@ hi
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260306/1772791754.jpg)
 
 2026-03-06 10:09 UTC
-[3.5小测.docx](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260306/3.5小测.docx)
-
-2026-03-06 10:09 UTC
 ```
 昨日英语小单，没掌握好的孩子可以利用周末时间复盘重考🌹
 ```
-
-2026-03-06 10:05 UTC
-[第一课.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260306/第一课.pdf)
-
-2026-03-06 10:05 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260306/1772791519.jpg)
-
-2026-03-06 09:53 UTC
-[我的奶奶过去是一名医生，但她很.docx](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260306/我的奶奶过去是一名医生，但她很.docx)
 
 2026-03-06 09:23 UTC
 ```
@@ -663,59 +185,10 @@ p5的两篇课文汉译英必须掌握，成绩不佳的孩子利用周末时间
 2026-03-05 20:07 UTC
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260305/1772741242.jpg)
 
-2026-03-05 14:21 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260305/1772720471.jpg)
-
-2026-03-05 14:19 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260305/1772720340.jpg)
-
-![2026-03-05 14:08 UTC](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260305/1772719688.jpg)
-
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260305/1772719255.jpg)
-
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260305/1772719121.jpg)
-
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260305/1772718504.jpg)
-
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260305/1772718855.jpg)
-
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/Weixin%20Image_20260304181245_614_280.jpg)
 
-今日下发一张课后服务单，按要求填好明天带回上交。@所有人 
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/Weixin%20Image_20260303145211_590_280.jpg)
-
 [3.3小测](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/3.3小测.pdf)
-低于20（含）20的打印重考，明天带回上交。
+
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/Weixin%20Image_20260303121215_584_280.jpg)
 
-
-今天开始每天早上来了有统一任务，请孩子们务必按时到校，今日几个孩子来的有点晚，请家长再督促重视[抱拳]
-
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/Weixin%20Image_20260302181411_558_280.jpg)
-
-这部分内容应该是寒假作业大本的p146~p148，按要求整理好明天上交。[玫瑰]
-> 🌹请各位学生自行将寒假作业中的心理作业部分裁剪下来，填好班级姓名，开学上交。
-
-```
-@所有人   
-🌹本学期课表自行保存（同上学期），3月2号开始为新学期第一周，上单周课，明天晚一英，晚二语。
-
-🌹教材已送到班级明早统一发放，感谢 陈禹燊、孙康翊及爸爸妈妈、王贺颉 帮忙搬运[爱心] 
-🌹明早按时到校，着装得体，带齐假期作业，带齐个人物品桌布等。建议大家自己带小抹布擦拭桌椅[太阳] 干干净净迎接新学期~
-```
-
-```
-🌹请各位学生自行将寒假作业中的心理作业部分裁剪下来，填好班级姓名，开学上交。
-```
-
-```
-@所有人 
-🌹3月2号开学，请家长利用周末提前给孩子们准备净版服装，浅色上衣深色裤子，要求尽量净版，不要带亮片和大logo的，颜色简单素静。
-🌹早到校时间同上学期，请按时到校。带好假期作业、学习用品文具等。开学到校发新教材。
-各位同学，请调整好作息，开学见[太阳]
-```
-
-```
-@所有人 
- 通知: 3月2号开学上课，假期余额仅剩一周，请大家按时完成假期作业，调整作息，以良好精神面貌迎接新学期[拥抱]
-```
