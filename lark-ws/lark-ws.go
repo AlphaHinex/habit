@@ -65,6 +65,12 @@ type GitHubFileResponse struct {
 	SHA     string `json:"sha"`
 }
 
+const (
+	processingEmojiType = "Typing"
+	doneEmojiType       = "DONE"
+	failedEmojiType     = "SWEAT"
+)
+
 func getFileFromMsg(client *lark.Client, msgId, key, fileType string) ([]byte, error) {
 	// 创建请求对象
 	req := larkim.NewGetMessageResourceReqBuilder().
@@ -267,6 +273,65 @@ func updateFileOnGitHub(fileName, content, sha string) error {
 	return nil
 }
 
+func addMessageReaction(client *lark.Client, msgID, emojiType string) (string, error) {
+	req := larkim.NewCreateMessageReactionReqBuilder().
+		MessageId(msgID).
+		Body(&larkim.CreateMessageReactionReqBody{
+			ReactionType: larkim.NewEmojiBuilder().EmojiType(emojiType).Build(),
+		}).
+		Build()
+
+	resp, err := client.Im.V1.MessageReaction.Create(context.Background(), req)
+	if err != nil {
+		return "", err
+	}
+	if !resp.Success() {
+		return "", fmt.Errorf("failed to add reaction %s, code: %d, msg: %s", emojiType, resp.Code, resp.Msg)
+	}
+	if resp.Data == nil || resp.Data.ReactionId == nil {
+		return "", fmt.Errorf("add reaction succeeded but reaction_id is empty")
+	}
+
+	return *resp.Data.ReactionId, nil
+}
+
+func deleteMessageReaction(client *lark.Client, msgID, reactionID string) error {
+	req := larkim.NewDeleteMessageReactionReqBuilder().
+		MessageId(msgID).
+		ReactionId(reactionID).
+		Build()
+
+	resp, err := client.Im.V1.MessageReaction.Delete(context.Background(), req)
+	if err != nil {
+		return err
+	}
+	if !resp.Success() {
+		return fmt.Errorf("failed to delete reaction, code: %d, msg: %s", resp.Code, resp.Msg)
+	}
+
+	return nil
+}
+
+func switchMessageReaction(client *lark.Client, msgID, oldReactionID, newEmojiType string) error {
+	var errs []string
+
+	if oldReactionID != "" {
+		if err := deleteMessageReaction(client, msgID, oldReactionID); err != nil {
+			errs = append(errs, err.Error())
+		}
+	}
+
+	if _, err := addMessageReaction(client, msgID, newEmojiType); err != nil {
+		errs = append(errs, err.Error())
+	}
+
+	if len(errs) > 0 {
+		return fmt.Errorf(strings.Join(errs, "; "))
+	}
+
+	return nil
+}
+
 func main() {
 	appID := os.Getenv("APP_ID")
 	appSecret := os.Getenv("APP_SECRET")
@@ -281,19 +346,39 @@ func main() {
 	eventHandler := dispatcher.NewEventDispatcher("", "").
 		OnP2MessageReceiveV1(func(ctx context.Context, event *larkim.P2MessageReceiveV1) error {
 			fmt.Printf("[ OnP2MessageReceiveV1 access ], data: %s\n", larkcore.Prettify(event))
-			msgId := *event.Event.Message.MessageId
-			content := event.Event.Message.Content
+
+			if event == nil || event.Event == nil || event.Event.Message == nil || event.Event.Message.MessageId == nil || event.Event.Message.Content == nil {
+				fmt.Printf("[ OnP2MessageReceiveV1 access ], invalid event payload\n")
+				return nil
+			}
+
+			msgID := *event.Event.Message.MessageId
+			rawContent := *event.Event.Message.Content
 			var chatId string
 			if event.Event.Message.ChatId != nil {
 				chatId = *event.Event.Message.ChatId
 			}
-			var textMsg TextMsg
-			err := json.Unmarshal([]byte(*content), &textMsg)
-			if err == nil && len(textMsg.Text) > 0 {
-				fmt.Printf("[ OnP2MessageReceiveV1 access ], text: %s\n", textMsg.Text)
-				go func(filePath string) {
-					fileContent, sha, err := getFileFromGitHub(filePath)
+
+			go func() {
+				finalEmojiType := doneEmojiType
+				processingReactionID, err := addMessageReaction(client, msgID, processingEmojiType)
+				if err != nil {
+					fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to add processing reaction: %v\n", err)
+				}
+
+				defer func() {
+					if err := switchMessageReaction(client, msgID, processingReactionID, finalEmojiType); err != nil {
+						fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to switch reaction to final status(%s): %v\n", finalEmojiType, err)
+					}
+				}()
+
+				var textMsg TextMsg
+				if err := json.Unmarshal([]byte(rawContent), &textMsg); err == nil && len(textMsg.Text) > 0 {
+					fmt.Printf("[ OnP2MessageReceiveV1 access ], text: %s\n", textMsg.Text)
+
+					fileContent, sha, err := getFileFromGitHub(getFilePath(chatId))
 					if err != nil {
+						finalEmojiType = failedEmojiType
 						fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to get file: %v\n", err)
 						return
 					}
@@ -305,100 +390,100 @@ func main() {
 						addToHead,
 						fileContent)
 
-					// 上传更新后的文件
-					err = updateFileOnGitHub(filePath, newContent, sha)
-					if err != nil {
+					if err := updateFileOnGitHub(getFilePath(chatId), newContent, sha); err != nil {
+						finalEmojiType = failedEmojiType
 						fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to update file: %v\n", err)
 					} else {
 						fmt.Printf("[ OnP2MessageReceiveV1 access ], file updated successfully\n")
 					}
-				}(getFilePath(chatId))
-			} else {
+					return
+				}
 				var imgMsg ImgMsg
-				err = json.Unmarshal([]byte(*content), &imgMsg)
-				if err == nil && len(imgMsg.ImageKey) > 0 {
+				if err := json.Unmarshal([]byte(rawContent), &imgMsg); err == nil && len(imgMsg.ImageKey) > 0 {
 					fmt.Printf("[ OnP2MessageReceiveV1 access ], image_key: %s\n", imgMsg.ImageKey)
 
-					// 获取图片
-					imageData, err := getFileFromMsg(client, msgId, imgMsg.ImageKey, "image")
+					imageData, err := getFileFromMsg(client, msgID, imgMsg.ImageKey, "image")
 					if err != nil {
+						finalEmojiType = failedEmojiType
 						fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to get image: %v\n", err)
+						return
+					}
+
+					fileName := fmt.Sprintf("%d.jpg", time.Now().Unix())
+					if err := uploadFileToGitHub(imageData, fileName); err != nil {
+						finalEmojiType = failedEmojiType
+						fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to upload image: %v\n", err)
+						return
+					}
+
+					fmt.Printf("[ OnP2MessageReceiveV1 access ], image uploaded successfully: %s\n", fileName)
+
+					fileContent, sha, err := getFileFromGitHub(getFilePath(chatId))
+					if err != nil {
+						finalEmojiType = failedEmojiType
+						fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to get file: %v\n", err)
+						return
+					}
+
+					imageURL := fmt.Sprintf("https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/%s/%s",
+						time.Now().Format("20060102"), fileName)
+					loc, _ := time.LoadLocation("Asia/Shanghai")
+					newContent := fmt.Sprintf("%s\n![](%s)\n\n%s", time.Now().In(loc).Format("2006年1月2日 15:04 星期一"), imageURL, fileContent)
+
+					if err := updateFileOnGitHub(getFilePath(chatId), newContent, sha); err != nil {
+						finalEmojiType = failedEmojiType
+						fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to update file: %v\n", err)
 					} else {
-						// 生成文件名
-						fileName := fmt.Sprintf("%d.jpg", time.Now().Unix())
-
-						// 异步上传到 GitHub
-						go func(filePath string) {
-							err = uploadFileToGitHub(imageData, fileName)
-							if err != nil {
-								fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to upload image: %v\n", err)
-							} else {
-								fmt.Printf("[ OnP2MessageReceiveV1 access ], image uploaded successfully: %s\n", fileName)
-
-								fileContent, sha, err := getFileFromGitHub(filePath)
-								if err != nil {
-									fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to get file: %v\n", err)
-									return
-								}
-
-								// 在文件最前面添加新图片
-								imageURL := fmt.Sprintf("https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/%s/%s",
-									time.Now().Format("20060102"), fileName)
-								loc, _ := time.LoadLocation("Asia/Shanghai")
-								newContent := fmt.Sprintf("%s\n![](%s)\n\n%s", time.Now().In(loc).Format("2006年1月2日 15:04 星期一"), imageURL, fileContent)
-
-								// 上传更新后的文件
-								err = updateFileOnGitHub(filePath, newContent, sha)
-								if err != nil {
-									fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to update file: %v\n", err)
-								} else {
-									fmt.Printf("[ OnP2MessageReceiveV1 access ], file updated successfully\n")
-								}
-							}
-						}(getFilePath(chatId))
+						fmt.Printf("[ OnP2MessageReceiveV1 access ], file updated successfully\n")
 					}
-				} else {
-					var fileMsg FileMsg
-					err = json.Unmarshal([]byte(*content), &fileMsg)
-					if err == nil && len(fileMsg.FileKey) > 0 {
-						fileData, err := getFileFromMsg(client, msgId, fileMsg.FileKey, "file")
-						if err != nil {
-							fmt.Printf("[File Message] could not get file: %v\n", err)
-						} else {
-							go func(filePath string) {
-								err = uploadFileToGitHub(fileData, fileMsg.FileName)
-								if err != nil {
-									fmt.Printf("[File Message] failed to upload file: %v\n", err)
-								} else {
-									fileContent, sha, err := getFileFromGitHub(filePath)
-									if err != nil {
-										fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to get file: %v\n", err)
-										return
-									}
-
-									addToHead := fmt.Sprintf("[%s](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/%s/%s)",
-										fileMsg.FileName,
-										time.Now().Format("20060102"),
-										fileMsg.FileName)
-									loc, _ := time.LoadLocation("Asia/Shanghai")
-									newContent := fmt.Sprintf("%s\n%s\n\n%s",
-										time.Now().In(loc).Format("2006年1月2日 15:04 星期一"),
-										addToHead,
-										fileContent)
-
-									// 上传更新后的文件
-									err = updateFileOnGitHub(filePath, newContent, sha)
-									if err != nil {
-										fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to update file: %v\n", err)
-									} else {
-										fmt.Printf("[ OnP2MessageReceiveV1 access ], file updated successfully\n")
-									}
-								}
-							}(getFilePath(chatId))
-						}
-					}
+					return
 				}
-			}
+
+				var fileMsg FileMsg
+				if err := json.Unmarshal([]byte(rawContent), &fileMsg); err == nil && len(fileMsg.FileKey) > 0 {
+					fileData, err := getFileFromMsg(client, msgID, fileMsg.FileKey, "file")
+					if err != nil {
+						finalEmojiType = failedEmojiType
+						fmt.Printf("[File Message] could not get file: %v\n", err)
+						return
+					}
+
+					if err := uploadFileToGitHub(fileData, fileMsg.FileName); err != nil {
+						finalEmojiType = failedEmojiType
+						fmt.Printf("[File Message] failed to upload file: %v\n", err)
+						return
+					}
+
+					fileContent, sha, err := getFileFromGitHub(getFilePath(chatId))
+					if err != nil {
+						finalEmojiType = failedEmojiType
+						fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to get file: %v\n", err)
+						return
+					}
+
+					addToHead := fmt.Sprintf("[%s](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/%s/%s)",
+						fileMsg.FileName,
+						time.Now().Format("20060102"),
+						fileMsg.FileName)
+					loc, _ := time.LoadLocation("Asia/Shanghai")
+					newContent := fmt.Sprintf("%s\n%s\n\n%s",
+						time.Now().In(loc).Format("2006年1月2日 15:04 星期一"),
+						addToHead,
+						fileContent)
+
+					if err := updateFileOnGitHub(getFilePath(chatId), newContent, sha); err != nil {
+						finalEmojiType = failedEmojiType
+						fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to update file: %v\n", err)
+					} else {
+						fmt.Printf("[ OnP2MessageReceiveV1 access ], file updated successfully\n")
+					}
+					return
+				}
+
+				finalEmojiType = failedEmojiType
+				fmt.Printf("[ OnP2MessageReceiveV1 access ], unsupported message content\n")
+			}()
+
 			return nil
 		}).
 		OnCustomizedEvent("这里填入你要自定义订阅的 event 的 key，例如 out_approval", func(ctx context.Context, event *larkevent.EventReq) error {

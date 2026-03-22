@@ -1,3 +1,65 @@
+2026-03-22 09:10 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260322/1774170632.jpg)
+
+2026-03-22 09:07 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260322/1774170429.jpg)
+
+2026-03-22 09:06 UTC
+```
+二月二龙抬头（中华传统民间习俗），请提示、督促班内部分同学本周日务必整改仪容仪表，优化发型、达标合格、端庄大方、符合身份、学生头（参照标准如下图）。下周重点检查、不合格的曝光
+```
+
+2026-03-22 09:04 UTC
+```
+明天带好道法同步练习册
+```
+
+2026-03-22 09:02 UTC
+```
+@所有人 
+请按要求调整仪容仪表，明早按时到校不要迟到🌹 
+整理好书包，与学习无关的东西不要带到学校，明天有语、数、英、地、道，带好各科材料及周末作业🌹
+群内各科笔记及时对照整理🌹
+```
+
+2026-03-22 09:02 UTC
+```
+[太阳]数校本答案～
+```
+
+2026-03-22 09:01 UTC
+[第一章 整式的乘除 答案.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260322/第一章 整式的乘除 答案.pdf)
+
+2026年3月22日 12:53 星期一
+```
+hi
+```
+
+2026-03-22 04:47 UTC
+```
+hi
+```
+
+2026-03-22 04:05 UTC
+```
+fftq again
+```
+
+2026-03-22 04:04 UTC
+```
+hi in private
+```
+
+2026-03-22 04:04 UTC
+```
+hi in fftq
+```
+
+2026-03-22 03:59 UTC
+```
+hi
+```
+
 2026-03-22 03:47 UTC
 ```
 @_user_1 hi
