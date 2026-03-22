@@ -1,4 +1,7 @@
 2026年3月22日 19:57 星期一
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260322/1774180663.jpg)
+
+2026年3月22日 19:57 星期一
 ```
 《邓稼先》习题第4题B项订正
 ```
