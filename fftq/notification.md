@@ -1,3 +1,6 @@
+2026-03-22 09:01 UTC
+[第一章 整式的乘除 答案.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260322/第一章 整式的乘除 答案.pdf)
+
 2026年3月22日 12:53 星期一
 ```
 hi
