@@ -1,4 +1,7 @@
 2026年3月23日 08:38 星期一
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260323/1774226333.jpg)
+
+2026年3月23日 08:38 星期一
 ```
 默的不好的孩子回家务必勤加练习[加油][加油][加油]
 ```
