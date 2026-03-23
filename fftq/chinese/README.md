@@ -1,3 +1,9 @@
+2026年3月23日 20:12 星期一
+```
+更正：
+《说和做》卷纸3题 B选项正确。 是比喻句
+```
+
 2026年3月23日 20:11 星期一
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260323/1774267910.jpg)
 
