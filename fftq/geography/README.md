@@ -1,4 +1,7 @@
 2026年3月23日 20:35 星期一
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260323/1774269348.jpg)
+
+2026年3月23日 20:35 星期一
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260323/1774269335.jpg)
 
 2026年3月22日 19:58 星期一
