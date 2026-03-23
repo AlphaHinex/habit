@@ -1,3 +1,6 @@
+2026年3月23日 15:12 星期一
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260323/1774249938.jpg)
+
 2026年3月23日 15:11 星期一
 ```
 扣6分及以上的打印重考明天交🌹
