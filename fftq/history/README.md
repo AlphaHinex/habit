@@ -1,9 +1,8 @@
-2026年3月22日 18:33 星期一
-```
-历史分墙准备就绪
-```
-
 # History
+
+- [Latest](#latest)
+
+## Before
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/history/res/20260304/Weixin%20Image_20260304193144_624_280.jpg)
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/history/res/20260304/Weixin%20Image_20260304193147_625_280.jpg)

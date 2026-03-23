@@ -1,43 +1,9 @@
-2026年3月23日 20:37 星期一
-```
-作业，能力培养答案：
-```
-
-2026年3月23日 20:37 星期一
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260323/1774269452.jpg)
-
-2026年3月23日 20:37 星期一
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260323/1774269433.jpg)
-
-2026年3月23日 20:36 星期一
-```
-今日地理笔记
-```
-
-2026年3月23日 20:36 星期一
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260323/1774269388.jpg)
-
-2026年3月23日 20:36 星期一
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260323/1774269378.jpg)
-
-2026年3月23日 20:36 星期一
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260323/1774269361.jpg)
-
-2026年3月23日 20:35 星期一
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260323/1774269348.jpg)
-
-2026年3月23日 20:35 星期一
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260323/1774269335.jpg)
-
-2026年3月22日 19:58 星期一
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260322/1774180698.jpg)
-
-2026年3月22日 18:33 星期一
-```
-地理分墙准备就绪
-```
-
 # Geography
+
+- [2026年3月23日 星期一](#2026-03-23)
+- [Latest](#latest)
+
+## Before
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/geography/res/7b/Weixin%20Image_20260302194933_569_280.jpg)
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/geography/res/7b/Weixin%20Image_20260302195004_571_280.jpg)
@@ -105,3 +71,41 @@ p7，p11先不用抄
 
 2026-03-19 11:11 UTC
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260319/1773918717.jpg)
+
+2026年3月22日 19:58 星期一
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260322/1774180698.jpg)
+
+## 2026-03-23
+
+2026年3月23日 20:36 星期一
+```
+今日地理笔记
+```
+
+2026年3月23日 20:36 星期一
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260323/1774269388.jpg)
+
+2026年3月23日 20:36 星期一
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260323/1774269378.jpg)
+
+2026年3月23日 20:36 星期一
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260323/1774269361.jpg)
+
+2026年3月23日 20:35 星期一
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260323/1774269348.jpg)
+
+2026年3月23日 20:35 星期一
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260323/1774269335.jpg)
+
+2026年3月23日 20:37 星期一
+```
+作业，能力培养答案：
+```
+
+2026年3月23日 20:37 星期一
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260323/1774269452.jpg)
+
+2026年3月23日 20:37 星期一
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260323/1774269433.jpg)
+
+# Latest

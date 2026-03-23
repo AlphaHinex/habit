@@ -383,14 +383,10 @@ func main() {
 						return
 					}
 
-					addToHead := fmt.Sprintf("```\n%s\n```", textMsg.Text)
-					loc, _ := time.LoadLocation("Asia/Shanghai")
-					newContent := fmt.Sprintf("%s\n%s\n\n%s",
-						time.Now().In(loc).Format("2006年1月2日 15:04 星期一"),
-						addToHead,
-						fileContent)
+					newContent := fmt.Sprintf("```\n%s\n```", textMsg.Text)
+					updatedContent := attachNewContent(fileContent, newContent)
 
-					if err := updateFileOnGitHub(getFilePath(chatId), newContent, sha); err != nil {
+					if err := updateFileOnGitHub(getFilePath(chatId), updatedContent, sha); err != nil {
 						finalEmojiType = failedEmojiType
 						fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to update file: %v\n", err)
 					} else {
@@ -425,12 +421,11 @@ func main() {
 						return
 					}
 
-					imageURL := fmt.Sprintf("https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/%s/%s",
+					newContent := fmt.Sprintf("![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/%s/%s)",
 						time.Now().Format("20060102"), fileName)
-					loc, _ := time.LoadLocation("Asia/Shanghai")
-					newContent := fmt.Sprintf("%s\n![](%s)\n\n%s", time.Now().In(loc).Format("2006年1月2日 15:04 星期一"), imageURL, fileContent)
+					updatedContent := attachNewContent(fileContent, newContent)
 
-					if err := updateFileOnGitHub(getFilePath(chatId), newContent, sha); err != nil {
+					if err := updateFileOnGitHub(getFilePath(chatId), updatedContent, sha); err != nil {
 						finalEmojiType = failedEmojiType
 						fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to update file: %v\n", err)
 					} else {
@@ -461,17 +456,13 @@ func main() {
 						return
 					}
 
-					addToHead := fmt.Sprintf("[%s](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/%s/%s)",
+					newContent := fmt.Sprintf("[%s](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/%s/%s)",
 						fileMsg.FileName,
 						time.Now().Format("20060102"),
 						fileMsg.FileName)
-					loc, _ := time.LoadLocation("Asia/Shanghai")
-					newContent := fmt.Sprintf("%s\n%s\n\n%s",
-						time.Now().In(loc).Format("2006年1月2日 15:04 星期一"),
-						addToHead,
-						fileContent)
+					updatedContent := attachNewContent(fileContent, newContent)
 
-					if err := updateFileOnGitHub(getFilePath(chatId), newContent, sha); err != nil {
+					if err := updateFileOnGitHub(getFilePath(chatId), updatedContent, sha); err != nil {
 						finalEmojiType = failedEmojiType
 						fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to update file: %v\n", err)
 					} else {
@@ -501,4 +492,15 @@ func main() {
 	if err != nil {
 		panic(err)
 	}
+}
+
+func attachNewContent(originalContent string, newContent string) string {
+	loc, _ := time.LoadLocation("Asia/Shanghai")
+	suffix := "# Latest"
+	updatedContent := fmt.Sprintf("%s\n\n%s\n\n%s\n\n%s",
+		strings.TrimSuffix(strings.TrimSpace(originalContent), suffix),
+		time.Now().In(loc).Format("2006年1月2日 15:04 星期一"),
+		newContent,
+		suffix)
+	return updatedContent
 }

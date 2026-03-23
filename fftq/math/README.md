@@ -1,12 +1,9 @@
-2026年3月23日 20:01 星期一
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260323/1774267282.jpg)
-
-2026年3月22日 18:32 星期一
-```
-数学分墙准备就绪
-```
-
 # Math
+
+- [2026年3月23日 星期一](#2026-03-23)
+- [Latest](#latest)
+
+## Before
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/math/res/7b/20260304/Weixin%20Image_20260304191056_621_280.jpg)
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/math/res/7b/20260304/Weixin%20Image_20260304192502_622_280.jpg)
@@ -91,3 +88,10 @@
 
 2026-03-22 09:01 UTC
 [第一章 整式的乘除 答案.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260322/第一章 整式的乘除 答案.pdf)
+
+## 2026-03-23
+
+2026年3月23日 20:01 星期一
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260323/1774267282.jpg)
+
+# Latest

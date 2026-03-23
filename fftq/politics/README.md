@@ -1,9 +1,8 @@
-2026年3月22日 18:33 星期一
-```
-政治分墙准备就绪
-```
-
 # Politics
+
+- [Latest](#latest)
+
+## Before
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/politics/res/7b/Weixin%20Image_20260304185835_615_280.jpg)
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/politics/res/7b/Weixin%20Image_20260304185839_616_280.jpg)

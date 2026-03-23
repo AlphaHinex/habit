@@ -1,159 +1,10 @@
-2026年3月23日 20:12 星期一
-```
-更正：
-《说和做》卷纸3题 B选项正确。 是比喻句
-```
-
-2026年3月23日 20:11 星期一
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260323/1774267910.jpg)
-
-2026年3月23日 20:11 星期一
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260323/1774267889.jpg)
-
-2026年3月23日 08:39 星期一
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260323/1774226372.jpg)
-
-2026年3月23日 08:39 星期一
-[语文诗文理解性默写.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260323/语文诗文理解性默写.pdf)
-
-2026年3月23日 08:39 星期一
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260323/1774226344.jpg)
-
-2026年3月23日 08:38 星期一
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260323/1774226333.jpg)
-
-2026年3月23日 08:38 星期一
-```
-默的不好的孩子回家务必勤加练习[加油][加油][加油]
-```
-
-2026年3月22日 19:58 星期一
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260322/1774180686.jpg)
-
-2026年3月22日 19:57 星期一
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260322/1774180663.jpg)
-
-2026年3月22日 19:57 星期一
-```
-《邓稼先》习题第4题B项订正
-```
-
-2026年3月22日 19:57 星期一
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260322/1774180627.jpg)
-
-2026年3月22日 18:32 星期一
-```
-语文分墙准备就绪
-```
-
 # Chinese
 
-- [School](#school)、[Sunbo](#sunbo)
-
-## School
-
-![今日语文笔记](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/chinese/res/7b/Weixin%20Image_20260302194703_563_280.jpg)
-
-
-语文寒假作业详解答案
-1. [答案一.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案一.pdf)
-1. [答案二.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案二.pdf)
-1. [答案三.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案三.pdf)
-1. [答案四.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案四.pdf)
-1. [答案五.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案五.pdf)
-1. [答案六.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案六.pdf)
-1. [答案七.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案七.pdf)
-1. [答案八.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案八.pdf)
-1. [答案九.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案九.pdf)
-1. [答案十.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案十.pdf)
-1. [答案十一.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案十一.pdf)
-1. [答案十二.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案十二.pdf)
-1. [答案十三.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案十三.pdf)
-1. [答案十四.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案十四.pdf)
-1. [答案十五.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案十五.pdf)
-1. [答案十六.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案十六.pdf)
-1. [答案十七.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案十七.pdf)
-1. [答案十八.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案十八.pdf)
-1. [答案十九.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案十九.pdf)
-1. [答案二十.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案二十.pdf)
-
-2026-03-07 09:45 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260307/1772876732.jpg)
-
-2026-03-09 10:59 UTC
-```
-语文卷纸答案
-```
-
-2026-03-09 10:59 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260309/1773053960.jpg)
-
-2026-03-09 10:59 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260309/1773053953.jpg)
-
-2026-03-09 10:59 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260309/1773053947.jpg)
-
-2026-03-09 10:59 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260309/1773053939.jpg)
-
-2026-03-11 13:30 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260311/1773235812.jpg)
-
-2026-03-12 11:49 UTC
-```
-今日语文笔记
-```
-
-2026-03-12 11:48 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260312/1773316134.jpg)
-
-2026-03-12 11:48 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260312/1773316125.jpg)
-
-
-2026-03-15 12:39 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260315/1773578359.jpg)
-
-2026-03-15 12:39 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260315/1773578342.jpg)
-
-
-2026-03-16 12:10 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260316/1773663041.jpg)
-
-2026-03-16 12:10 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260316/1773663029.jpg)
-
-
-
-2026-03-19 09:38 UTC
-```
-语文环境描写的作用，背诵，明天抽查。
-```
-
-2026-03-19 09:37 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260319/1773913073.jpg)
-
-2026-03-18 12:51 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260318/1773838299.jpg)
-
-
-2026-03-19 11:05 UTC
-```
-[太阳]预习的字词
-```
-
-2026-03-19 11:04 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260319/1773918295.jpg)
-
-2026-03-19 11:04 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260319/1773918286.jpg)
-
-
-2026-03-21 08:41 UTC
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260321/1774082502.jpg)
-
+- [Sunbo](#sunbo)
+- [School](#school)
+- - [2026年3月22日 星期日](#2026-03-22)
+- - [2026年3月23日 星期一](#2026-03-23)
+- [Latest](#latest)
 
 ## Sunbo
 
@@ -309,3 +160,165 @@
 ```
 本节课主要是关于作文的讲解，分享的三篇例文都是非常好的模板作文，可以直接套用
 ```
+
+---
+
+## School
+
+![今日语文笔记](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/chinese/res/7b/Weixin%20Image_20260302194703_563_280.jpg)
+
+
+语文寒假作业详解答案
+1. [答案一.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案一.pdf)
+1. [答案二.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案二.pdf)
+1. [答案三.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案三.pdf)
+1. [答案四.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案四.pdf)
+1. [答案五.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案五.pdf)
+1. [答案六.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案六.pdf)
+1. [答案七.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案七.pdf)
+1. [答案八.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案八.pdf)
+1. [答案九.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案九.pdf)
+1. [答案十.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案十.pdf)
+1. [答案十一.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案十一.pdf)
+1. [答案十二.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案十二.pdf)
+1. [答案十三.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案十三.pdf)
+1. [答案十四.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案十四.pdf)
+1. [答案十五.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案十五.pdf)
+1. [答案十六.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案十六.pdf)
+1. [答案十七.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案十七.pdf)
+1. [答案十八.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案十八.pdf)
+1. [答案十九.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案十九.pdf)
+1. [答案二十.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/chinese/res/语文寒假作业详解答案/答案二十.pdf)
+
+2026-03-07 09:45 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260307/1772876732.jpg)
+
+2026-03-09 10:59 UTC
+```
+语文卷纸答案
+```
+
+2026-03-09 10:59 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260309/1773053960.jpg)
+
+2026-03-09 10:59 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260309/1773053953.jpg)
+
+2026-03-09 10:59 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260309/1773053947.jpg)
+
+2026-03-09 10:59 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260309/1773053939.jpg)
+
+2026-03-11 13:30 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260311/1773235812.jpg)
+
+2026-03-12 11:49 UTC
+```
+今日语文笔记
+```
+
+2026-03-12 11:48 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260312/1773316134.jpg)
+
+2026-03-12 11:48 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260312/1773316125.jpg)
+
+
+2026-03-15 12:39 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260315/1773578359.jpg)
+
+2026-03-15 12:39 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260315/1773578342.jpg)
+
+
+2026-03-16 12:10 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260316/1773663041.jpg)
+
+2026-03-16 12:10 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260316/1773663029.jpg)
+
+
+
+2026-03-19 09:38 UTC
+```
+语文环境描写的作用，背诵，明天抽查。
+```
+
+2026-03-19 09:37 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260319/1773913073.jpg)
+
+2026-03-18 12:51 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260318/1773838299.jpg)
+
+
+2026-03-19 11:05 UTC
+```
+[太阳]预习的字词
+```
+
+2026-03-19 11:04 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260319/1773918295.jpg)
+
+2026-03-19 11:04 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260319/1773918286.jpg)
+
+
+2026-03-21 08:41 UTC
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260321/1774082502.jpg)
+
+### 2026-03-22
+
+2026年3月22日 19:58 星期一
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260322/1774180686.jpg)
+
+2026年3月22日 19:57 星期一
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260322/1774180663.jpg)
+
+2026年3月22日 19:57 星期一
+```
+《邓稼先》习题第4题B项订正
+```
+
+2026年3月22日 19:57 星期一
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260322/1774180627.jpg)
+
+2026年3月22日 18:32 星期一
+```
+语文分墙准备就绪
+```
+
+### 2026-03-23
+
+2026年3月23日 08:39 星期一
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260323/1774226372.jpg)
+
+2026年3月23日 08:39 星期一
+[语文诗文理解性默写.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260323/语文诗文理解性默写.pdf)
+
+2026年3月23日 08:39 星期一
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260323/1774226344.jpg)
+
+2026年3月23日 08:38 星期一
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260323/1774226333.jpg)
+
+2026年3月23日 08:38 星期一
+```
+默的不好的孩子回家务必勤加练习[加油][加油][加油]
+```
+
+2026年3月23日 20:12 星期一
+```
+更正：
+《说和做》卷纸3题 B选项正确。 是比喻句
+```
+
+2026年3月23日 20:11 星期一
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260323/1774267910.jpg)
+
+2026年3月23日 20:11 星期一
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260323/1774267889.jpg)
+
+---
+
+# Latest
