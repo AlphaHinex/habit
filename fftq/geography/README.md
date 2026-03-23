@@ -1,3 +1,6 @@
+2026年3月23日 20:37 星期一
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260323/1774269433.jpg)
+
 2026年3月23日 20:36 星期一
 ```
 今日地理笔记
