@@ -223,4 +223,13 @@ p5的两篇课文汉译英必须掌握，成绩不佳的孩子利用周末时间
 
 [Ai来皇姑，Ai创未来活动的通知.doc](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260325/Ai来皇姑，Ai创未来活动的通知.doc)
 
+
+
+2026年3月25日 16:05 星期一
+
+```
+各位班主任：
+       请将《Ai来皇姑 Ai创未来活动的通知》发给家长，请通知本班有此类特长的学生踊跃按时参赛。
+```
+
 # Latest
