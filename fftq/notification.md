@@ -217,4 +217,10 @@ p5的两篇课文汉译英必须掌握，成绩不佳的孩子利用周末时间
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260324/1774347252.jpg)
 
+
+
+2026年3月25日 16:05 星期一
+
+[Ai来皇姑，Ai创未来活动的通知.doc](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260325/Ai来皇姑，Ai创未来活动的通知.doc)
+
 # Latest
