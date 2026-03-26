@@ -212,4 +212,10 @@ while+过去进行时
 右1今日英语小测，满分12。6分及以下的在校会重考，回家也请家长帮忙监督孩子笔记的复习[抱拳]  明天考笔记剩余部分[拥抱]
 ```
 
+
+
+2026年3月26日 11:45 星期一
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260326/1774496758.jpg)
+
 # Latest
