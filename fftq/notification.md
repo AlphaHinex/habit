@@ -253,4 +253,12 @@ p5的两篇课文汉译英必须掌握，成绩不佳的孩子利用周末时间
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260326/1774514537.jpg)
 
+
+
+2026年3月26日 18:43 星期一
+
+```
+带好生物书校本，明天有生物
+```
+
 # Latest
