@@ -198,4 +198,10 @@ while+过去进行时
 扣6分及以上的打印重考明天交🌹
 ```
 
+
+
+2026年3月26日 11:45 星期一
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260326/1774496722.jpg)
+
 # Latest
