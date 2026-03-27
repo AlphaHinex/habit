@@ -238,4 +238,10 @@ while+过去进行时
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260327/1774590669.jpg)
 
+
+
+2026年3月27日 13:51 星期一
+
+[小测.docx](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260327/小测.docx)
+
 # Latest
