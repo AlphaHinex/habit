@@ -330,4 +330,10 @@ p5的两篇课文汉译英必须掌握，成绩不佳的孩子利用周末时间
 本周日18:00~21:00为选修课选课时间，请孩子们按时扫码选课[玫瑰]
 ```
 
+
+
+2026年3月27日 11:29 星期一
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260327/1774582175.jpg)
+
 # Latest
