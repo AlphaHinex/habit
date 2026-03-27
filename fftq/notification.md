@@ -314,4 +314,12 @@ p5的两篇课文汉译英必须掌握，成绩不佳的孩子利用周末时间
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260327/1774582147.jpg)
 
+
+
+2026年3月27日 11:29 星期一
+
+```
+@所有人 请务必通知到每一个学生和家长[玫瑰][玫瑰][玫瑰]
+```
+
 # Latest
