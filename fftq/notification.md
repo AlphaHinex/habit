@@ -302,4 +302,10 @@ p5的两篇课文汉译英必须掌握，成绩不佳的孩子利用周末时间
 3. 请各对应班级班主任协助为在本班开设的选修课设计一张课程门标(手画、打印均可)，星期一张贴在教室前门。[抱拳][抱拳][抱拳][抱拳][抱拳]
 ```
 
+
+
+2026年3月27日 11:29 星期一
+
+[崇山校区七年级下选修课课程介绍.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260327/崇山校区七年级下选修课课程介绍.pdf)
+
 # Latest
