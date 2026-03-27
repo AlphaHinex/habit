@@ -232,4 +232,10 @@ while+过去进行时
 今日英语3单元剩余单词短语笔记小测，满分13，低于7分含7分，在校重考。掌握不好的孩子务必利用周末时间勤加练习[加油]
 ```
 
+
+
+2026年3月27日 13:51 星期一
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260327/1774590669.jpg)
+
 # Latest
