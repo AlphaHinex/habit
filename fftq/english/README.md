@@ -284,4 +284,10 @@ while+过去进行时
 右1英语3单元reading课文前两段汉译英句子翻译，明天考后两段[加油]
 ```
 
+
+
+2026年3月30日 19:24 星期一
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260330/1774869888.jpg)
+
 # Latest
