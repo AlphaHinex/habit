@@ -306,4 +306,10 @@ while+过去进行时
 最右列英语u3课文后两段汉译英句子翻译，满分24。
 ```
 
+
+
+2026年3月31日 22:53 星期一
+
+[我们沉默的朋友.docx](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260331/我们沉默的朋友.docx)
+
 # Latest
