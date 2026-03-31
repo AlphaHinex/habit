@@ -312,4 +312,12 @@ while+过去进行时
 
 [我们沉默的朋友.docx](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260331/我们沉默的朋友.docx)
 
+
+
+2026年3月31日 22:53 星期一
+
+```
+此课文要求会背诵，会默写。明天限时作业课内考查这篇文章，务必扎实掌握[加油]
+```
+
 # Latest
