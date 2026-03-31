@@ -320,4 +320,10 @@ while+过去进行时
 此课文要求会背诵，会默写。明天限时作业课内考查这篇文章，务必扎实掌握[加油]
 ```
 
+
+
+2026年3月31日 22:56 星期一
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260331/1774968981.jpg)
+
 # Latest
