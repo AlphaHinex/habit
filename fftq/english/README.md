@@ -290,4 +290,12 @@ while+过去进行时
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260330/1774869888.jpg)
 
+
+
+2026年3月31日 22:52 星期一
+
+```
+最右列英语u3课文后两段汉译英句子翻译，满分24。
+```
+
 # Latest
