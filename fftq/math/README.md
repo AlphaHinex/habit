@@ -178,4 +178,12 @@
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260330/1774872257.jpg)
 
+
+
+2026年3月31日 22:56 星期一
+
+```
+[太阳][太阳]今日记的数学笔记，没有用本子记的同学，记得抽空整理到笔记本上。笔记本都带着～
+```
+
 # Latest
