@@ -224,4 +224,10 @@ p7，p11先不用抄
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260331/1774968848.jpg)
 
+
+
+2026年4月1日 20:18 星期一
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260401/1775045933.jpg)
+
 # Latest
