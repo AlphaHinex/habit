@@ -118,4 +118,10 @@
 明天带好道法同步和里面的夹卷，需要电子版的自行打印
 ```
 
+
+
+2026年4月1日 17:12 星期一
+
+[同步第一单元检测卷.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260401/同步第一单元检测卷.pdf)
+
 # Latest
