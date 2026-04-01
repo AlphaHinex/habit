@@ -110,4 +110,12 @@
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260326/1774530774.jpg)
 
+
+
+2026年4月1日 17:11 星期一
+
+```
+明天带好道法同步和里面的夹卷，需要电子版的自行打印
+```
+
 # Latest
