@@ -186,4 +186,10 @@
 [太阳][太阳]今日记的数学笔记，没有用本子记的同学，记得抽空整理到笔记本上。笔记本都带着～
 ```
 
+
+
+2026年4月1日 17:55 星期一
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260401/1775037356.jpg)
+
 # Latest
