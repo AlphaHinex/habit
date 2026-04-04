@@ -356,4 +356,19 @@ while+过去进行时
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260402/1775097184.jpg)
 
+
+
+2026年4月4日 15:36 星期一
+
+```
+清明几天英语留一个实践作业: 做一张英语手抄报，A4大小。
+✅标题: Qingming Festival & Green Life
+✅内容分4块:
+🎈清明节日百科知识
+🎈所见所闻
+🎈贴一片树叶或一朵花并简单介绍
+🎈写一句感悟
+开学上交[拥抱][拥抱][拥抱]
+```
+
 # Latest
