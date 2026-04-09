@@ -401,4 +401,12 @@ while+过去进行时
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260409/1775725822.jpg)
 
+
+
+2026年4月9日 17:10 星期一
+
+```
+右1列今日英语4单元 书后单词短语，考到team。错超过7（含7）个的打印重考明天交[拥抱]
+```
+
 # Latest
