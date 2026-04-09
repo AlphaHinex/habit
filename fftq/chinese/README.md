@@ -475,4 +475,12 @@
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260409/1775731314.jpg)
 
+
+
+2026年4月9日 18:42 星期一
+
+```
+右1语文卷成绩，满分70，42分及以下明天上交错题反思[拥抱]
+```
+
 # Latest
