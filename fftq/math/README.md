@@ -255,4 +255,12 @@
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260409/1775701261.jpg)
 
+
+
+2026年4月9日 10:21 星期一
+
+```
+最右列✔️是数学周作业反馈计算有错误的，再勤加练习[加油]
+```
+
 # Latest
