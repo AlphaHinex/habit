@@ -483,4 +483,10 @@
 右1语文卷成绩，满分70，42分及以下明天上交错题反思[拥抱]
 ```
 
+
+
+2026年4月10日 18:26 星期一
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260410/1775816776.jpg)
+
 # Latest
