@@ -124,4 +124,10 @@
 
 [同步第一单元检测卷.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260401/同步第一单元检测卷.pdf)
 
+
+
+2026年4月10日 18:29 星期一
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260410/1775816958.jpg)
+
 # Latest
