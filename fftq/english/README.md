@@ -465,4 +465,12 @@ while+过去进行时
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260413/1776077507.jpg)
 
+
+
+2026年4月13日 18:51 星期一
+
+```
+上周五英语卷小测成绩
+```
+
 # Latest
