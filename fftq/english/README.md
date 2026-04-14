@@ -493,4 +493,12 @@ while+过去进行时
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260414/1776163743.jpg)
 
+
+
+2026年4月14日 18:49 星期一
+
+```
+右1今日英语4单元书后单词短语（考到team）[玫瑰]
+```
+
 # Latest
