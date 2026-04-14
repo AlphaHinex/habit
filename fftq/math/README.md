@@ -287,4 +287,10 @@
 
 [第三章概率初步答案.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260412/第三章概率初步答案.pdf)
 
+
+
+2026年4月14日 18:50 星期一
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260414/1776163848.jpg)
+
 # Latest
