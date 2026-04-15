@@ -327,4 +327,12 @@
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260415/1776249436.jpg)
 
+
+
+2026年4月15日 18:37 星期一
+
+```
+数学昨天限时作业  ⭕️的是计算错的，❌的是17题（3）错的，必须弄会[加油]
+```
+
 # Latest
