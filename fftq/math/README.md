@@ -341,4 +341,12 @@
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260415/1776249461.jpg)
 
+
+
+2026年4月15日 18:37 星期一
+
+```
+本周数学限时作业成绩
+```
+
 # Latest
