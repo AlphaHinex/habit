@@ -176,4 +176,12 @@
 
 [第六课 电子笔记.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260416/第六课 电子笔记.pdf)
 
+
+
+2026年4月16日 20:24 星期一
+
+```
+明日道法早读材料，纸质版已下发，请各位家长提醒孩子带好！
+```
+
 # Latest
