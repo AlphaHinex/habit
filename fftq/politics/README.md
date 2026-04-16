@@ -170,4 +170,10 @@
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260416/1776342227.jpg)
 
+
+
+2026年4月16日 20:23 星期一
+
+[第六课 电子笔记.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260416/第六课 电子笔记.pdf)
+
 # Latest
