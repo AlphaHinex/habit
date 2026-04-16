@@ -156,4 +156,12 @@
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260416/1776341853.jpg)
 
+
+
+2026年4月16日 20:23 星期一
+
+```
+第六课思维导图（抄写在教材上）和笔记如上，方便大家查缺补漏
+```
+
 # Latest
