@@ -456,4 +456,12 @@ p5的两篇课文汉译英必须掌握，成绩不佳的孩子利用周末时间
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260416/1776342204.jpg)
 
+
+
+2026年4月16日 20:23 星期一
+
+```
+语文作业还有   复习大本第一单元文常，往下考两课字词（拼音也要写）
+```
+
 # Latest
