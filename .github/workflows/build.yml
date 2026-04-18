@@ -34,11 +34,12 @@ jobs:
           GOOS: ${{ matrix.goos }}
           GOARCH: ${{ matrix.goarch }}
         run: |
+          cd habit
           ext=""
           if [ "$GOOS" = "windows" ]; then
             ext=".exe"
           fi
-          GOOS=$GOOS GOARCH=$GOARCH go build -ldflags="-s -w" -o lark-ws-${GOOS}-${GOARCH}${ext} .
+          GOOS=$GOOS GOARCH=$GOARCH go build -ldflags="-s -w" -o "../lark-ws-${GOOS}-${GOARCH}${ext}" .
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
