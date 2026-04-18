@@ -376,21 +376,32 @@ func main() {
 				if err := json.Unmarshal([]byte(rawContent), &textMsg); err == nil && len(textMsg.Text) > 0 {
 					fmt.Printf("[ OnP2MessageReceiveV1 access ], text: %s\n", textMsg.Text)
 
-					fileContent, sha, err := getFileFromGitHub(getFilePath(chatId))
+					chatFilePath := getFilePath(chatId)
+					newContent := fmt.Sprintf("```\n%s\n```", textMsg.Text)
+
+					updatedContent, newDay, sha, err := updateFileWithNewDayCheck(chatFilePath, newContent, false)
 					if err != nil {
 						finalEmojiType = failedEmojiType
 						fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to get file: %v\n", err)
 						return
 					}
 
-					newContent := fmt.Sprintf("```\n%s\n```", textMsg.Text)
-					updatedContent := attachNewContent(fileContent, newContent)
-
-					if err := updateFileOnGitHub(getFilePath(chatId), updatedContent, sha); err != nil {
+					if err := updateFileOnGitHub(chatFilePath, updatedContent, sha); err != nil {
 						finalEmojiType = failedEmojiType
 						fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to update file: %v\n", err)
-					} else {
-						fmt.Printf("[ OnP2MessageReceiveV1 access ], file updated successfully\n")
+						return
+					}
+
+					fmt.Printf("[ OnP2MessageReceiveV1 access ], file updated successfully\n")
+
+					if !isNotificationChat(chatId) {
+						notifContent := fmt.Sprintf("【%s】\n%s", getSubjectFromPath(chatFilePath), newContent)
+						notifUpdated, _, notifSha, err := updateFileWithNewDayCheck(notificationFilePath, notifContent, newDay)
+						if err != nil {
+							fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to sync to notification: %v\n", err)
+						} else if err := updateFileOnGitHub(notificationFilePath, notifUpdated, notifSha); err != nil {
+							fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to update notification file: %v\n", err)
+						}
 					}
 					return
 				}
@@ -414,22 +425,33 @@ func main() {
 
 					fmt.Printf("[ OnP2MessageReceiveV1 access ], image uploaded successfully: %s\n", fileName)
 
-					fileContent, sha, err := getFileFromGitHub(getFilePath(chatId))
+					chatFilePath := getFilePath(chatId)
+					newContent := fmt.Sprintf("![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/%s/%s)",
+						time.Now().Format("20060102"), fileName)
+
+					updatedContent, newDay, sha, err := updateFileWithNewDayCheck(chatFilePath, newContent, false)
 					if err != nil {
 						finalEmojiType = failedEmojiType
 						fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to get file: %v\n", err)
 						return
 					}
 
-					newContent := fmt.Sprintf("![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/%s/%s)",
-						time.Now().Format("20060102"), fileName)
-					updatedContent := attachNewContent(fileContent, newContent)
-
-					if err := updateFileOnGitHub(getFilePath(chatId), updatedContent, sha); err != nil {
+					if err := updateFileOnGitHub(chatFilePath, updatedContent, sha); err != nil {
 						finalEmojiType = failedEmojiType
 						fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to update file: %v\n", err)
-					} else {
-						fmt.Printf("[ OnP2MessageReceiveV1 access ], file updated successfully\n")
+						return
+					}
+
+					fmt.Printf("[ OnP2MessageReceiveV1 access ], file updated successfully\n")
+
+					if !isNotificationChat(chatId) {
+						notifContent := fmt.Sprintf("【%s】\n%s", getSubjectFromPath(chatFilePath), newContent)
+						notifUpdated, _, notifSha, err := updateFileWithNewDayCheck(notificationFilePath, notifContent, newDay)
+						if err != nil {
+							fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to sync to notification: %v\n", err)
+						} else if err := updateFileOnGitHub(notificationFilePath, notifUpdated, notifSha); err != nil {
+							fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to update notification file: %v\n", err)
+						}
 					}
 					return
 				}
@@ -449,24 +471,35 @@ func main() {
 						return
 					}
 
-					fileContent, sha, err := getFileFromGitHub(getFilePath(chatId))
+					chatFilePath := getFilePath(chatId)
+					newContent := fmt.Sprintf("[%s](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/%s/%s)",
+						fileMsg.FileName,
+						time.Now().Format("20060102"),
+						fileMsg.FileName)
+
+					updatedContent, newDay, sha, err := updateFileWithNewDayCheck(chatFilePath, newContent, false)
 					if err != nil {
 						finalEmojiType = failedEmojiType
 						fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to get file: %v\n", err)
 						return
 					}
 
-					newContent := fmt.Sprintf("[%s](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/%s/%s)",
-						fileMsg.FileName,
-						time.Now().Format("20060102"),
-						fileMsg.FileName)
-					updatedContent := attachNewContent(fileContent, newContent)
-
-					if err := updateFileOnGitHub(getFilePath(chatId), updatedContent, sha); err != nil {
+					if err := updateFileOnGitHub(chatFilePath, updatedContent, sha); err != nil {
 						finalEmojiType = failedEmojiType
 						fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to update file: %v\n", err)
-					} else {
-						fmt.Printf("[ OnP2MessageReceiveV1 access ], file updated successfully\n")
+						return
+					}
+
+					fmt.Printf("[ OnP2MessageReceiveV1 access ], file updated successfully\n")
+
+					if !isNotificationChat(chatId) {
+						notifContent := fmt.Sprintf("【%s】\n%s", getSubjectFromPath(chatFilePath), newContent)
+						notifUpdated, _, notifSha, err := updateFileWithNewDayCheck(notificationFilePath, notifContent, newDay)
+						if err != nil {
+							fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to sync to notification: %v\n", err)
+						} else if err := updateFileOnGitHub(notificationFilePath, notifUpdated, notifSha); err != nil {
+							fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to update notification file: %v\n", err)
+						}
 					}
 					return
 				}
@@ -494,13 +527,110 @@ func main() {
 	}
 }
 
-func attachNewContent(originalContent string, newContent string) string {
+func isNewDay(fileContent string) bool {
+	if fileContent == "" {
+		return true
+	}
 	loc, _ := time.LoadLocation("Asia/Shanghai")
+	currentDate := time.Now().In(loc).Format("2006年1月2日")
+
+	lines := strings.Split(fileContent, "\n")
+	for i := len(lines) - 1; i >= 0; i-- {
+		line := strings.TrimSpace(lines[i])
+		if strings.HasPrefix(line, "# ") {
+			trimmed := strings.TrimPrefix(line, "# ")
+			if strings.HasPrefix(trimmed, currentDate) {
+				return false
+			}
+			return true
+		}
+	}
+	return true
+}
+
+func getCurrentTimestamp() string {
+	loc, _ := time.LoadLocation("Asia/Shanghai")
+	return time.Now().In(loc).Format("2006年1月2日 15:04") + " " + time.Now().In(loc).Weekday().String()
+}
+
+const notificationChatId = "oc_86009321961989ec141e138603f8e0ff"
+const notificationFilePath = "fftq/notification.md"
+
+func isNotificationChat(chatId string) bool {
+	return chatId == notificationChatId
+}
+
+func renameOldNotificationFile() error {
+	loc, _ := time.LoadLocation("Asia/Shanghai")
+	dateStr := time.Now().In(loc).Format("20060102")
+	oldName := notificationFilePath
+	newName := fmt.Sprintf("fftq/notification-%s.md", dateStr)
+
+	content, sha, err := getFileFromGitHub(oldName)
+	if err != nil {
+		return err
+	}
+
+	if err := updateFileOnGitHub(newName, content, sha); err != nil {
+		return err
+	}
+
+	return nil
+}
+
+func updateFileWithNewDayCheck(filePath, newContent string, forceNewDay bool) (string, bool, string, error) {
+	fileContent, sha, err := getFileFromGitHub(filePath)
+	if err != nil {
+		return "", false, "", err
+	}
+
+	newDay := forceNewDay || isNewDay(fileContent)
+	if newDay && isNotificationChat(getChatIdFromPath(filePath)) {
+		if err := renameOldNotificationFile(); err != nil {
+			fmt.Printf("[updateFileWithNewDayCheck] failed to rename old file: %v\n", err)
+		}
+	}
+
+	updatedContent := attachNewContent(fileContent, newContent, newDay)
+	return updatedContent, newDay, sha, nil
+}
+
+func getChatIdFromPath(filePath string) string {
+	for chatId, path := range chatFileMapping {
+		if path == filePath {
+			return chatId
+		}
+	}
+	return ""
+}
+
+func getSubjectFromPath(filePath string) string {
+	subjects := map[string]string{
+		"fftq/math/README.md":      "数学",
+		"fftq/chinese/README.md":   "语文",
+		"fftq/english/README.md":   "英语",
+		"fftq/history/README.md":   "历史",
+		"fftq/geography/README.md": "地理",
+		"fftq/politics/README.md":  "政治",
+		"fftq/biology/README.md":   "生物",
+		"fftq/physics/README.md":   "物理",
+		"fftq/chemistry/README.md": "化学",
+	}
+	if subject, ok := subjects[filePath]; ok {
+		return subject
+	}
+	return "通知"
+}
+
+func attachNewContent(originalContent string, newContent string, isNewDay bool) string {
+	if isNewDay {
+		return fmt.Sprintf("# %s\n\n%s\n", getCurrentTimestamp(), newContent)
+	}
+
 	suffix := "# Latest"
-	updatedContent := fmt.Sprintf("%s\n\n%s\n\n%s\n\n%s",
+	return fmt.Sprintf("%s\n\n# %s\n\n%s\n\n%s",
 		strings.TrimSuffix(strings.TrimSpace(originalContent), suffix),
-		time.Now().In(loc).Format("2006年1月2日 15:04 星期一"),
+		getCurrentTimestamp(),
 		newContent,
 		suffix)
-	return updatedContent
 }
