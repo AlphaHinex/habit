@@ -2,3 +2,5 @@
 .idea/
 notebook/
 lark-ws/lark-ws
+.log
+.env
