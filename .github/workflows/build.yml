@@ -34,7 +34,7 @@ jobs:
           GOOS: ${{ matrix.goos }}
           GOARCH: ${{ matrix.goarch }}
         run: |
-          cd habit
+          cd lark-ws 
           ext=""
           if [ "$GOOS" = "windows" ]; then
             ext=".exe"
