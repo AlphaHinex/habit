@@ -584,14 +584,15 @@ func updateFileWithNewDayCheck(filePath, newContent string, forceNewDay bool) (s
 		return "", false, "", err
 	}
 
-	newDay := forceNewDay || isNewDay(fileContent)
-	if newDay && isNotificationChat(getChatIdFromPath(filePath)) {
+	isNotifFile := isNotificationChat(getChatIdFromPath(filePath))
+	newDay := forceNewDay || (isNotifFile && isNewDay(fileContent))
+	if newDay && isNotifFile {
 		if err := renameOldNotificationFile(); err != nil {
 			fmt.Printf("[updateFileWithNewDayCheck] failed to rename old file: %v\n", err)
 		}
 	}
 
-	updatedContent := attachNewContent(fileContent, newContent, newDay)
+	updatedContent := attachNewContent(fileContent, newContent, newDay, isNotifFile)
 	return updatedContent, newDay, sha, nil
 }
 
@@ -622,8 +623,8 @@ func getSubjectFromPath(filePath string) string {
 	return "通知"
 }
 
-func attachNewContent(originalContent string, newContent string, isNewDay bool) string {
-	if isNewDay {
+func attachNewContent(originalContent string, newContent string, isNewDay bool, isNotificationFile bool) string {
+	if isNotificationFile && isNewDay {
 		return fmt.Sprintf("# %s\n\n%s\n", getCurrentTimestamp(), newContent)
 	}
 
