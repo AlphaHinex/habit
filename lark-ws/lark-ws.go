@@ -379,7 +379,7 @@ func main() {
 					chatFilePath := getFilePath(chatId)
 					newContent := fmt.Sprintf("```\n%s\n```", textMsg.Text)
 
-					updatedContent, newDay, sha, err := updateFileWithNewDayCheck(chatFilePath, newContent, false)
+					updatedContent, _, sha, err := updateFileWithNewDayCheck(chatFilePath, newContent, false)
 					if err != nil {
 						finalEmojiType = failedEmojiType
 						fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to get file: %v\n", err)
@@ -396,7 +396,7 @@ func main() {
 
 					if !isNotificationChat(chatId) {
 						notifContent := fmt.Sprintf("【%s】\n%s", getSubjectFromPath(chatFilePath), newContent)
-						notifUpdated, _, notifSha, err := updateFileWithNewDayCheck(notificationFilePath, notifContent, newDay)
+						notifUpdated, _, notifSha, err := updateFileWithNewDayCheck(notificationFilePath, notifContent, false)
 						if err != nil {
 							fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to sync to notification: %v\n", err)
 						} else if err := updateFileOnGitHub(notificationFilePath, notifUpdated, notifSha); err != nil {
@@ -429,7 +429,7 @@ func main() {
 					newContent := fmt.Sprintf("![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/%s/%s)",
 						time.Now().Format("20060102"), fileName)
 
-					updatedContent, newDay, sha, err := updateFileWithNewDayCheck(chatFilePath, newContent, false)
+					updatedContent, _, sha, err := updateFileWithNewDayCheck(chatFilePath, newContent, false)
 					if err != nil {
 						finalEmojiType = failedEmojiType
 						fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to get file: %v\n", err)
@@ -446,7 +446,7 @@ func main() {
 
 					if !isNotificationChat(chatId) {
 						notifContent := fmt.Sprintf("【%s】\n%s", getSubjectFromPath(chatFilePath), newContent)
-						notifUpdated, _, notifSha, err := updateFileWithNewDayCheck(notificationFilePath, notifContent, newDay)
+						notifUpdated, _, notifSha, err := updateFileWithNewDayCheck(notificationFilePath, notifContent, false)
 						if err != nil {
 							fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to sync to notification: %v\n", err)
 						} else if err := updateFileOnGitHub(notificationFilePath, notifUpdated, notifSha); err != nil {
@@ -477,7 +477,7 @@ func main() {
 						time.Now().Format("20060102"),
 						fileMsg.FileName)
 
-					updatedContent, newDay, sha, err := updateFileWithNewDayCheck(chatFilePath, newContent, false)
+					updatedContent, _, sha, err := updateFileWithNewDayCheck(chatFilePath, newContent, false)
 					if err != nil {
 						finalEmojiType = failedEmojiType
 						fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to get file: %v\n", err)
@@ -494,7 +494,7 @@ func main() {
 
 					if !isNotificationChat(chatId) {
 						notifContent := fmt.Sprintf("【%s】\n%s", getSubjectFromPath(chatFilePath), newContent)
-						notifUpdated, _, notifSha, err := updateFileWithNewDayCheck(notificationFilePath, notifContent, newDay)
+						notifUpdated, _, notifSha, err := updateFileWithNewDayCheck(notificationFilePath, notifContent, false)
 						if err != nil {
 							fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to sync to notification: %v\n", err)
 						} else if err := updateFileOnGitHub(notificationFilePath, notifUpdated, notifSha); err != nil {
@@ -584,7 +584,7 @@ func updateFileWithNewDayCheck(filePath, newContent string, forceNewDay bool) (s
 		return "", false, "", err
 	}
 
-	isNotifFile := isNotificationChat(getChatIdFromPath(filePath))
+	isNotifFile := filePath == notificationFilePath
 	newDay := forceNewDay || (isNotifFile && isNewDay(fileContent))
 	if newDay && isNotifFile {
 		if err := renameOldNotificationFile(); err != nil {
