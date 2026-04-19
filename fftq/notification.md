@@ -26,3 +26,10 @@
 ```
 语文木兰诗卷正面答案，红笔批改，周一检查。
 ```
+
+# 2026年4月19日 18:15 Sunday
+
+【数学】
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260419/1776593713.jpg)
+
+# Latest
