@@ -19,7 +19,8 @@ import (
 	larkws "github.com/larksuite/oapi-sdk-go/v3/ws"
 )
 
-const defaultFilePath = "fftq/notification.md"
+const notificationFilePath = "fftq/notification.md"
+const notificationChatId = "oc_86009321961989ec141e138603f8e0ff"
 
 var chatFileMapping = map[string]string{
 	"oc_86009321961989ec141e138603f8e0ff": "fftq/notification.md",
@@ -38,7 +39,7 @@ func getFilePath(chatId string) string {
 	if path, ok := chatFileMapping[chatId]; ok {
 		return path
 	}
-	return defaultFilePath
+	return notificationChatId
 }
 
 type TextMsg struct {
@@ -553,9 +554,6 @@ func getCurrentTimestamp() string {
 	loc, _ := time.LoadLocation("Asia/Shanghai")
 	return time.Now().In(loc).Format("2006年1月2日 15:04") + " " + time.Now().In(loc).Weekday().String()
 }
-
-const notificationChatId = "oc_86009321961989ec141e138603f8e0ff"
-const notificationFilePath = "fftq/notification.md"
 
 func isNotificationChat(chatId string) bool {
 	return chatId == notificationChatId
