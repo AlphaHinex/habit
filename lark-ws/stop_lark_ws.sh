@@ -1,7 +1,7 @@
 #!/bin/bash
 # 自动停止当前系统中所有运行中的 lark-ws 进程
 
-PIDS=$(pgrep -f "lark-ws")
+PIDS=$(pgrep -f "lark-ws-")
 if [ -z "$PIDS" ]; then
   echo "未发现正在运行的 lark-ws 进程"
   exit 0
