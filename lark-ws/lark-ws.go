@@ -379,7 +379,7 @@ func main() {
 					chatFilePath := getFilePath(chatId)
 					newContent := fmt.Sprintf("```\n%s\n```", textMsg.Text)
 
-					updatedContent, _, sha, err := updateFileWithNewDayCheck(chatFilePath, newContent, false)
+					updatedContent, _, sha, err := updateFileWithNewDayCheck(chatFilePath, newContent)
 					if err != nil {
 						finalEmojiType = failedEmojiType
 						fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to get file: %v\n", err)
@@ -396,7 +396,7 @@ func main() {
 
 					if !isNotificationChat(chatId) {
 						notifContent := fmt.Sprintf("【%s】\n%s", getSubjectFromPath(chatFilePath), newContent)
-						notifUpdated, _, notifSha, err := updateFileWithNewDayCheck(notificationFilePath, notifContent, false)
+						notifUpdated, _, notifSha, err := updateFileWithNewDayCheck(notificationFilePath, notifContent)
 						if err != nil {
 							fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to sync to notification: %v\n", err)
 						} else if err := updateFileOnGitHub(notificationFilePath, notifUpdated, notifSha); err != nil {
@@ -429,7 +429,7 @@ func main() {
 					newContent := fmt.Sprintf("![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/%s/%s)",
 						time.Now().Format("20060102"), fileName)
 
-					updatedContent, _, sha, err := updateFileWithNewDayCheck(chatFilePath, newContent, false)
+					updatedContent, _, sha, err := updateFileWithNewDayCheck(chatFilePath, newContent)
 					if err != nil {
 						finalEmojiType = failedEmojiType
 						fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to get file: %v\n", err)
@@ -446,7 +446,7 @@ func main() {
 
 					if !isNotificationChat(chatId) {
 						notifContent := fmt.Sprintf("【%s】\n%s", getSubjectFromPath(chatFilePath), newContent)
-						notifUpdated, _, notifSha, err := updateFileWithNewDayCheck(notificationFilePath, notifContent, false)
+						notifUpdated, _, notifSha, err := updateFileWithNewDayCheck(notificationFilePath, notifContent)
 						if err != nil {
 							fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to sync to notification: %v\n", err)
 						} else if err := updateFileOnGitHub(notificationFilePath, notifUpdated, notifSha); err != nil {
@@ -477,7 +477,7 @@ func main() {
 						time.Now().Format("20060102"),
 						fileMsg.FileName)
 
-					updatedContent, _, sha, err := updateFileWithNewDayCheck(chatFilePath, newContent, false)
+					updatedContent, _, sha, err := updateFileWithNewDayCheck(chatFilePath, newContent)
 					if err != nil {
 						finalEmojiType = failedEmojiType
 						fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to get file: %v\n", err)
@@ -494,7 +494,7 @@ func main() {
 
 					if !isNotificationChat(chatId) {
 						notifContent := fmt.Sprintf("【%s】\n%s", getSubjectFromPath(chatFilePath), newContent)
-						notifUpdated, _, notifSha, err := updateFileWithNewDayCheck(notificationFilePath, notifContent, false)
+						notifUpdated, _, notifSha, err := updateFileWithNewDayCheck(notificationFilePath, notifContent)
 						if err != nil {
 							fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to sync to notification: %v\n", err)
 						} else if err := updateFileOnGitHub(notificationFilePath, notifUpdated, notifSha); err != nil {
@@ -542,7 +542,6 @@ func isNewDay(fileContent string) bool {
 			if strings.HasPrefix(trimmed, currentDate) {
 				return false
 			}
-			return true
 		}
 	}
 	return true
@@ -578,14 +577,14 @@ func renameOldNotificationFile() error {
 	return nil
 }
 
-func updateFileWithNewDayCheck(filePath, newContent string, forceNewDay bool) (string, bool, string, error) {
+func updateFileWithNewDayCheck(filePath, newContent string) (string, bool, string, error) {
 	fileContent, sha, err := getFileFromGitHub(filePath)
 	if err != nil {
 		return "", false, "", err
 	}
 
 	isNotifFile := filePath == notificationFilePath
-	newDay := forceNewDay || (isNotifFile && isNewDay(fileContent))
+	newDay := isNewDay(fileContent)
 	if newDay && isNotifFile {
 		if err := renameOldNotificationFile(); err != nil {
 			fmt.Printf("[updateFileWithNewDayCheck] failed to rename old file: %v\n", err)
@@ -594,15 +593,6 @@ func updateFileWithNewDayCheck(filePath, newContent string, forceNewDay bool) (s
 
 	updatedContent := attachNewContent(fileContent, newContent, newDay, isNotifFile)
 	return updatedContent, newDay, sha, nil
-}
-
-func getChatIdFromPath(filePath string) string {
-	for chatId, path := range chatFileMapping {
-		if path == filePath {
-			return chatId
-		}
-	}
-	return ""
 }
 
 func getSubjectFromPath(filePath string) string {
