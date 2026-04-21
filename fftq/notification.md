@@ -1,3 +1,5 @@
+[素养大赛报名指南.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260421/素养大赛报名指南.pdf)
+
 ```
 https://mp.weixin.qq.com/s/96jDuTa5vUCrYIJlj-Bmdg
 ```
