@@ -21,7 +21,6 @@ import (
 )
 
 const notificationFilePath = "fftq/notification.md"
-const notificationChatId = "oc_86009321961989ec141e138603f8e0ff"
 
 var gitHubFileMu sync.Mutex
 
@@ -389,15 +388,9 @@ func main() {
 					}
 
 					fmt.Printf("[ OnP2MessageReceiveV1 access ], file updated successfully\n")
-
-					if !isNotificationChat(chatId) {
-						notifContent := fmt.Sprintf("【%s】\n%s", getSubjectFromPath(chatFilePath), newContent)
-						if err := updateFileWithNewDayCheck(notificationFilePath, notifContent); err != nil {
-							fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to sync to notification: %v\n", err)
-						}
-					}
 					return
 				}
+
 				var imgMsg ImgMsg
 				if err := json.Unmarshal([]byte(rawContent), &imgMsg); err == nil && len(imgMsg.ImageKey) > 0 {
 					fmt.Printf("[ OnP2MessageReceiveV1 access ], image_key: %s\n", imgMsg.ImageKey)
@@ -429,13 +422,6 @@ func main() {
 					}
 
 					fmt.Printf("[ OnP2MessageReceiveV1 access ], file updated successfully\n")
-
-					if !isNotificationChat(chatId) {
-						notifContent := fmt.Sprintf("【%s】\n%s", getSubjectFromPath(chatFilePath), newContent)
-						if err := updateFileWithNewDayCheck(notificationFilePath, notifContent); err != nil {
-							fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to sync to notification: %v\n", err)
-						}
-					}
 					return
 				}
 
@@ -467,13 +453,6 @@ func main() {
 					}
 
 					fmt.Printf("[ OnP2MessageReceiveV1 access ], file updated successfully\n")
-
-					if !isNotificationChat(chatId) {
-						notifContent := fmt.Sprintf("【%s】\n%s", getSubjectFromPath(chatFilePath), newContent)
-						if err := updateFileWithNewDayCheck(notificationFilePath, notifContent); err != nil {
-							fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to sync to notification: %v\n", err)
-						}
-					}
 					return
 				}
 
@@ -522,10 +501,6 @@ func isNewDay(fileContent string) bool {
 func getCurrentTimestamp() string {
 	loc, _ := time.LoadLocation("Asia/Shanghai")
 	return time.Now().In(loc).Format("2006年1月2日 15:04") + " " + time.Now().In(loc).Weekday().String()
-}
-
-func isNotificationChat(chatId string) bool {
-	return chatId == notificationChatId
 }
 
 func getLastEntryDate(fileContent string) (time.Time, bool) {
@@ -577,49 +552,43 @@ func archiveNotificationFile(fileContent string) error {
 	return updateFileOnGitHub(archivePath, fileContent, archiveSha)
 }
 
+// 更新 filePath 指定文件内容，若 filePath 不是 notificationFilePath，同时向 notificationFilePath 顶部插入最新内容。
+// 更新非 notificationFilePath 时，直接在尾部追加新内容，并放置 Latest 标签；
+// 更新 notificationFilePath 文件时，直接在前面插入最新内容。
+// 若发现 newContent 与 notificationFilePath 中最新内容不是相同日期，则为 notificationFilePath 文件创建备份，并覆盖原 notificationFilePath 中内容。
 func updateFileWithNewDayCheck(filePath, newContent string) error {
 	gitHubFileMu.Lock()
 	defer gitHubFileMu.Unlock()
 
 	fmt.Printf("[updateFileWithNewDayCheck] begin update for %s\n", filePath)
 
-	fileContent, sha, err := getFileFromGitHub(filePath)
+	isNotificationFile := filePath == notificationFilePath
+	updatedContent := ""
+	if !isNotificationFile {
+		fileContent, sha, err := getFileFromGitHub(filePath)
+		if err != nil {
+			return err
+		}
+		fmt.Printf("[updateFileWithNewDayCheck] appending content to %s\n", filePath)
+		updatedContent = attachNewContent(fileContent, newContent)
+		if err := updateFileOnGitHub(filePath, updatedContent, sha); err != nil {
+			return fmt.Errorf("update %s failed: %w", filePath, err)
+		}
+	}
+	notificationFileContent, notificationFileSha, err := getFileFromGitHub(notificationFilePath)
 	if err != nil {
 		return err
 	}
-
-	isNotificationFile := filePath == notificationFilePath
-	updatedContent := ""
-	if isNotificationFile && isNewDay(fileContent) {
-		if err := archiveNotificationFile(fileContent); err != nil {
+	if isNewDay(notificationFileContent) {
+		if err := archiveNotificationFile(notificationFileContent); err != nil {
 			return fmt.Errorf("archive notification file: %w", err)
 		}
 		fmt.Printf("[updateFileWithNewDayCheck] starting a fresh daily notification file\n")
 		updatedContent = fmt.Sprintf("# %s\n\n%s\n", getCurrentTimestamp(), newContent)
 	} else {
-		fmt.Printf("[updateFileWithNewDayCheck] appending content to %s\n", filePath)
-		updatedContent = attachNewContent(fileContent, newContent)
+		updatedContent = fmt.Sprintf("%s\n\n%s", newContent, notificationFileContent)
 	}
-
-	return updateFileOnGitHub(filePath, updatedContent, sha)
-}
-
-func getSubjectFromPath(filePath string) string {
-	subjects := map[string]string{
-		"fftq/math/README.md":      "数学",
-		"fftq/chinese/README.md":   "语文",
-		"fftq/english/README.md":   "英语",
-		"fftq/history/README.md":   "历史",
-		"fftq/geography/README.md": "地理",
-		"fftq/politics/README.md":  "政治",
-		"fftq/biology/README.md":   "生物",
-		"fftq/physics/README.md":   "物理",
-		"fftq/chemistry/README.md": "化学",
-	}
-	if subject, ok := subjects[filePath]; ok {
-		return subject
-	}
-	return "通知"
+	return updateFileOnGitHub(notificationFilePath, updatedContent, notificationFileSha)
 }
 
 func attachNewContent(originalContent string, newContent string) string {
