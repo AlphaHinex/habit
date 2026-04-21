@@ -1,3 +1,5 @@
+[关于举办2025—2026学年世界机器人大会青少年机器人设计与信息素养大赛信息素养类的通知.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260421/关于举办2025—2026学年世界机器人大会青少年机器人设计与信息素养大赛信息素养类的通知.pdf)
+
 [素养大赛报名指南.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260421/素养大赛报名指南.pdf)
 
 ```
