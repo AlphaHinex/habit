@@ -565,4 +565,10 @@
 今天做的语文卷答案，红笔批改。
 ```
 
+
+
+# 2026年4月21日 17:35 Tuesday
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260421/1776764150.jpg)
+
 # Latest
