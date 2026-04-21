@@ -1,4 +1,8 @@
 ```
+https://mp.weixin.qq.com/s/96jDuTa5vUCrYIJlj-Bmdg
+```
+
+```
 关于组织推广全国青少年信息素养大赛的通知
 
 各中小学校：
