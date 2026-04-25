@@ -565,4 +565,12 @@ while+过去进行时
 
 [4.23小测.docx](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260425/4.23小测.docx)
 
+
+
+# 2026年4月25日 15:44 Saturday
+
+```
+今日英语5单元考到p72，错8个及以上的打印重考，明天交
+```
+
 # Latest
