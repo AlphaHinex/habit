@@ -1,3 +1,5 @@
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260425/1777103294.jpg)
+
 ```
 [太阳]手拉手模型图，孩子们整理笔记用
 ```
