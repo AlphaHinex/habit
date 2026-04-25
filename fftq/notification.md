@@ -1,3 +1,9 @@
+```
+温馨提示:
+       电子版笔记仅用于查缺补漏、辅助复习，核心内容需孩子课堂上自主记录！若孩子回家后需要大量抄写笔记，大概率是课堂专注度不足、效率有待提升，建议和孩子沟通调整听课状态[抱拳][抱拳][抱拳][抱拳]。
+       麻烦家长们配合：不替孩子代抄笔记，鼓励孩子自主校对、整理知识点，通过独立梳理实现知识消化吸收，这样才能真正掌握所学内容[抱拳][抱拳][抱拳][抱拳][抱拳][抱拳]
+```
+
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260425/1777121375.jpg)
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260425/1777121357.jpg)
