@@ -1,3 +1,5 @@
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260425/1777103280.jpg)
+
 ```
 最右列语文反馈默写有错误的，周末务必再认真复习[加油]
 ```
