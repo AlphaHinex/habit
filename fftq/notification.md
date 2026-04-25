@@ -1,3 +1,5 @@
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260425/1777103091.jpg)
+
 ```
 今日英语5单元考到p72，错8个及以上的打印重考，明天交
 ```
