@@ -573,4 +573,10 @@ while+过去进行时
 今日英语5单元考到p72，错8个及以上的打印重考，明天交
 ```
 
+
+
+# 2026年4月25日 15:48 Saturday
+
+[英语前四单元范文.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260425/英语前四单元范文.pdf)
+
 # Latest
