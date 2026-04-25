@@ -1,3 +1,5 @@
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260425/1777103142.jpg)
+
 ```
 [太阳]今日数学能力培养作业答案
 ```
