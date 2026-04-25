@@ -5,6 +5,12 @@ on:
     branches:
       - main
       - master
+    # 仅当 Go 文件发生变化时触发（分支 push）
+    paths:
+      - '**/*.go'
+    # 同时允许 tag push 触发（用于 release），不受 paths 影响
+    tags:
+      - 'v*'
   workflow_dispatch:
 
 jobs:
