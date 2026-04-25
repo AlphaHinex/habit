@@ -1,3 +1,5 @@
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260425/1777103348.jpg)
+
 ```
 范文今日已下发纸质版，丢了自己打印即可[拥抱]
 ```
