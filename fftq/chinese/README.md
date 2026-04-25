@@ -589,4 +589,12 @@
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260425/1777103264.jpg)
 
+
+
+# 2026年4月25日 15:47 Saturday
+
+```
+最右列语文反馈默写有错误的，周末务必再认真复习[加油]
+```
+
 # Latest
