@@ -613,4 +613,10 @@ A12～A14答案
 [太阳]第四章校本答案
 ```
 
+
+
+# 2026年5月5日 19:01 Tuesday
+
+[月考数学答案.docx](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260505/月考数学答案.docx)
+
 # Latest
