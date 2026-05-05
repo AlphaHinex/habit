@@ -1,3 +1,5 @@
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260505/1777978905.jpg)
+
 ```
 [太阳]数学虹桥卷答案～
 ```
