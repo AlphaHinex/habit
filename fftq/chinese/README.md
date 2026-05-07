@@ -697,4 +697,10 @@
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260505/1777983384.jpg)
 
+
+
+# 2026年5月7日 21:58 Thursday
+
+[名著--西游记、骆驼祥子.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260507/名著--西游记、骆驼祥子.pdf)
+
 # Latest
