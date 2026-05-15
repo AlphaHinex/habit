@@ -1,3 +1,5 @@
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260515/1778810206.jpg)
+
 ```
 语文晨写本
 ```
