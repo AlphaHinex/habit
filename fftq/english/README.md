@@ -723,4 +723,12 @@ while+过去进行时
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260514/1778762062.jpg)
 
+
+
+# 2026年5月15日 09:55 Friday
+
+```
+昨天英语答案发错了
+```
+
 # Latest
