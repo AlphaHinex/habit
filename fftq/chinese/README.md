@@ -763,4 +763,10 @@
 本周末作业修改我们这次月考作文。不会写的同学可以参照范文：
 ```
 
+
+
+# 2026年5月15日 09:57 Friday
+
+[作文示例.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260515/作文示例.pdf)
+
 # Latest
