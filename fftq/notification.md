@@ -1,3 +1,5 @@
+[七年级（下）期中作业-考试原卷语文.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260515/七年级（下）期中作业-考试原卷语文.pdf)
+
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260515/1778810265.jpg)
 
 ```
