@@ -1,3 +1,5 @@
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260515/1778810265.jpg)
+
 ```
 [太阳]期中卷最后一题第二种情况图
 ```
