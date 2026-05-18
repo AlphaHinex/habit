@@ -755,4 +755,10 @@ while+过去进行时
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260518/1779103703.jpg)
 
+
+
+# 2026年5月18日 19:37 Monday
+
+[origin](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260518/origin)
+
 # Latest
