@@ -823,4 +823,12 @@
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260524/1779592674.jpg)
 
+
+
+# 2026年5月24日 11:18 Sunday
+
+```
+为了提高学生的阅读水平，语文组陆续制作了一些知识点小视频，请学生观看
+```
+
 # Latest
