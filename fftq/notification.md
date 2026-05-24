@@ -1,3 +1,5 @@
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260524/1779623590.jpg)
+
 ```
 更改一道题的要求：期末复习大蓝本的22页，第20题应该是三角形BFC是2.5，不是ABC
 ```
