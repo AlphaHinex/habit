@@ -1,32 +1,3 @@
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260525/1779712830.jpg)
+# 2026年5月26日 14:08 Tuesday
 
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260525/1779712811.jpg)
-
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260525/1779708145.jpg)
-
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260525/1779708134.jpg)
-
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260525/1779708123.jpg)
-
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260525/1779708101.jpg)
-
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260525/1779708083.jpg)
-
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260525/1779708072.jpg)
-
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260525/1779708059.jpg)
-
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260525/1779708047.jpg)
-
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260525/1779708029.jpg)
-
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260525/1779708013.jpg)
-
-```
-今日语文作业                                        
-抄第10课字词，语文周考大卷错古诗和字词的错一写十
-```
-
-# 2026年5月25日 15:01 Monday
-
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260525/1779692501.jpg)
+[关于组织开展2026年“中英青少年人文交流项目”的通知.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260526/关于组织开展2026年“中英青少年人文交流项目”的通知.pdf)
