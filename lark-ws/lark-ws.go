@@ -441,10 +441,7 @@ func processMediaMessage(client *lark.Client, msgId, chatId, rawContent string) 
 		}
 
 		chatFilePath := getFilePath(chatId)
-		newContent := fmt.Sprintf(`<video controls width="100%%" 
-src="https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/%s/%s" 
-poster="https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/%s/%s" 
-></video>`,
+		newContent := fmt.Sprintf(`<video controls width="100%%" src="https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/%s/%s" poster="https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/%s/%s"></video>`,
 			time.Now().Format("20060102"),
 			mediaMsg.FileName,
 			time.Now().Format("20060102"),
