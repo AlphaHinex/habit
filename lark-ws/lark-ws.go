@@ -264,7 +264,7 @@ func updateFileOnGitHub(fileName, content, sha string) error {
 	defer resp.Body.Close()
 
 	// 检查响应状态码
-	if resp.StatusCode != http.StatusOK {
+	if resp.StatusCode != http.StatusOK && resp.StatusCode != http.StatusCreated {
 		// 读取错误响应
 		errBody, _ := io.ReadAll(resp.Body)
 		return fmt.Errorf("failed to update, status code: %d, error: %s", resp.StatusCode, string(errBody))

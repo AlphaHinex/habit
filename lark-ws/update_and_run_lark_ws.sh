@@ -34,6 +34,7 @@ FILENAME="lark-ws-${GOOS}-${GOARCH}"
 echo
 echo "3. 解压并启动最新 lark-ws..."
 unzip -o "$DIR/${FILENAME}.zip" -d "$DIR"
+rm -f "$DIR/${FILENAME}.zip"
 
 chmod +x "$DIR/$FILENAME"
 
