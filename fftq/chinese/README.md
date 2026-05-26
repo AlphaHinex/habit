@@ -840,4 +840,10 @@
 抄第10课字词，语文周考大卷错古诗和字词的错一写十
 ```
 
+
+
+# 2026年5月26日 14:09 Tuesday
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260526/1779775755.jpg)
+
 # Latest
