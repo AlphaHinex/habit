@@ -48,6 +48,12 @@ type TextMsg struct {
 	Text string `json:"text"`
 }
 
+type MediaMsg struct {
+	ImageKey string `json:"image_key"`
+	FileKey  string `json:"file_key"`
+	FileName string `json:"file_name"`
+}
+
 type ImgMsg struct {
 	ImageKey string `json:"image_key"`
 }
@@ -341,9 +347,6 @@ func main() {
 		panic("APP_ID or APP_SECRET environment variable not set")
 	}
 
-	// 创建 Client
-	client := lark.NewClient(appID, appSecret)
-
 	// 注册事件回调，OnP2MessageReceiveV1 为接收消息 v2.0；OnCustomizedEvent 内的 message 为接收消息 v1.0。
 	eventHandler := dispatcher.NewEventDispatcher("", "").
 		OnP2MessageReceiveV1(func(ctx context.Context, event *larkim.P2MessageReceiveV1) error {
@@ -354,111 +357,9 @@ func main() {
 				return nil
 			}
 
-			msgID := *event.Event.Message.MessageId
-			rawContent := *event.Event.Message.Content
-			var chatId string
-			if event.Event.Message.ChatId != nil {
-				chatId = *event.Event.Message.ChatId
-			}
-
-			go func() {
-				finalEmojiType := doneEmojiType
-				processingReactionID, err := addMessageReaction(client, msgID, processingEmojiType)
-				if err != nil {
-					fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to add processing reaction: %v\n", err)
-				}
-
-				defer func() {
-					if err := switchMessageReaction(client, msgID, processingReactionID, finalEmojiType); err != nil {
-						fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to switch reaction to final status(%s): %v\n", finalEmojiType, err)
-					}
-				}()
-
-				var textMsg TextMsg
-				if err := json.Unmarshal([]byte(rawContent), &textMsg); err == nil && len(textMsg.Text) > 0 {
-					fmt.Printf("[ OnP2MessageReceiveV1 access ], text: %s\n", textMsg.Text)
-
-					chatFilePath := getFilePath(chatId)
-					newContent := fmt.Sprintf("```\n%s\n```", textMsg.Text)
-
-					if err := updateFileWithNewDayCheck(chatFilePath, newContent); err != nil {
-						finalEmojiType = failedEmojiType
-						fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to update file: %v\n", err)
-						return
-					}
-
-					fmt.Printf("[ OnP2MessageReceiveV1 access ], file updated successfully\n")
-					return
-				}
-
-				var imgMsg ImgMsg
-				if err := json.Unmarshal([]byte(rawContent), &imgMsg); err == nil && len(imgMsg.ImageKey) > 0 {
-					fmt.Printf("[ OnP2MessageReceiveV1 access ], image_key: %s\n", imgMsg.ImageKey)
-
-					imageData, err := getFileFromMsg(client, msgID, imgMsg.ImageKey, "image")
-					if err != nil {
-						finalEmojiType = failedEmojiType
-						fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to get image: %v\n", err)
-						return
-					}
-
-					fileName := fmt.Sprintf("%d.jpg", time.Now().Unix())
-					if err := uploadFileToGitHub(imageData, fileName); err != nil {
-						finalEmojiType = failedEmojiType
-						fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to upload image: %v\n", err)
-						return
-					}
-
-					fmt.Printf("[ OnP2MessageReceiveV1 access ], image uploaded successfully: %s\n", fileName)
-
-					chatFilePath := getFilePath(chatId)
-					newContent := fmt.Sprintf("![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/%s/%s)",
-						time.Now().Format("20060102"), fileName)
-
-					if err := updateFileWithNewDayCheck(chatFilePath, newContent); err != nil {
-						finalEmojiType = failedEmojiType
-						fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to update file: %v\n", err)
-						return
-					}
-
-					fmt.Printf("[ OnP2MessageReceiveV1 access ], file updated successfully\n")
-					return
-				}
-
-				var fileMsg FileMsg
-				if err := json.Unmarshal([]byte(rawContent), &fileMsg); err == nil && len(fileMsg.FileKey) > 0 {
-					fileData, err := getFileFromMsg(client, msgID, fileMsg.FileKey, "file")
-					if err != nil {
-						finalEmojiType = failedEmojiType
-						fmt.Printf("[File Message] could not get file: %v\n", err)
-						return
-					}
-
-					if err := uploadFileToGitHub(fileData, fileMsg.FileName); err != nil {
-						finalEmojiType = failedEmojiType
-						fmt.Printf("[File Message] failed to upload file: %v\n", err)
-						return
-					}
-
-					chatFilePath := getFilePath(chatId)
-					newContent := fmt.Sprintf("[%s](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/%s/%s)",
-						fileMsg.FileName,
-						time.Now().Format("20060102"),
-						fileMsg.FileName)
-
-					if err := updateFileWithNewDayCheck(chatFilePath, newContent); err != nil {
-						finalEmojiType = failedEmojiType
-						fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to update file: %v\n", err)
-						return
-					}
-
-					fmt.Printf("[ OnP2MessageReceiveV1 access ], file updated successfully\n")
-					return
-				}
-
-				finalEmojiType = failedEmojiType
-				fmt.Printf("[ OnP2MessageReceiveV1 access ], unsupported message content\n")
-			}()
+			// 创建 Client
+			client := lark.NewClient(appID, appSecret)
+			go processMessageEvent(client, event.Event.Message)
 
 			return nil
 		}).
@@ -476,6 +377,175 @@ func main() {
 	err := cli.Start(context.Background())
 	if err != nil {
 		panic(err)
+	}
+}
+
+func processMessageEvent(client *lark.Client, message *larkim.EventMessage) {
+	msgId := *message.MessageId
+	rawContent := *message.Content
+	var chatId string
+	if message.ChatId != nil {
+		chatId = *message.ChatId
+	}
+
+	finalEmojiType := doneEmojiType
+	processingReactionID, err := addMessageReaction(client, msgId, processingEmojiType)
+	if err != nil {
+		fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to add processing reaction: %v\n", err)
+	}
+
+	defer func() {
+		if err := switchMessageReaction(client, msgId, processingReactionID, finalEmojiType); err != nil {
+			fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to switch reaction to final status(%s): %v\n", finalEmojiType, err)
+		}
+	}()
+
+	messageType := *message.MessageType
+	switch messageType {
+	case "media":
+		finalEmojiType = processMediaMessage(client, msgId, chatId, rawContent)
+	case "file":
+		finalEmojiType = processFileMessage(client, msgId, chatId, rawContent)
+	case "image":
+		finalEmojiType = processImageMessage(client, msgId, chatId, rawContent)
+	case "text":
+		finalEmojiType = processTextMessage(chatId, rawContent)
+	default:
+		finalEmojiType = failedEmojiType
+		fmt.Printf("[ OnP2MessageReceiveV1 access ], unsupported message content\n")
+	}
+}
+
+func processMediaMessage(client *lark.Client, msgId, chatId, rawContent string) string {
+	var mediaMsg MediaMsg
+	if err := json.Unmarshal([]byte(rawContent), &mediaMsg); err == nil && len(mediaMsg.FileKey) > 0 && len(mediaMsg.ImageKey) > 0 {
+		fileData, err := getFileFromMsg(client, msgId, mediaMsg.FileKey, "file")
+		if err != nil {
+			fmt.Printf("[Media Message] could not get file: %v\n", err)
+			return failedEmojiType
+		}
+		imageData, err := getFileFromMsg(client, msgId, mediaMsg.ImageKey, "image")
+		if err != nil {
+			fmt.Printf("[Media Message], failed to get image: %v\n", err)
+			return failedEmojiType
+		}
+
+		if err := uploadFileToGitHub(fileData, mediaMsg.FileName); err != nil {
+			fmt.Printf("[Media Message] failed to upload file: %v\n", err)
+			return failedEmojiType
+		}
+		imgFileName := fmt.Sprintf("%d.jpg", time.Now().Unix())
+		if err := uploadFileToGitHub(imageData, imgFileName); err != nil {
+			fmt.Printf("[Media Message], failed to upload image: %v\n", err)
+			return failedEmojiType
+		}
+
+		chatFilePath := getFilePath(chatId)
+		newContent := fmt.Sprintf(`<video controls width="100%%" 
+src="https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/%s/%s" 
+poster="https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/%s/%s" 
+></video>`,
+			time.Now().Format("20060102"),
+			mediaMsg.FileName,
+			time.Now().Format("20060102"),
+			imgFileName)
+
+		if err := updateFileWithNewDayCheck(chatFilePath, newContent); err != nil {
+			fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to update file: %v\n", err)
+			return failedEmojiType
+		}
+
+		fmt.Printf("[ OnP2MessageReceiveV1 access ], file updated successfully\n")
+		return doneEmojiType
+	} else {
+		return failedEmojiType
+	}
+}
+
+func processFileMessage(client *lark.Client, msgId, chatId, rawContent string) string {
+	var fileMsg FileMsg
+	if err := json.Unmarshal([]byte(rawContent), &fileMsg); err == nil && len(fileMsg.FileKey) > 0 {
+		fileData, err := getFileFromMsg(client, msgId, fileMsg.FileKey, "file")
+		if err != nil {
+			fmt.Printf("[File Message] could not get file: %v\n", err)
+			return failedEmojiType
+		}
+
+		if err := uploadFileToGitHub(fileData, fileMsg.FileName); err != nil {
+			fmt.Printf("[File Message] failed to upload file: %v\n", err)
+			return failedEmojiType
+		}
+
+		chatFilePath := getFilePath(chatId)
+		newContent := fmt.Sprintf("[%s](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/%s/%s)",
+			fileMsg.FileName,
+			time.Now().Format("20060102"),
+			fileMsg.FileName)
+
+		if err := updateFileWithNewDayCheck(chatFilePath, newContent); err != nil {
+			fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to update file: %v\n", err)
+			return failedEmojiType
+		}
+
+		fmt.Printf("[ OnP2MessageReceiveV1 access ], file updated successfully\n")
+		return doneEmojiType
+	} else {
+		return failedEmojiType
+	}
+}
+
+func processImageMessage(client *lark.Client, msgId, chatId, rawContent string) string {
+	var imgMsg ImgMsg
+	if err := json.Unmarshal([]byte(rawContent), &imgMsg); err == nil && len(imgMsg.ImageKey) > 0 {
+		fmt.Printf("[ OnP2MessageReceiveV1 access ], image_key: %s\n", imgMsg.ImageKey)
+
+		imageData, err := getFileFromMsg(client, msgId, imgMsg.ImageKey, "image")
+		if err != nil {
+			fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to get image: %v\n", err)
+			return failedEmojiType
+		}
+
+		fileName := fmt.Sprintf("%d.jpg", time.Now().Unix())
+		if err := uploadFileToGitHub(imageData, fileName); err != nil {
+			fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to upload image: %v\n", err)
+			return failedEmojiType
+		}
+
+		fmt.Printf("[ OnP2MessageReceiveV1 access ], image uploaded successfully: %s\n", fileName)
+
+		chatFilePath := getFilePath(chatId)
+		newContent := fmt.Sprintf("![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/%s/%s)",
+			time.Now().Format("20060102"), fileName)
+
+		if err := updateFileWithNewDayCheck(chatFilePath, newContent); err != nil {
+			fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to update file: %v\n", err)
+			return failedEmojiType
+		}
+
+		fmt.Printf("[ OnP2MessageReceiveV1 access ], file updated successfully\n")
+		return doneEmojiType
+	} else {
+		return failedEmojiType
+	}
+}
+
+func processTextMessage(chatId, rawContent string) string {
+	var textMsg TextMsg
+	if err := json.Unmarshal([]byte(rawContent), &textMsg); err == nil && len(textMsg.Text) > 0 {
+		fmt.Printf("[ OnP2MessageReceiveV1 access ], text: %s\n", textMsg.Text)
+
+		chatFilePath := getFilePath(chatId)
+		newContent := fmt.Sprintf("```\n%s\n```", textMsg.Text)
+
+		if err := updateFileWithNewDayCheck(chatFilePath, newContent); err != nil {
+			fmt.Printf("[ OnP2MessageReceiveV1 access ], failed to update file: %v\n", err)
+			return failedEmojiType
+		}
+
+		fmt.Printf("[ OnP2MessageReceiveV1 access ], file updated successfully\n")
+		return doneEmojiType
+	} else {
+		return failedEmojiType
 	}
 }
 
@@ -586,7 +656,7 @@ func updateFileWithNewDayCheck(filePath, newContent string) error {
 		fmt.Printf("[updateFileWithNewDayCheck] starting a fresh daily notification file\n")
 		updatedContent = fmt.Sprintf("# %s\n\n%s\n", getCurrentTimestamp(), newContent)
 	} else {
-		updatedContent = fmt.Sprintf("%s\n\n%s", newContent, notificationFileContent)
+		updatedContent = fmt.Sprintf("## %s\n\n%s\n\n%s", getCurrentTimestamp(), newContent, notificationFileContent)
 	}
 	return updateFileOnGitHub(notificationFilePath, updatedContent, notificationFileSha)
 }
