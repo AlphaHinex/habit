@@ -1,27 +1,5 @@
-## 2026年5月28日 19:21 Thursday
+# 2026年5月30日 12:05 Saturday
 
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260528/1779967307.jpg)
-
-## 2026年5月28日 19:21 Thursday
-
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260528/1779967298.jpg)
-
-## 2026年5月28日 19:21 Thursday
-
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260528/1779967288.jpg)
-
-## 2026年5月28日 19:21 Thursday
-
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260528/1779967275.jpg)
-
-## 2026年5月28日 19:21 Thursday
-
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260528/1779967262.jpg)
-
-## 2026年5月28日 19:20 Thursday
-
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260528/1779967242.jpg)
-
-# 2026年5月28日 19:20 Thursday
-
-![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260528/1779967231.jpg)
+```
+今天数学作业再加一项，能力培养P116第5题尝试用两种方法证明
+```
