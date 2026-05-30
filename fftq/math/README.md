@@ -854,4 +854,10 @@ A12～A14答案
 今天数学作业再加一项，能力培养P116第5题尝试用两种方法证明
 ```
 
+
+
+# 2026年5月30日 15:23 Saturday
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260530/1780125833.jpg)
+
 # Latest
