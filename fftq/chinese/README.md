@@ -912,4 +912,12 @@ src="https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/r
 poster="https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260530/1780115693.jpg" 
 ></video>
 
+
+
+# 2026年5月30日 12:34 Saturday
+
+```
+阅读答题方法小视频 请督促学生观看
+```
+
 # Latest
