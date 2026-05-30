@@ -1,6 +1,13 @@
 ## 2026年5月30日 12:34 Saturday
 
 <video controls width="100%" 
+src="https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260530/dd65ebb88741e1f9c727e5d5ed3a562d.mp4" 
+poster="https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260530/1780115693.jpg" 
+></video>
+
+## 2026年5月30日 12:34 Saturday
+
+<video controls width="100%" 
 src="https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260530/8bd51cae1a536bfd0d6ef93c69f7a3c7.mp4" 
 poster="https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260530/1780115670.jpg" 
 ></video>
