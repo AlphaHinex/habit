@@ -47,3 +47,9 @@
 其余时间教学正常
 ⚠️本周五11点50放学，家长安排好时间接孩子
 ```
+
+2026年6月2日 16:57 星期一
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260602/1780390657.jpg)
+
+# Latest
