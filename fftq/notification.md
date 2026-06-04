@@ -53,4 +53,10 @@ poster="https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fft
 老师在前面讲解解题思路写了满满一黑板，下面有人紧跟思路奋笔疾书，有人哈欠连天有人打打闹闹，有人旁若无人的溜号，这样的课堂状态的差距就是成绩的差距，长此以往可怕可怕！
 ```
 
+
+
+2026年6月4日 11:07 星期一
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260604/1780542438.jpg)
+
 # Latest
