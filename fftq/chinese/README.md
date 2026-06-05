@@ -980,4 +980,17 @@ poster="https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fft
 
 [限时作业A13手写答案.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260605/限时作业A13手写答案.pdf)
 
+
+
+# 2026年6月5日 15:04 Friday
+
+```
+2026.06.05语文课堂反馈
+一、课堂内容
+1.作业--议论文文阅读四篇（千万要注意审题！找全了，概括全面了！）
+2.病句练习--经典题型十道
+二、作业
+画✓的四篇记叙文阅读
+```
+
 # Latest
