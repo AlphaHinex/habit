@@ -1,3 +1,10 @@
+## 2026年6月5日 21:59 Friday
+
+<video controls width="100%" 
+src="https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260605/mmexport1780667899980.mp4" 
+poster="https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260605/1780667939.jpg" 
+></video>
+
 ## 2026年6月5日 15:05 Friday
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260605/1780643099.jpg)
