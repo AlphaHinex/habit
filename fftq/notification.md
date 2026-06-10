@@ -1,5 +1,11 @@
 ## 2026年6月10日 16:34 Wednesday
 
+```
+语文阅读小视频 督促孩子观看
+```
+
+## 2026年6月10日 16:34 Wednesday
+
 <video controls width="100%" 
 src="https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260610/0a590fe0db5b3672094bf64795b8384b.mp4" 
 poster="https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260610/1781080461.jpg" 
