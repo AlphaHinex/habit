@@ -1041,4 +1041,12 @@ src="https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/r
 poster="https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260610/1781080461.jpg" 
 ></video>
 
+
+
+# 2026年6月10日 16:34 Wednesday
+
+```
+语文阅读小视频 督促孩子观看
+```
+
 # Latest
