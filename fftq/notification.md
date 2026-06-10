@@ -1,5 +1,11 @@
 ## 2026年6月10日 16:34 Wednesday
 
+```
+35题，and和so都对
+```
+
+## 2026年6月10日 16:34 Wednesday
+
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260610/1781080487.jpg)
 
 ## 2026年6月10日 16:34 Wednesday
