@@ -1111,4 +1111,10 @@ while+过去进行时
 学生统一穿着规定服装，拉链整齐到头；站立时书本展开端在胸前背胸前，不要挡脸，身体挺直，精神饱满；朗读时注意语音语调语速，声音洪亮。
 ```
 
+
+
+# 2026年6月10日 16:32 Wednesday
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260610/1781080335.jpg)
+
 # Latest
