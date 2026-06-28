@@ -1,3 +1,7 @@
+## 2026年6月28日 19:00 Sunday
+
+[13.2026年6月第十三期-名师在线初中学案.zip](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260628/13.2026年6月第十三期-名师在线初中学案.zip)
+
 ## 2026年6月28日 18:59 Sunday
 
 ```
