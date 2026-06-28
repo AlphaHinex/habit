@@ -1256,4 +1256,13 @@ src="https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/r
 poster="https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260628/1782648767.jpg" 
 ></video>
 
+
+
+# 2026年6月28日 20:21 Sunday
+
+<video controls width="100%" 
+src="https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260628/2819813019.mov" 
+poster="https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260628/1782649270.jpg" 
+></video>
+
 # Latest
