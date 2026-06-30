@@ -1313,4 +1313,12 @@ while+过去进行时
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260630/1782824468.jpg)
 
+
+
+2026年6月30日 21:01 星期一
+
+```
+早上练习的听力音频和原文，错的同学回家再听一遍
+```
+
 # Latest
