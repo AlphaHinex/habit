@@ -1036,4 +1036,10 @@ A12～A14答案
 (3)开方开不尽的数。
 ```
 
+
+
+# 2026年7月11日 18:06 Saturday
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260711/1783764393.jpg)
+
 # Latest
