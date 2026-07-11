@@ -1062,4 +1062,10 @@ a(a≥0）越大，它的算术平方根越大。
 ②算术平方根√a是非负数，即√a≥0。
 ```
 
+
+
+# 2026年7月11日 18:06 Saturday
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260711/1783764409.jpg)
+
 # Latest
