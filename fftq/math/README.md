@@ -1068,4 +1068,12 @@ a(a≥0）越大，它的算术平方根越大。
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260711/1783764409.jpg)
 
+
+
+2026年7月11日 18:06 星期一
+
+```
+(3)算术平方根是它本身的数只有0和1。
+```
+
 # Latest
