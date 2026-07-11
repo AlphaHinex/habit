@@ -91,4 +91,10 @@ ps⚠️：振动的振是这个 不是这个震 需要注意一下
 1️⃣练习册P21（14题不写） P40 P41
 ```
 
+
+
+# 2026年7月11日 15:10 Saturday
+
+[7.11 物理作业.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260711/7.11 物理作业.pdf)
+
 # Latest
