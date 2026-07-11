@@ -55,4 +55,10 @@ ps⚠️：振动的振是这个 不是这个震 需要注意一下
 ⑵声源与障碍物距离大于17m
 ```
 
+
+
+# 2026年7月11日 15:09 Saturday
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260711/1783753779.jpg)
+
 # Latest
