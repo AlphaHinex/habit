@@ -1355,4 +1355,76 @@ while+过去进行时
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260702/1782993608.jpg)
 
+
+
+# 2026年7月11日 15:11 Saturday
+
+```
+🌟课堂主要内容及学生表现
+2026年7月11日 初二F班英语
+第1节             助教：姜老师
+❤️❤️认真关注每一个孩子，我们一同成长
+📚 英语
+单词
+1. genius /ˈdʒiːniəs/ n. 天才人物
+
+2. crocodile /ˈkrɒkədaɪl/ n. 鳄鱼
+
+3. lizard /ˈlɪzəd/ n. 蜥蜴
+
+4. ancestor /ˈænsestə(r)/ n.（动物的）原始种型；祖先
+
+5. prehistoric adj. 史前的
+
+6. vehicle n. 交通工具；器械
+
+7. intelligent adj. 聪慧的
+
+8. artistic talent 艺术天赋
+
+9. invent v. 发明 → inventor n. 发明家 → invention n. 发明物
+
+10. appear v. 出现
+
+11. suddenly adv. 突然地
+
+12. completely adv. 完全地
+
+13. paleontologist n. 古生物学家
+
+短语
+
+1. from an early age 从小，早年
+
+2. be related to 和……有亲缘关系/相关
+
+3. the ancestors of ……的祖先
+
+4. come from 源自；来自
+
+5. either…or… 要么……要么……（二者选一）
+
+6. some…others… 一些……另一些……
+
+7. die out 灭绝
+
+8. learn more about 更多了解……
+
+9. show great intelligence and artistic talent 展现超高智商与艺术天赋
+
+10. in different fields 在不同领域
+
+11. change the way we think about… 改变我们看待……的方式
+
+语法句型考点
+
+1. 被动语态
+Leonardo da Vinci was born in the countryside in Italy.
+结构：be born in + 地点 出生于某地
+
+2. 倍数/同级比较
+① as small as chickens 和小鸡一样小（as+原级+as 和……一样）
+② as big as ten elephants 和十头大象一样大
+```
+
 # Latest
