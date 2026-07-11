@@ -1,5 +1,9 @@
 ## 2026年7月11日 18:06 Saturday
 
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260711/1783764409.jpg)
+
+## 2026年7月11日 18:06 Saturday
+
 ```
 平方根与算数平方根
 定义：如果一个正数x的平方等于a，即x²=a，那么这个正数x就叫做a的算术平方根。
