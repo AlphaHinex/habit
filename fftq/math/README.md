@@ -1203,4 +1203,10 @@ a的立方根记作³√a，读作“三次根号a”；
 7.12 初二F班数学课堂笔记
 ```
 
+
+
+# 2026年7月12日 21:59 Sunday
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260712/1783864789.jpg)
+
 # Latest
