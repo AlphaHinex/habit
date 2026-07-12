@@ -1,3 +1,11 @@
+## 2026年7月12日 21:54 Sunday
+
+```
+7.12 初二F语文 课后作业
+语文：
+1️⃣背《三峡》全文
+```
+
 ## 2026年7月12日 21:52 Sunday
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260712/1783864319.jpg)
