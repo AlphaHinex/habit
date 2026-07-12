@@ -247,4 +247,14 @@ ps⚠️：振动的振是这个 不是这个震 需要注意一下
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260712/1783859042.jpg)
 
+
+
+2026年7月12日 20:50 星期一
+
+```
+7.12 初二F物理 课后作业
+物理：
+1️⃣练习册P24 P25 P28 P29 P42 P44
+```
+
 # Latest
