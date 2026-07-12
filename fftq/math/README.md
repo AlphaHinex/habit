@@ -1152,4 +1152,10 @@ P18的1-18题
 1. 因为平方和开平方互逆，故可通过平方来寻找一个数的平方根，也可以利用平方验算所求平方根是否正确。
 ```
 
+
+
+# 2026年7月12日 21:59 Sunday
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260712/1783864754.jpg)
+
 # Latest
