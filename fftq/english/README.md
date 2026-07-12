@@ -1450,4 +1450,13 @@ Leonardo da Vinci was born in the countryside in Italy.
 2️⃣练习《习题》P1的一和二
 ```
 
+
+
+2026年7月12日 20:52 星期一
+
+```
+7.12 初二F班英语小测
+小测情况：
+```
+
 # Latest
