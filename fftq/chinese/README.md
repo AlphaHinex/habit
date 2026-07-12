@@ -1393,4 +1393,29 @@ poster="https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fft
 1️⃣背《三峡》前两段
 ```
 
+
+
+# 2026年7月12日 21:24 Sunday
+
+```
+7.12 初二F班语文小测
+答案：
+1. 两岸连山
+
+2. 略无阙处
+
+3. 重岩叠嶂
+
+4. 自非亭午夜分
+
+5. 沿溯阻绝
+
+6. 或王命急宣
+
+7. 暮到江陵
+
+8. 虽乘奔御风
+小测情况：
+```
+
 # Latest
