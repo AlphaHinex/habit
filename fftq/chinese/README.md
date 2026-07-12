@@ -1424,4 +1424,15 @@ poster="https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fft
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260712/1783863665.jpg)
 
+
+
+2026年7月12日 21:41 星期一
+
+```
+💯语文小测反馈：
+1️⃣本节课小测是关于《三峡》前两段的知识点 孩子整体答的很好，但有的也存在错误，课后改正整理[拳头][拳头] 
+重点注意一下略无阙处的阙字 重岩叠嶂的叠嶂俩字 沿溯阻绝的溯
+2⃣答案发在群里了，家长们督促孩子整理错题‼‼
+```
+
 # Latest
