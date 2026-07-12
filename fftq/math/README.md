@@ -1221,4 +1221,15 @@ a的立方根记作³√a，读作“三次根号a”；
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260712/1783864800.jpg)
 
+
+
+2026年7月12日 22:00 星期一
+
+```
+7.12 初二F数学课后作业
+数学：
+1️⃣ 背11-25的平方根 下次上课考
+2️⃣课计划练习册P20-P21
+```
+
 # Latest
