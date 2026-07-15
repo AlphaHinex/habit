@@ -1245,4 +1245,10 @@ a的立方根记作³√a，读作“三次根号a”；
 老师先给大家讲了上次留的作业 接着给大家讲了立方根
 ```
 
+
+
+2026年7月15日 20:35 星期一
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260715/1784118945.jpg)
+
 # Latest
