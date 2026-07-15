@@ -1545,4 +1545,23 @@ poster="https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fft
 1️⃣背《三峡》全文
 ```
 
+
+
+# 2026年7月15日 17:49 Wednesday
+
+```
+7.15 初二F班语文小测
+答案：
+1. 素湍绿潭
+2. 绝巘（巘=山+献）
+3. 飞漱
+4. 清荣峻茂
+5. 林寒涧肃
+6. 属引凄异
+7. 哀转久绝
+8. 猿鸣三声泪沾裳
+
+小测情况：
+```
+
 # Latest
