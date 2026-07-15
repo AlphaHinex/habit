@@ -1709,4 +1709,17 @@ poster="https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fft
 1️⃣背划分句子成分口诀
 ```
 
+
+
+# 2026年7月15日 17:51 Wednesday
+
+```
+口诀如下：
+句子成分总口诀
+看全句，抓中心，缩句先找主谓宾
+主干成分主谓宾，枝叶成分定状补。
+定语必在主宾前。谓前为状谓后补。
+状语有时位主前，逗号隔开心有数。
+```
+
 # Latest
