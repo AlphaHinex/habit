@@ -1651,4 +1651,10 @@ poster="https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fft
 谓语后面的补充成分，回答“怎么样”，标志字：得，划分标记< >
 ```
 
+
+
+# 2026年7月15日 17:50 Wednesday
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260715/1784109012.jpg)
+
 # Latest
