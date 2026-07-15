@@ -1,3 +1,11 @@
+## 2026年7月15日 20:37 Wednesday
+
+```
+7.15 初二F数学课后作业
+数学：
+1️⃣课计划练习册P22 P23 P24的1-5题、13题、14题
+```
+
 ## 2026年7月15日 20:36 Wednesday
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260715/1784119016.jpg)
