@@ -1290,4 +1290,17 @@ a的立方根记作³√a，读作“三次根号a”；
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260715/1784118959.jpg)
 
+
+
+2026年7月15日 20:36 星期一
+
+```
+立方根估算
+整数部分
+找到两个相邻整数，它们的立方一左一右夹住被开方数
+
+小数部分
+原数-整数部分=小数部分
+```
+
 # Latest
