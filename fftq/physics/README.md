@@ -401,4 +401,10 @@ e. 小孔成像：成倒立、实像；像的形状与物体形状有关，与�
 实验方法：控制变量法。
 ```
 
+
+
+# 2026年7月17日 18:58 Friday
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260717/1784285914.jpg)
+
 # Latest
