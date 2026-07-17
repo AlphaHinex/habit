@@ -424,4 +424,10 @@ e. 小孔成像：成倒立、实像；像的形状与物体形状有关，与�
 孔的大小可以决定像的亮度 但是决定不了像的形状
 ```
 
+
+
+# 2026年7月17日 18:58 Friday
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260717/1784285925.jpg)
+
 # Latest
