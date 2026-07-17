@@ -1,3 +1,16 @@
+## 2026年7月17日 19:00 Friday
+
+```
+7.16 初二F班语文小测
+答案：
+1.主谓宾
+2.主谓宾；定状补
+3.主宾前；谓；谓后
+4.主前；逗号
+
+小测情况：
+```
+
 ## 2026年7月17日 18:59 Friday
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260717/1784285975.jpg)
