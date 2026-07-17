@@ -1,5 +1,9 @@
 ## 2026年7月17日 19:02 Friday
 
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260717/1784286137.jpg)
+
+## 2026年7月17日 19:02 Friday
+
 ```
 最简二次根式
 最简二次根式应满足以下三个条件：
