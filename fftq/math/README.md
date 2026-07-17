@@ -1388,4 +1388,10 @@ a的立方根记作³√a，读作“三次根号a”；
 3. 被开方数中不含能开得尽方的因数或因式
 ```
 
+
+
+# 2026年7月17日 19:02 Friday
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260717/1784286137.jpg)
+
 # Latest
