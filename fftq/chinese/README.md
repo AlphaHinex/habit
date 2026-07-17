@@ -1779,4 +1779,10 @@ poster="https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fft
 2. 文体：书，即书信，古代一种应用性文体，本文是写给好友谢徵的回信。
 ```
 
+
+
+2026年7月17日 19:01 星期一
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260717/1784286081.jpg)
+
 # Latest
