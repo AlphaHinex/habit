@@ -1463,4 +1463,10 @@ a的立方根记作³√a，读作“三次根号a”；
   本次课前小测部分同学作答全部正确、满分完成，特此提出表扬✅希望同学们向优秀同学看齐，坚持练习，夯实基础。
 ```
 
+
+
+2026年7月17日 19:06 星期一
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260717/1784286408.jpg)
+
 # Latest
