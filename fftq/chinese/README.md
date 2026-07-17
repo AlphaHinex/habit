@@ -1722,4 +1722,19 @@ poster="https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fft
 状语有时位主前，逗号隔开心有数。
 ```
 
+
+
+# 2026年7月17日 19:00 Friday
+
+```
+7.16 初二F班语文小测
+答案：
+1.主谓宾
+2.主谓宾；定状补
+3.主宾前；谓；谓后
+4.主前；逗号
+
+小测情况：
+```
+
 # Latest
