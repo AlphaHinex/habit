@@ -1743,4 +1743,23 @@ poster="https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fft
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260717/1784286054.jpg)
 
+
+
+2026年7月17日 19:01 星期一
+
+```
+🌟课堂主要内容及学生表现
+2026年7月16日 初二F班语文
+第4节             助教：姜老师
+❤️❤️认真关注每一个孩子，我们一同成长
+📚 语文
+老师今天上课先带领大家练习了句子成分 接着讲了《答谢中书书》
+
+句子成分总口诀
+看全句，抓中心，缩句先找主谓宾
+主干成分主谓宾，枝叶成分定状补。
+定语必在主宾前。谓前为状谓后补。
+状语有时位主前，逗号隔开心有数。
+```
+
 # Latest
