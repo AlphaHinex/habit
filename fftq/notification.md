@@ -1,5 +1,9 @@
 ## 2026年7月17日 19:01 Friday
 
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260717/1784286085.jpg)
+
+## 2026年7月17日 19:01 Friday
+
 ```
 《答谢中书书》
 文学常识
