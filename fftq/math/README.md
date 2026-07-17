@@ -1493,4 +1493,12 @@ a的立方根记作³√a，读作“三次根号a”；
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260717/1784286419.jpg)
 
+
+
+# 2026年7月17日 19:07 Friday
+
+```
+3.分母有理化：把分母里根号去掉，化成分母为有理数，这个过程叫分母有理化
+```
+
 # Latest
