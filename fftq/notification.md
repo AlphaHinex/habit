@@ -1,5 +1,9 @@
 ## 2026年7月17日 18:58 Friday
 
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260717/1784285925.jpg)
+
+## 2026年7月17日 18:58 Friday
+
 ```
 3.光沿直线传播的成语：
 一叶障目 立竿见影 坐井观天 凿壁偷光
