@@ -1837,4 +1837,23 @@ poster="https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fft
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260717/1784286324.jpg)
 
+
+
+2026年7月17日 19:05 星期一
+
+```
+文章段落大意
+    一.寻伴夜游
+    二.庭院月色
+            比喻 本体 月光 喻体 积水
+                  本体 竹伯影 喻体 藻荇交横
+    三.月下感叹  贬低悲凉 人生的感悟 赏月的欣喜
+                  漫步的悠闲
+
+文章主旨
+    本文描绘承天寺夜游看见了清幽宁静的月下美景，抒发了作者壮志难酬的苦闷，还有自嘲自解的豁达心态
+
+文章翻译
+```
+
 # Latest
