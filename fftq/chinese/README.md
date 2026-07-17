@@ -1768,4 +1768,15 @@ poster="https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fft
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260717/1784286073.jpg)
 
+
+
+# 2026年7月17日 19:01 Friday
+
+```
+《答谢中书书》
+文学常识
+1. 作者：陶弘景，南朝齐梁时期文学家、思想家，自号华阳隐居，人称“山中宰相”。
+2. 文体：书，即书信，古代一种应用性文体，本文是写给好友谢徵的回信。
+```
+
 # Latest
