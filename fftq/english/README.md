@@ -1775,4 +1775,15 @@ Leonardo da Vinci was born in the countryside in Italy.
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260718/1784379794.jpg)
 
+
+
+2026年7月18日 21:03 星期一
+
+```
+7.18 初二F英语 课后作业
+英语：
+1️⃣练习册《习题》P7
+2️⃣ 练习册《习题》P9的一和二
+```
+
 # Latest
