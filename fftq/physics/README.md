@@ -743,4 +743,14 @@ i 我们从不同方向看到苹果，是发生漫反射
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260718/1784379648.jpg)
 
+
+
+# 2026年7月18日 21:00 Saturday
+
+```
+实像：实际光线会聚
+           需要光屏
+虚像：反向延长线会聚
+```
+
 # Latest
