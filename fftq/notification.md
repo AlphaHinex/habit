@@ -1,5 +1,13 @@
 ## 2026年7月18日 21:05 Saturday
 
+```
+7.18 初二F数学课后作业
+数学：
+1️⃣课计划练习册P1 P2 P33
+```
+
+## 2026年7月18日 21:05 Saturday
+
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260718/1784379899.jpg)
 
 ## 2026年7月18日 21:04 Saturday
