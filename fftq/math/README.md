@@ -1574,4 +1574,10 @@ a的立方根记作³√a，读作“三次根号a”；
 例题：
 ```
 
+
+
+# 2026年7月18日 21:05 Saturday
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260718/1784379928.jpg)
+
 # Latest
