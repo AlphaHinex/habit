@@ -783,4 +783,15 @@ i 我们从不同方向看到苹果，是发生漫反射
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260718/1784379688.jpg)
 
+
+
+# 2026年7月18日 21:01 Saturday
+
+```
+7.18 初二F物理 课后作业
+物理：
+1️⃣练习册P90 P116 P117
+⚠️老师提示：本节题目整体难度偏大，做题不用强行全部写完，根据自身掌握情况酌情完成
+```
+
 # Latest
