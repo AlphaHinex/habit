@@ -1,5 +1,9 @@
 ## 2026年7月18日 21:05 Saturday
 
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260718/1784379928.jpg)
+
+## 2026年7月18日 21:05 Saturday
+
 ```
 7.18 初二F数学课后作业
 数学：
