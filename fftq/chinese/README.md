@@ -1893,4 +1893,21 @@ poster="https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fft
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260718/1784379836.jpg)
 
+
+
+# 2026年7月18日 21:04 Saturday
+
+```
+💯语文小测反馈：
+1️⃣本节课小测是关于《答谢中书书》的知识点 孩子整体答的很好，但有的也存在错误，课后改正整理[拳头][拳头] 
+重点注意一下
+1. 古来共谈：谈为言字旁，不要写成“淡”
+2. 四时俱备：俱是单人旁，表全部；勿写成“具”
+3. 猿鸟乱鸣：鸣是口字旁，不要少写一点
+
+4. 夕日欲颓：颓左边禾，不要写成“倾”
+5.未复有能与其奇者：与读yù，欣赏，勿写成“予”
+2⃣答案发在群里了，家长们督促孩子整理错题‼‼
+```
+
 # Latest
