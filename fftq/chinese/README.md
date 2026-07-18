@@ -1868,4 +1868,23 @@ poster="https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fft
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260717/1784286344.jpg)
 
+
+
+2026年7月18日 21:03 星期一
+
+```
+7.18 初二F班语文小测
+答案：
+1.古来共谈
+2.清流见底
+3.两岸石壁
+4.四时俱备
+5.猿鸟乱鸣
+6.夕日欲颓
+7.自康乐以来
+8.未复有能与其奇者
+
+小测情况：
+```
+
 # Latest
