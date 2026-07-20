@@ -1982,4 +1982,24 @@ poster="https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fft
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260718/1784379899.jpg)
 
+
+
+# 2026年7月20日 20:27 Monday
+
+```
+7.19 初二F班语文小测
+答案：
+1. 解衣欲睡
+2. 月色入户
+3. 遂至承天寺寻张怀民
+4. 怀民亦未寝
+5. 相与步于中庭
+6. 水中藻、荇交横
+7. 盖竹柏影也
+8. 何处无竹柏
+9. 但少闲人如吾两人者耳
+
+小测情况：
+```
+
 # Latest
