@@ -890,4 +890,17 @@ i 我们从不同方向看到苹果，是发生漫反射
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260720/1784550256.jpg)
 
+
+
+# 2026年7月20日 20:24 Monday
+
+```
+光的折射：
+光的折射
+一. 定义：
+光从一种介质斜射入另一种介质时 光的传播方向发生偏折的现象
+
+二. 折射规律
+```
+
 # Latest
