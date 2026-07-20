@@ -2057,4 +2057,18 @@ poster="https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fft
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260720/1784550500.jpg)
 
+
+
+# 2026年7月20日 20:28 Monday
+
+```
+一. 景春提出观点：公孙衍 张仪是大丈夫
+二. 孟子反驳
+破： 公孙衍 张仪 顺 （类比说理）
+立： 孟子心中大丈夫标准：
+①大丈夫要讲仁德 守礼法 做事合乎道义
+②不论得志与否 都有原则
+③富贵贫贱威武都不能使他动摇
+```
+
 # Latest
