@@ -1,5 +1,16 @@
 ## 2026年7月20日 20:31 Monday
 
+```
+光的折射解释生活中的现象：
+①鱼叉：往鱼的下方叉
+②照鱼 往看到鱼的位置照 （光路可逆）
+③水中筷子向上弯折
+④谭清疑水浅
+⑤海市蜃楼
+```
+
+## 2026年7月20日 20:31 Monday
+
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260720/1784550667.jpg)
 
 ## 2026年7月20日 20:30 Monday
