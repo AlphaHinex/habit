@@ -1061,4 +1061,10 @@ i 我们从不同方向看到苹果，是发生漫反射
 作图题练习
 ```
 
+
+
+# 2026年7月20日 20:31 Monday
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260720/1784550667.jpg)
+
 # Latest
