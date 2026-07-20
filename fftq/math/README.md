@@ -1759,4 +1759,10 @@ a²+b²
 老师今天上课先给大家讲了小测 然后讲了昨天留的作业 接着讲了勾股定理的应用
 ```
 
+
+
+2026年7月20日 20:34 星期一
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260720/1784550839.jpg)
+
 # Latest
