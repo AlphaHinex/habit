@@ -1833,4 +1833,13 @@ a²+b²
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260720/1784550872.jpg)
 
+
+
+# 2026年7月20日 20:34 Monday
+
+```
+台阶问题
+把所有台阶横向长度相加、纵向高度相加，作为两条直角边，直接勾股计算。
+```
+
 # Latest
