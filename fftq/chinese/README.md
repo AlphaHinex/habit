@@ -2089,4 +2089,21 @@ poster="https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fft
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260720/1784550524.jpg)
 
+
+
+# 2026年7月20日 20:32 Monday
+
+```
+7.20 初二F班语文小测
+答案：
+1. 地利不如人和
+2. 环而攻之而不胜
+3. 然而不胜者
+4. 兵革非不坚利也；
+5. 米粟非不多也
+6. 是地利不如人和也
+
+小测情况：
+```
+
 # Latest
