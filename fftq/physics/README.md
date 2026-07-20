@@ -1049,4 +1049,16 @@ i 我们从不同方向看到苹果，是发生漫反射
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260720/1784550656.jpg)
 
+
+
+2026年7月20日 20:31 星期一
+
+```
+①找相邻且相等的角 定法线
+②法线两侧只有一条线为入射光线
+③角大的一侧为空气
+
+作图题练习
+```
+
 # Latest
