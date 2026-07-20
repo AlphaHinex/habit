@@ -1,5 +1,9 @@
 ## 2026年7月20日 20:29 Monday
 
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260720/1784550556.jpg)
+
+## 2026年7月20日 20:29 Monday
+
 ```
 勾股数满足的2个条件
 1. 全是正整数
