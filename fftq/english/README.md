@@ -1829,4 +1829,96 @@ Leonardo da Vinci was born in the countryside in Italy.
 2⃣家长们督促孩子整理错题‼‼
 ```
 
+
+
+2026年7月20日 20:26 星期一
+
+```
+🌟课堂主要内容及学生表现
+2026年7月19日 初二F班英语
+第7节             助教：姜老师
+❤️❤️认真关注每一个孩子，我们一同成长
+📚 英语
+1. in our daily lives 在某人的日常生活中
+变形：life 表多个生活用复数 lives
+
+2. flight schedule 航班时刻表
+
+3. clock face 钟面
+
+4. a long time ago 很久以前（一般过去时标志）
+
+5. one day 有一天（过去/将来时态均可使用）
+
+6. a wise man 一位智者
+
+7. challenge sb to sth 向某人挑战某事
+
+8. one grain of rice 一粒米（量词 grain 搭配介词 of）
+
+9. the square of the chessboard 国际象棋棋盘的方格
+
+10. double the amount 数量翻倍
+
+11. the rest of … 剩下的……
+
+12. price tag 价格标签
+
+13. without hesitation 毫不犹豫
+
+14. on the chessboard 在国际象棋棋盘上
+
+15. think about 思考，考虑
+
+16. order sb to do sth 命令某人做某事
+
+17. collect a bag of rice 收集一袋米
+
+18. and so on 依此类推
+
+19. realize the problem 意识到问题
+
+20. enough … to do sth 足够……去做某事
+
+21. ask for help 寻求帮助
+
+22. ask for too little 索取太少
+
+23. win the silver medal 赢得银牌
+
+24. come first in the race 在比赛中拿第一名
+
+25. with curiosity 怀着好奇心
+
+26. in a running race 在跑步比赛中
+
+27. have a look at … 看一看……
+
+28. what to do with it 拿它怎么办，如何处理它
+
+29. decide to do sth 决定做某事
+
+30. ask sb for advice 向某人寻求建议
+
+31. teach sb how to do sth 教某人如何做某事
+
+32. make/earn money 赚钱
+
+33. point out of the window 向窗外指
+
+34. look outside 向外看
+
+35. nothing but … 只有，仅仅
+
+36. an empty field 一块空地
+
+37. plant/grow some cotton 种一些棉花
+
+38. make a profit 盈利
+
+39. follow/take one's advice 听从某人的建议
+
+40. all year round 全年
+```
+
 # Latest
