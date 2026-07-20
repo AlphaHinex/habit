@@ -1814,4 +1814,17 @@ a²+b²
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260720/1784550862.jpg)
 
+
+
+2026年7月20日 20:34 星期一
+
+```
+长方体：
+长方体长宽高：a、b、c
+展开有3种展开方式，算出3个长度，取最小的那个：
+1. 前面+上面：直角边 a+b、c
+2. 前面+右面：直角边 a+c、b
+3. 上面+右面：直角边 b+c、a
+```
+
 # Latest
