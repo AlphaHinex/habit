@@ -1,5 +1,9 @@
 ## 2026年7月20日 20:31 Monday
 
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260720/1784550707.jpg)
+
+## 2026年7月20日 20:31 Monday
+
 ```
 白光（复色光）
  定义：太阳光经过棱镜后被分解成红、橙、黄、绿、蓝、靛、紫七种色光的现象
