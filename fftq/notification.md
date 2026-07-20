@@ -1,5 +1,9 @@
 ## 2026年7月20日 20:24 Monday
 
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260720/1784550283.jpg)
+
+## 2026年7月20日 20:24 Monday
+
 ```
 1. 折射光线 入射光线 法线在同一平面内
 
