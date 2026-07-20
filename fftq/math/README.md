@@ -1694,4 +1694,10 @@ a²+b²=c²
 那么这个三角形是直角三角形，最长边c所对的角为直角。
 ```
 
+
+
+# 2026年7月20日 20:29 Monday
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260720/1784550556.jpg)
+
 # Latest
