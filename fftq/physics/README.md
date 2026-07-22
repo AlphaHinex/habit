@@ -1418,4 +1418,15 @@ i 我们从不同方向看到苹果，是发生漫反射
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260722/1784722290.jpg)
 
+
+
+2026年7月22日 20:11 星期一
+
+```
+生活中的透镜
+照相机
+投影仪
+放大镜
+```
+
 # Latest
