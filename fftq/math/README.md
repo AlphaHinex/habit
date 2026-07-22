@@ -2032,4 +2032,18 @@ x轴和y轴统称坐标轴，公共原点O为平面直角坐标系的原点。
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260722/1784722552.jpg)
 
+
+
+2026年7月22日 20:15 星期一
+
+```
+一三象限角平分线上的点横纵坐标相同
+形如（a，a）
+
+二四象限角平分线上的点横纵坐标互为相反数
+形如（a，-a）
+
+6. 距离
+```
+
 # Latest
