@@ -1977,4 +1977,103 @@ Leonardo da Vinci was born in the countryside in Italy.
 2⃣家长们督促孩子整理错题‼‼
 ```
 
+
+
+# 2026年7月22日 20:13 Wednesday
+
+```
+🌟课堂主要内容及学生表现
+2026年7月22日 初二F班英语
+第10节             助教：姜老师
+❤️❤️认真关注每一个孩子，我们一同成长
+📚 英语
+1. play an important part in… 在……中起到重要作用
+
+2. discuss …with… 与……讨论……
+
+3. take planning a journey for example 以……为例
+
+4. train/flight timetable 火车/航班时刻表
+
+5. make a budget 做预算
+
+6. design buildings 设计建筑
+
+7. develop new medicine 研发新药
+
+8. grow crops 种植庄稼
+
+9. The number of the students in my class is 50.
+
+10. Populations change in all areas over time. 随着时间
+
+11. do some research 做一些研究
+
+12. write a report on … 写一份关于……的报告
+
+13. (be) based on … 基于…
+
+14. growing numbers 增长的数量
+
+15. The poor harvest caused food price rise sharply (sharp).
+
+16. go up/ rise (drop , reduce , rise )
+
+17. falling numbers 下降的数量
+
+18. go down / drop (drop , reduce , rise)
+
+19. There are no changes (change) on your face .
+
+20. remain the same 保持不变
+
+21. the second half of the 1800s 19世纪下半叶
+
+22. be interested in 对……感兴趣
+
+23. over a period of time 在一段时间内
+
+24. make a line graph 制作一个曲线图
+
+25. in ancient times (time) 在古代
+
+26. develop different counting methods 发展不同的计数方法
+
+27. The PRC stands for the People’s Republic of China .
+
+28. one-to-one correspondence 一一对应
+
+29. It takes a long time to do (do) sth 做某事要花很长时间
+
+30. create faster ways of doing… 创造更快的做……的方式
+
+31. in ancient India 在古代印度
+
+32. Tom was ill . I will go instead of him.
+
+33. abstract symbols 抽象符号
+
+34. We should have the ability to turn difficulty into happiness .
+
+35. over the centuries 经过几个世纪
+
+36. Indian (India) numerals 印度数字
+
+37. in the Arab world 在阿拉伯世界
+
+38. start to do (do) sth 开始做某事
+
+39. spread to … 传播到
+
+40. across the world 全世界
+
+41. Lu Xun is known as a writer .
+
+42. Arabic numerals 阿拉伯数字
+
+43. Many ancient Romans (Roman) 古罗马人
+
+44. Roman (Rome) numerals 罗马数字
+```
+
 # Latest
