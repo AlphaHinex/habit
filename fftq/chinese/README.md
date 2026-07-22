@@ -2198,4 +2198,22 @@ poster="https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fft
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260720/1784550821.jpg)
 
+
+
+2026年7月22日 20:08 星期一
+
+```
+7.21 初二F班语文小测
+答案：
+1. 固国不以山溪之险
+2. 威天下不以兵革之利
+3. 失道者寡助
+4. 寡助之至
+5. 亲戚畔之
+6. 以天下之所顺
+7. 攻亲戚之所畔
+
+小测情况：
+```
+
 # Latest
