@@ -1,3 +1,11 @@
+## 2026年7月22日 20:13 Wednesday
+
+```
+💯英语小测反馈：
+1️⃣本节课小测是对第二单元单词适当单词形式的练习 孩子整体答的很好 但也存在错误 课后改正整理[拳头][拳头]
+2⃣家长们督促孩子整理错题‼‼
+```
+
 ## 2026年7月22日 20:12 Wednesday
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260722/1784722329.jpg)
