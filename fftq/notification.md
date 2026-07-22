@@ -1,5 +1,9 @@
 ## 2026年7月22日 20:07 Wednesday
 
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260722/1784722041.jpg)
+
+## 2026年7月22日 20:07 Wednesday
+
 ```
 光心：主光轴上有个特殊的点 通过这个点的光传播方向不变 叫做透镜的光心o
 焦点：平行于主光轴的光线汇聚于主光轴一点叫焦点
