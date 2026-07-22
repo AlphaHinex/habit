@@ -1233,4 +1233,17 @@ i 我们从不同方向看到苹果，是发生漫反射
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260722/1784722010.jpg)
 
+
+
+2026年7月22日 20:06 星期一
+
+```
+中间厚边缘薄的透镜叫做凸透镜
+远视镜是凸透镜
+两个实焦点
+可以做照相机 投影仪 幻灯片 显微镜 望远镜
+
+凹透镜
+```
+
 # Latest
