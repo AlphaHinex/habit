@@ -1192,4 +1192,10 @@ i 我们从不同方向看到苹果，是发生漫反射
 英国牛顿最早做的这个实验
 ```
 
+
+
+# 2026年7月22日 20:06 Wednesday
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260722/1784721998.jpg)
+
 # Latest
