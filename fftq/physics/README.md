@@ -1447,4 +1447,10 @@ i 我们从不同方向看到苹果，是发生漫反射
 ⑤当物距 uu，光屏不能承接。
 ```
 
+
+
+2026年7月22日 20:11 星期一
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260722/1784722308.jpg)
+
 # Latest
