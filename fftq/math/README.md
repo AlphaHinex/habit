@@ -1884,4 +1884,18 @@ a²+b²
 
 [数学18班家长会PPT.pptx](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260720/数学18班家长会PPT.pptx)
 
+
+
+2026年7月22日 20:09 星期一
+
+```
+🌟课堂主要内容及学生表现
+2026年7月21日 初二F班数学
+第9节             助教：姜老师
+❤️❤️认真关注每一个孩子，我们一同成长
+📚 数学
+老师今天上课先讲了今天的小测 接着给大家讲了昨天留的作业 接着讲了平面直角坐标系
+小测易错：
+```
+
 # Latest
