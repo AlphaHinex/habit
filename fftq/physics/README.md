@@ -1295,4 +1295,10 @@ i 我们从不同方向看到苹果，是发生漫反射
 ③ 经过凸透镜焦点的光线经凸透镜折射后平行于主光轴，如图丙。
 ```
 
+
+
+# 2026年7月22日 20:07 Wednesday
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260722/1784722041.jpg)
+
 # Latest
