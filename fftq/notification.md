@@ -1,5 +1,12 @@
 ## 2026年7月23日 21:28 Thursday
 
+```
+③中点坐标公式
+平面直角坐标系中A(x,y)，B(m,n)，线段AB的中点C的坐标为（x+m/2，y+n/2）。
+```
+
+## 2026年7月23日 21:28 Thursday
+
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260723/1784813320.jpg)
 
 ## 2026年7月23日 21:28 Thursday
