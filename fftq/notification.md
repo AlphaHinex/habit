@@ -1,5 +1,9 @@
 ## 2026年7月23日 21:28 Thursday
 
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260723/1784813320.jpg)
+
+## 2026年7月23日 21:28 Thursday
+
 ```
 ②平面直角坐标系中轴对称与坐标变化
 关于x轴对称的两个点的坐标：横坐标相同，纵坐标互为相反数。
