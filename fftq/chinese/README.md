@@ -2564,4 +2564,26 @@ poster="https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fft
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260722/1784722522.jpg)
 
+
+
+2026年7月23日 21:26 星期一
+
+```
+7.23 初二F班语文小测
+答案：
+黄鹤楼
+1. 此地空余黄鹤楼
+2. 白云千载空悠悠
+3. 晴川历历汉阳树
+4. 烟波江上使人愁
+
+使至塞上
+1. 属国过居延
+2. 征蓬出汉塞
+3. 大漠孤烟直
+4. 萧关逢候骑
+
+小测情况：
+```
+
 # Latest
