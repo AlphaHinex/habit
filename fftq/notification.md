@@ -1,5 +1,9 @@
 ## 2026年7月23日 21:25 Thursday
 
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260723/1784813135.jpg)
+
+## 2026年7月23日 21:25 Thursday
+
 ```
 规律：
 ①倒必实（异侧） 正必虚（同侧）
