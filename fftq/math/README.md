@@ -2146,4 +2146,10 @@ x轴和y轴统称坐标轴，公共原点O为平面直角坐标系的原点。
 平面直角坐标系中A(x,y)，B(m,n)，线段AB的中点C的坐标为（x+m/2，y+n/2）。
 ```
 
+
+
+2026年7月23日 21:28 星期一
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260723/1784813329.jpg)
+
 # Latest
