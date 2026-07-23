@@ -1,5 +1,9 @@
 ## 2026年7月23日 21:27 Thursday
 
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260723/1784813262.jpg)
+
+## 2026年7月23日 21:27 Thursday
+
 ```
 🌟课堂主要内容及学生表现
 2026年7月23日 初二F班语文
