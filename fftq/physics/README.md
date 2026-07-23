@@ -1511,4 +1511,10 @@ u+v=4f 最短距离
 ⑤当物距 u<f 时：成正立、放大的虚像，物与像在透镜同侧，像距的绝对值 ｜v｜>u，光屏不能承接。
 ```
 
+
+
+# 2026年7月23日 21:25 Thursday
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260723/1784813119.jpg)
+
 # Latest
