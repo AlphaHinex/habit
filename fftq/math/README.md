@@ -2182,4 +2182,10 @@ x：自变量，y：因变量。
 函数三种表示方法：列表法、关系式法、图象法。
 ```
 
+
+
+# 2026年7月26日 10:10 Sunday
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260726/1785031856.jpg)
+
 # Latest
