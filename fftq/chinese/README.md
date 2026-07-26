@@ -2766,4 +2766,27 @@ poster="https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fft
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260723/1784813295.jpg)
 
+
+
+# 2026年7月26日 10:09 Sunday
+
+```
+7.24 初二F班语文小测
+答案：
+饮酒（其五）
+1. 而无车马喧
+2. 心远地自偏
+3. 采菊东篱下
+4. 飞鸟相与还
+5. 欲辨已忘言
+
+钱塘湖春行
+1. 水面初平云脚低
+2. 谁家新燕啄春泥
+3. 乱花渐欲迷人眼
+4. 绿杨阴里白沙堤
+
+小测情况：
+```
+
 # Latest
