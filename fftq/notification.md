@@ -1,5 +1,9 @@
 ## 2026年7月26日 10:10 Sunday
 
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260726/1785031827.jpg)
+
+## 2026年7月26日 10:10 Sunday
+
 ```
 💯语文小测反馈：
 1️⃣本节课小测是关于《饮酒（其五）》《钱塘湖春行》的知识点 孩子整体答的很好，但有的也存在错误，课后改正整理[拳头][拳头] 
