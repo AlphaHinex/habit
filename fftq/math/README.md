@@ -2471,4 +2471,10 @@ k值互为负倒数（k_1·k_2=-1）⇔ 两直线垂直
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260726/1785070941.jpg)
 
+
+
+# 2026年7月26日 21:02 Sunday
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260726/1785070945.jpg)
+
 # Latest
