@@ -1612,4 +1612,10 @@ u+v=4f 最短距离
 (3) 物距和像距：物体到透镜的距离称为物距（u）；像到透镜的距离称为像距（v）。
 ```
 
+
+
+# 2026年7月26日 10:07 Sunday
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260726/1785031624.jpg)
+
 # Latest
