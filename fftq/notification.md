@@ -1,5 +1,9 @@
 ## 2026年7月26日 20:59 Sunday
 
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260726/1785070759.jpg)
+
+## 2026年7月26日 20:59 Sunday
+
 ```
 ①比喻
 ②生动形象的说明了黑蒜颜色黑 口感绵软的特点
