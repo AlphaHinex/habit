@@ -1,5 +1,9 @@
 ## 2026年7月26日 10:07 Sunday
 
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260726/1785031633.jpg)
+
+## 2026年7月26日 10:07 Sunday
+
 ```
 物、像移动速度规律
 ① u>2f 时，物比像大，物体运动速度比像移动的速度快；
