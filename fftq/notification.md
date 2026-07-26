@@ -1,5 +1,11 @@
 ## 2026年7月26日 10:16 Sunday
 
+```
+②k<0时 图像经过第二、四象限；y随x的增大的而减小  k的绝对值越大直线越陡
+```
+
+## 2026年7月26日 10:16 Sunday
+
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260726/1785032174.jpg)
 
 ## 2026年7月26日 10:16 Sunday
