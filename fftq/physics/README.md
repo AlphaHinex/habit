@@ -1795,4 +1795,10 @@ u+v=4f 最短距离
 4. 矫正方式：佩戴凹透镜（发散光线，延后成像到视网膜上）
 ```
 
+
+
+2026年7月26日 10:13 星期一
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260726/1785031986.jpg)
+
 # Latest
