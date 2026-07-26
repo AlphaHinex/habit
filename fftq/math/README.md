@@ -2297,4 +2297,10 @@ b：截距（常数项）
 ①k>0时 图像经过第一、三象限；y随x的增大的而增大 k越大直线越陡
 ```
 
+
+
+# 2026年7月26日 10:16 Sunday
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260726/1785032174.jpg)
+
 # Latest
