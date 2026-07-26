@@ -2411,4 +2411,10 @@ k值互为负倒数（k_1·k_2=-1）⇔ 两直线垂直
 ②k<0时 图像经过第二、四象限；y随x的增大的而减小  k的绝对值越大直线越陡
 ```
 
+
+
+# 2026年7月26日 21:01 Sunday
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260726/1785070918.jpg)
+
 # Latest
