@@ -2390,4 +2390,78 @@ Leonardo da Vinci was born in the countryside in Italy.
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260726/1785032065.jpg)
 
+
+
+2026年7月26日 10:14 星期一
+
+```
+🌟课堂主要内容及学生表现
+2026年7月25日 初二F班英语
+第13节             助教：姜老师
+❤️❤️认真关注每一个孩子，我们一同成长
+📚英语
+1. steam locomotive 蒸汽机车
+
+2. in search of 寻找……
+
+3. walk across the globe 走遍全球
+
+4. for instance 例如；比如
+
+5. Central Asian country 中亚国家
+
+6. ride horses 骑马
+
+7. large amounts of water 大量水
+
+8. a few hundred years later 几百年后
+
+9. for sure 确定
+
+10. make pottery 制陶
+
+11. attach...to... 将……固定在……
+
+12. horse-pulled vehicles 马拉的车辆
+
+13. be able to do 能够做某事（同义：have the ability to do）
+
+14. transport sth to... 将某物运往……
+
+15. far away 很远
+
+16. national trade 国内贸易
+
+17. international trade 国际贸易
+
+18. do business with... 与……做生意
+
+19. walking paths 步行小径
+
+20. hot-air balloon 热气球
+
+21. crewed spacecraft 载人航天器
+
+22. become difficult to do sth 变得难以做某事
+23. in wet weather 在潮湿的天气中
+24. as a result 作为结果；因此
+25. roads made of stone 石头铺成的路
+26. the arrival of ……的到来
+27. all types of … 各种类型的……
+28. the Industrial Revolution 工业革命
+29. depend on 依靠
+30. digitalized world 数字化世界
+31. 3D printer 3D打印机
+32. without doubt 毋庸置疑
+33. of all time 自古以来；有史以来
+34. take notes 记笔记
+35. remind sb of sth 使某人想起某事
+36. key words 关键词
+37. transitional words 过渡词
+38. bring about 带来；导致
+39. in order to do sth 为了做某事
+40. join A to B 把A固定连接到B
+41. in a certain direction 朝某个特定方向
+```
+
 # Latest
