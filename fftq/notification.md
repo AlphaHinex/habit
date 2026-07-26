@@ -1,5 +1,9 @@
 ## 2026年7月26日 10:16 Sunday
 
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260726/1785032174.jpg)
+
+## 2026年7月26日 10:16 Sunday
+
 ```
 一次函数基础表达式
 1. 通用形式：y=kx+b (k≠0)
