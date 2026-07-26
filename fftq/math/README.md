@@ -2223,4 +2223,10 @@ x：自变量，y：因变量。
 2. 特殊：b=0时，y=kx，为正比例函数
 ```
 
+
+
+2026年7月26日 10:11 星期一
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260726/1785031879.jpg)
+
 # Latest
