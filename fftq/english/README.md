@@ -2488,4 +2488,77 @@ Leonardo da Vinci was born in the countryside in Italy.
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260726/1785032090.jpg)
 
+
+
+2026年7月26日 20:57 星期一
+
+```
+🌟课堂主要内容及学生表现
+2026年7月26日 初二F班英语
+第14节             助教：姜老师
+❤️❤️认真关注每一个孩子，我们一同成长
+📚英语
+1. There is no doubt that… 毫无疑问……
+
+2. transport n.运输；invention n.发明；wheel n.轮子
+
+3. with the invention of… 随着……的发明
+
+4. long-distance trade 长途贸易
+
+5. complete(形/动词)→completely(副词)，副词修饰形容词dry
+
+6. from head to toe 从头到脚
+
+7. protect sb. from/against sth. 保护某人免受……
+
+8. matter v.要紧，重要；What matters is… 重要的是……
+
+9. deed n.行为；What matters is the deed, not the thought.论迹不论心
+
+10. light up 点亮、照亮；direction n.方向
+
+11. notice /ˈnəʊtɪs/ v.注意到；n.通知，a notice 一则通知
+
+12. type /taɪp/ n.活字；blood type 血型，type letters 打字
+
+13. mixture /ˈmɪkstʃə(r)/ n.混合物，mix v.混合、搅拌
+
+14. heat /hiːt/ v.加热、变热，heat up 加热
+
+15. press /pres/ v.（被）压，pressure n.压力，stress n.压力
+
+16. metal /ˈmetl/ n.金属
+
+17. Why not spread your wings to France? 何不展翅去往法国？
+
+18. keep in touch with others over long distances 远距离和他人保持联系
+
+19. avoid doing sth. 避免做某事
+
+20. pick up sth. with chopsticks 用筷子夹起某物
+
+21. make fun of others 取笑别人
+
+22. save energy 省力、节约能源
+
+23. walk into things 撞到东西
+
+24. in the middle of the night 半夜
+
+25. cool down 冷却、降温
+
+26. what...for = why 为什么
+
+27. As a result 因此，所以
+
+28. amaze v.使惊奇，amazing adj.令人惊奇的（修饰事物）
+
+29. machine n.机器，复数machines
+
+30. one of + the + 形容词最高级 + 名词复数 ……中最……之一
+
+31. easy adj.容易的，比较级easier，much修饰比较级
+```
+
 # Latest
