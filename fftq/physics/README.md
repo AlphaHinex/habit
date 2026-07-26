@@ -1815,4 +1815,10 @@ u+v=4f 最短距离
 4. 矫正方式：佩戴凸透镜（会聚光线，前移成像到视网膜）
 ```
 
+
+
+2026年7月26日 10:13 星期一
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260726/1785031996.jpg)
+
 # Latest
