@@ -1,5 +1,9 @@
 ## 2026年7月26日 10:13 Sunday
 
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260726/1785031999.jpg)
+
+## 2026年7月26日 10:13 Sunday
+
 ```
 ③远视眼
 1. 症状：能看清远处物体，看不清近处物体
