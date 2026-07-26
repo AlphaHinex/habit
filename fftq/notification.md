@@ -1,5 +1,9 @@
 ## 2026年7月26日 21:02 Sunday
 
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260726/1785070958.jpg)
+
+## 2026年7月26日 21:02 Sunday
+
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260726/1785070955.jpg)
 
 ## 2026年7月26日 21:02 Sunday
