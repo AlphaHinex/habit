@@ -1674,4 +1674,16 @@ u+v=4f 最短距离
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260726/1785031650.jpg)
 
+
+
+2026年7月26日 10:07 星期一
+
+```
+如果想把倒小实的像变大
+①凸透镜左移
+②蜡烛和光屏对掉
+③加一个凹透镜
+④蜡烛向右移
+```
+
 # Latest
