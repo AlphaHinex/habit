@@ -2891,4 +2891,26 @@ poster="https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fft
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260726/1785031839.jpg)
 
+
+
+2026年7月26日 10:15 星期一
+
+```
+7.25 初二F班语文小测
+答案：
+《春望》
+1. 城春草木深
+2. 感时花溅泪
+3. 家书抵万金
+4. 白头搔更短
+
+《雁门太守行》
+1. 甲光向日金鳞开
+2. 角声满天秋色里
+3. 半卷红旗临易水
+4. 提携玉龙为君死
+
+小测情况：
+```
+
 # Latest
