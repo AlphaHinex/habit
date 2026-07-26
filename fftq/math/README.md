@@ -2213,4 +2213,14 @@ x：自变量，y：因变量。
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260726/1785031868.jpg)
 
+
+
+2026年7月26日 10:11 星期一
+
+```
+③一次函数基础表达式
+1. 通用形式：y=kx+b  (k≠0)
+2. 特殊：b=0时，y=kx，为正比例函数
+```
+
 # Latest
