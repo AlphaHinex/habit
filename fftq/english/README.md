@@ -3968,4 +3968,22 @@ in order that 目的从句，常用 will/can + 动词原形（这里填 will hav
 
 [初二F班英语(1).docx](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260805/初二F班英语(1).docx)
 
+
+
+# 2026年8月5日 22:18 Wednesday
+
+```
+8.4 初二F班英语小测
+答案：
+1. ability
+2. cut
+3. natural
+4. to figure
+5. to speak
+6. made
+7. down
+
+小测情况：
+```
+
 # Latest
