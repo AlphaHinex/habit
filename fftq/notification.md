@@ -1,5 +1,21 @@
 ## 2026年8月5日 22:18 Wednesday
 
+```
+8.4 初二F班英语小测
+答案：
+1. ability
+2. cut
+3. natural
+4. to figure
+5. to speak
+6. made
+7. down
+
+小测情况：
+```
+
+## 2026年8月5日 22:18 Wednesday
+
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260805/1785939491.jpg)
 
 ## 2026年8月5日 22:18 Wednesday
