@@ -2814,4 +2814,10 @@ Beijing is one of the biggest cities in China.
 4. 出现than只用比较级；in/of+群体用最高级
 ```
 
+
+
+# 2026年8月5日 21:42 Wednesday
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260805/1785937363.jpg)
+
 # Latest
