@@ -388,4 +388,10 @@
 
 [同步期末二.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260605/同步期末二.pdf)
 
+
+
+# 2026年8月5日 22:23 Wednesday
+
+[1-5课笔记.zip](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260805/1-5课笔记.zip)
+
 # Latest
