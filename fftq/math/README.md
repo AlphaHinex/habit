@@ -2892,4 +2892,10 @@ b=0：函数为正比例函数，图像过原点。
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260805/1785938331.jpg)
 
+
+
+# 2026年8月5日 21:58 Wednesday
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260805/1785938338.jpg)
+
 # Latest
