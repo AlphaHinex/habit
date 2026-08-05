@@ -1,5 +1,9 @@
 ## 2026年8月5日 22:11 Wednesday
 
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260805/1785939075.jpg)
+
+## 2026年8月5日 22:11 Wednesday
+
 ```
 s-t图像知识点：
 如果图像是一条直线，表示物体做匀速直线运动；
