@@ -1,5 +1,21 @@
 ## 2026年8月5日 22:20 Wednesday
 
+```
+8.5 初二F班英语小测
+答案：
+1. choice
+2. faithfully
+3. happiness
+4. suggestions
+5. read
+6. noisy
+7. to have
+
+小测情况：
+```
+
+## 2026年8月5日 22:20 Wednesday
+
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260805/1785939643.jpg)
 
 ## 2026年8月5日 22:20 Wednesday
