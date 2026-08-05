@@ -3334,4 +3334,10 @@ reverse culture shock 逆向文化冲击
 3. We can’t expect others to do… 我们不能指望别人去做……
 ```
 
+
+
+# 2026年8月5日 21:57 Wednesday
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260805/1785938272.jpg)
+
 # Latest
