@@ -1,6 +1,145 @@
 ## 2026年8月5日 22:08 Wednesday
 
 ```
+🌟课堂主要内容及学生表现
+2026年8月1日 初二F班英语
+第20节             助教：姜老师
+❤️❤️认真关注每一个孩子，我们一同成长
+📚英语
+1. the cause of … ……的起因
+
+2. put … in the correct order 把……按正确顺序排列
+
+3. at the dinner 在晚餐时
+
+4. the King of Sparta 斯巴达国王
+
+5. get on a ship 登上一艘船
+
+6. fall in love with each other 彼此相爱
+
+7. go away from… 从……离开
+
+8. take sb to sp 带某人去某地
+
+9. steal sth from sp 从某处偷某物
+
+10. sail back to… 乘船返回……
+
+11. I wait so long for this moment 为这一刻等待已久
+
+12. last for… 持续
+
+13. break into 闯入
+
+14. in the Tang dynasty 在唐朝
+
+15. have a history lesson 上历史课
+
+16. start the war 发动战争
+
+17. Greek history 希腊历史
+
+18. join the History Club 加入历史社团
+
+19. the day before yesterday 前天
+
+20. a travel book about … 一本关于……的旅行书
+
+21. ancient Greece 古希腊
+
+22. at the bookshop 在书店
+
+23. Tian Ji in a horse race 田忌赛马
+
+24. The Battle of Chibi 赤壁之战
+
+25. Empty fort strategy 空城计
+
+26. Surround Wei to save Zhao 围魏救赵
+
+27. look over there 看那边
+
+28. set the scene 设定场景
+
+29. be tired of 厌烦
+
+30. develop the story 展开故事
+
+31. have a clever idea 有个聪明的主意
+
+32. in the middle of the night 在半夜
+
+33. the next morning 第二天早上
+
+34. go on board 上船
+
+35. pretend to do sth 假装做某事
+
+36. wait for the right moment 等待合适的时机
+
+37. at midnight 在午夜时分
+
+38. end the story 结束故事
+
+39. detailed descriptions of… 对……的详细描述
+
+40. They welcomed (welcome) the guests warmly just now.
+
+41. Paris' men stole (steal)a lot of gold from Sparta.
+
+42. Several centuries later, different stories about the Trojan War were written (write) down
+
+43. be known for …… 因为……闻名
+
+44. borrow sth from sb 从某人那里借某物
+
+45. be jealous of 嫉妒
+
+46. ask sb to do (do) 要求某人做某事
+
+47. no problem 没问题
+
+48. in three days 在三天内
+
+49. an impossible (possible) task 一项不可能完成的任务
+
+50. fill… with… 用……装满……
+
+51. sail the boats towards … 把船驶向……
+
+52. on the other side of the/across of 在……的另一边
+
+53. beat one's drums 击鼓 beat-beat-beaten
+
+54. be under attack 受到攻击
+
+55. thick fog 浓雾
+
+56. order sb to do (do) 命令某人做某事
+
+57. shoot arrows towards … 朝……射箭 shoot-shot-shot
+
+58. be full of 装满；充满
+
+59. turn the boats around 调转船头
+
+60. thank you for… 因为……感谢
+
+61. at the end of … 在……的末尾
+
+62. the Han dynasty 汉朝
+
+63. thick clouds at ground level 在地面高度厚厚的云层
+
+64. for that reason 因为那个原因，因此
+
+65. fight against … ……对抗
+```
+
+## 2026年8月5日 22:08 Wednesday
+
+```
 💯语文小测反馈：
 1️⃣本节课小测是关于三峡的知识点 孩子整体答的很好，但有的也存在错误，课后改正整理[拳头][拳头] 
 重点注意一下
