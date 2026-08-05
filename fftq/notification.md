@@ -1,5 +1,9 @@
 ## 2026年8月5日 21:45 Wednesday
 
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260805/1785937537.jpg)
+
+## 2026年8月5日 21:45 Wednesday
+
 ```
 铁架台 酒精灯 石棉网 烧杯 试管 海波 石蜡 温度计 搅拌棒 停表 火柴
 石棉网：受热均匀
