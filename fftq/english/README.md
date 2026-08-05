@@ -3346,4 +3346,20 @@ reverse culture shock 逆向文化冲击
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260805/1785938277.jpg)
 
+
+
+# 2026年8月5日 22:00 Wednesday
+
+```
+7.31 初二F班英语小测
+答案：
+1. lonely
+2. culture shock
+3. to accept
+4. to deal with
+5. expect
+
+小测情况：
+```
+
 # Latest
