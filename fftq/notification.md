@@ -1,3 +1,20 @@
+## 2026年8月5日 22:08 Wednesday
+
+```
+8.1  初二F班语文小测
+答案：
+1. 素湍绿潭
+2. 绝巘（山+献）
+3. 飞漱
+4. 清荣峻茂
+5. 林寒涧肃
+6. 属引凄异
+7. 哀转久绝
+8. 猿鸣三声泪沾裳
+
+小测情况：
+```
+
 ## 2026年8月5日 22:07 Wednesday
 
 [初二F班英语.docx](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260805/初二F班英语.docx)
