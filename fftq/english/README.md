@@ -3861,4 +3861,87 @@ in order that 目的从句，常用 will/can + 动词原形（这里填 will hav
 2⃣家长们督促孩子整理错题‼‼
 ```
 
+
+
+# 2026年8月5日 22:16 Wednesday
+
+```
+🌟课堂主要内容及学生表现
+2026年8月3日 初二F班英语
+第22节             助教：姜老师
+❤️❤️认真关注每一个孩子，我们一同成长
+📚 英语
+1. humans  人类
+
+2. have the ability to do sth  有能力做某事
+
+3. in a/one way  在某种程度上
+
+4. past events  过去的事件
+
+5. Minutes seemed like hours.  度日如年
+
+6. cut down trees  砍伐树木
+
+7. cut down the use of plastic  减少塑料的使用
+
+8. at the age of 12  在12岁时
+
+9. a record of ...  ……的记录
+
+10. a good sign  好兆头；好迹象
+
+11. tree ring patterns  树木的年轮图案
+
+12. climate change  气候变化
+
+13. in a particular place  在特定地区
+
+14. natural (nature) disaster  自然灾害
+
+15. forest fires  森林火灾
+
+16. human history  人类历史
+
+17. the chemistry of...  ……的化学成分
+
+18. figure out  弄懂；弄清楚
+
+19. even though  即使；虽然
+
+20. branch of science  科学分支
+
+21. make great contributions in this field  在该领域做出巨大贡献
+
+22. collect data about...  收集关于……的数据
+
+23. be made up of  由……组成
+
+24. carry out an experiment on...  对……进行实验
+
+25. make sense  有道理；有意义
+
+26. in many learning sessions  在许多学习环节中
+
+27. over longer periods of time  在较长时间内
+
+28. slow down  减速；慢下来
+
+29. forgetting curve  遗忘曲线
+
+30. a sharp drop  急剧的下降
+
+31. followed by  接着是；随后是
+
+32. a gentle curve  一条平缓的曲线
+
+33. encourage sb to do (do) sth  鼓励某人做某事
+
+34. a field of study  研究的领域
+
+35. in psychology  在心理学领域
+
+36. to this day  至今
+```
+
 # Latest
