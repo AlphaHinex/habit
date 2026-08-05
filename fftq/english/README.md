@@ -3705,4 +3705,97 @@ reverse culture shock 逆向文化冲击
 2⃣家长们督促孩子整理错题‼‼
 ```
 
+
+
+# 2026年8月5日 22:13 Wednesday
+
+```
+🌟课堂主要内容及学生表现
+2026年8月2日 初二F班英语
+第3节             助教：姜老师
+❤️❤️认真关注每一个孩子，我们一同成长
+📚英语
+1. get enough sleep 获得充足的睡眠
+
+2. eat healthy food 吃健康食品
+
+3. exercise regularly 定期锻炼
+
+4. play brain games 玩脑力游戏
+
+5. put things into groups 把东西分组
+
+6. flash cards 识字卡片
+
+7. take notes 记笔记；note down 写下
+
+8. create sth in one's mind 在脑海中创造某物
+
+9. play an important role in… 在……中起重要作用
+
+10. plan to (do) sth. 计划做某事
+
+11. in the future 在未来
+
+12. live/have an active life 过着积极的生活
+
+13. live a mentally active life 过着精神活跃的生活
+
+14. make a point of doing sth. (因重要或必要)保证做
+
+15. play a new instrument 演奏一种新乐器
+
+16. learn a foreign language 学习一门外语
+
+17. improve one's memory 提高记忆力
+
+18. word games 文字游戏
+
+19. maths puzzles 数学谜题
+
+20. memory linking 记忆链接
+
+21. make mental connections 建立思维联系
+
+22. make up a story 编一个故事
+
+23. live a healthy life 过着健康的生活
+
+24. oily fish 富含油脂的鱼类
+
+25. improve one's ability to do sth 提高某人做某事的能力
+
+26. What's more, 此外
+
+27. Last but not least, 最后但同样重要的是
+
+28. take time to do (do) sth 花时间做某事
+
+29. get too stressed / worried 变得过于焦虑/担心
+
+30. get less sharp 变得更迟钝
+
+31. tend to make mistakes 往往会出错
+
+32. decline with age 随着年龄增长而衰退
+
+33. memory loss 记忆力减退
+
+34. make time to relax 抽出时间放松
+
+35. identify transition of ideas 识别观点的转换
+
+36. of equal importance 同等重要
+
+37. stay mentally active 保持思维活跃
+
+38. do crosswords 做填字游戏
+
+39. maintain a healthy work-life balance 保持健康的工作与生活平衡
+
+40. go for a walk 去散步
+
+41. get / feel tired / stressed / worried 感到疲惫/压力大/忧心忡忡
+```
+
 # Latest
