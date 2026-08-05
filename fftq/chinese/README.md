@@ -3799,4 +3799,23 @@ A总体论述__，BC分别论述__、__，ABC是总分关系，不能颠倒
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260805/1785938595.jpg)
 
+
+
+# 2026年8月5日 22:08 Wednesday
+
+```
+8.1  初二F班语文小测
+答案：
+1. 素湍绿潭
+2. 绝巘（山+献）
+3. 飞漱
+4. 清荣峻茂
+5. 林寒涧肃
+6. 属引凄异
+7. 哀转久绝
+8. 猿鸣三声泪沾裳
+
+小测情况：
+```
+
 # Latest
