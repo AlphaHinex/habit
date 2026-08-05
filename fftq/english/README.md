@@ -4113,4 +4113,57 @@ slow down（减速），down 是副词，和动词构成短语
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260805/1785939563.jpg)
 
+
+
+# 2026年8月5日 22:20 Wednesday
+
+```
+🌟课堂主要内容及学生表现
+2026年8月5日 初二F班英语
+第23节             助教：姜老师
+❤️❤️认真关注每一个孩子，我们一同成长
+📚 英语
+1. have no choice but to do sth 别无选择只能做某事
+
+2. hold ... in one's arms 把……抱在怀里
+
+3. keep dogs as pets 养狗当作宠物
+
+4. give one's opinions on sth 就某事发表看法
+
+5. head to head 针锋相对；face to face 面对面
+
+6. physical appearance 外貌
+
+7. teach sb how to care for others 教会某人如何照顾他人
+
+8. take up much space 占用大量空间
+
+9. swim around 游来游去；lie around 懒散度日
+
+10. interact with sb 和某人互动
+
+11. add up 加起来；at work 在工作场合
+
+12. make a lot of noise 制造很多噪音
+
+13. keep sb awake 使某人无法入睡
+
+14. bark at strangers 对着陌生人吠叫
+
+15. take pride in 为……感到自豪
+
+16. catch the eye of 吸引……的目光
+
+17. magical powers 神奇的力量
+
+18. treat ... like family members 像家人一样对待……
+
+19. pay attention to 留意；关注
+
+20. play with 和……玩耍
+
+21. be responsible for 对……负责
+```
+
 # Latest
