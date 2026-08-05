@@ -4208,4 +4208,36 @@ slow down（减速），down 是副词，和动词构成短语
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260805/1785939690.jpg)
 
+
+
+# 2026年8月5日 22:21 Wednesday
+
+```
+💯英语小测反馈：
+1️⃣本节课小测是关于昨天单词的练习 孩子整体答的不是很好 课后改正整理[拳头][拳头]
+⚠️注意：
+1. have no ______ (choose)
+考点：固定搭配 have no choice but to do（别无选择，只能做某事）。
+注意：but 后面要接不定式 to do，但这句话里“but to keep”已经给出来了，所以前面只能填名词 choice。千万别填成动词 choose。
+2. love you ______ (faithful)
+考点：修饰动词（love）要用副词。
+注意：faithful 变副词是 faithfully（去 y 变 i 加 ly）。很多同学会直接填形容词 faithful 修饰 you，但这里修饰的是“爱”这个动作。
+3. lots of ______ (happy)
+考点：介词 of 后面、以及作宾语要用名词。
+注意：happy 变名词是 happiness（把 y 变 i 加 ness）。记住 bring you + 名词（带来快乐）。
+4. some ______ (suggest)
+考点：some 后接可数名词复数，且“建议”这个词通常用复数表示多条建议。
+注意：suggest 变名词是 suggestion，复数是 suggestions。千万别写成不可数或动词原形。
+5. see Tom ______ (read)
+考点：感官动词 see 的用法。
+注意：see sb. do（看见全过程/经常看见），see sb. doing（看见正在做）。这里语境是“经常看见”，所以填原形 read。如果强调“看见他正在读”，就要填 reading。
+6. Dogs are ______ (noise)
+考点：系动词 are 后面接形容词作表语。
+注意：noise（名词噪音）变形容词是 noisy（把 e 变 y）。千万别填成名词 noise。
+7. it's a good idea ______ (have)
+考点：不定式作真正主语。
+注意：句型 It's + 名词/形容词 + to do sth.，这里的 to have 是真正的主语，it 是形式主语。不能填 having。
+2⃣家长们督促孩子整理错题‼‼
+```
+
 # Latest
