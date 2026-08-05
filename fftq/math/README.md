@@ -3062,4 +3062,10 @@ k+b=3
 4. 最终结果统一写成y=kx+b标准书写格式
 ```
 
+
+
+# 2026年8月5日 22:10 Wednesday
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260805/1785939025.jpg)
+
 # Latest
