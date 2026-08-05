@@ -1,5 +1,9 @@
 ## 2026年8月5日 21:45 Wednesday
 
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260805/1785937548.jpg)
+
+## 2026年8月5日 21:45 Wednesday
+
 ```
 AB：固态 吸热 温度上升  B：固态（刚达到48 °c时 也是固态）
 BC：固液共存态 吸热 温度不变  C：液态
