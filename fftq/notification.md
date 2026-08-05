@@ -1,5 +1,9 @@
 ## 2026年8月5日 22:03 Wednesday
 
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260805/1785938609.jpg)
+
+## 2026年8月5日 22:03 Wednesday
+
 ```
 🌟课堂主要内容及学生表现
 2026年7月31日 初二F班数学
