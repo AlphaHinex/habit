@@ -3236,4 +3236,102 @@ feel shocked 感到震惊
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260805/1785937962.jpg)
 
+
+
+# 2026年8月5日 21:57 Wednesday
+
+```
+🎊🎊课堂主要内容及学生表现
+2026年7月30日    新初二F班
+ 第18节
+ 助教：王老师
+🎉🎉认真关注每一个孩子，我们一同成长
+
+❗️英语❗
+Unit 5
+一、核心单词
+
+1. exchange  n./v. 交流；交换
+2. nervous  adj. 紧张的；焦虑的
+3. grateful  adj. 感激的
+4. chopsticks  n. 筷子
+5. tour  n. 旅行；旅游
+6. tai chi  n. 太极
+7. yet  adv. 尚；还；仍然
+8. independent  adj. 自主的
+9. content  n. 内容
+10. feeling  n. 感觉；感情
+11. shock  n. 震惊；令人震惊的事
+12. foreign  adj. 外国的
+13. confused  adj. 糊涂的；迷惑的
+14. anxious  adj. 焦虑的；忧虑的
+15. phase  n. 阶段；时期
+16. honeymoon  n. 蜜月
+17. unfamiliar  adj. 陌生的；不熟悉的
+18. homesick  adj. 想家的
+19. lonely  adj. 孤独的
+20. deal  v. 对付；应付
+21. expect  v. 期待；盼望
+22. situation  n. 情况
+23. accept  v. 接受
+24. adaptation  n. 适应
+
+二、重点短语
+
+1. go on an exchange trip 进行交换生旅行
+2. an exchange student 交换生
+3. host family 寄宿家庭
+4. Beijing opera 京剧
+5. snake its way 蜿蜒
+6. culture shock 文化冲击
+7. deal with 解决；处理
+8. feel at home 感到舒适自在
+9. tour around the world 环游世界
+10. be grateful to sb for sth 因某事感激某人
+11. apologize to sb for sth 为某事向某人道歉
+12. depend on 依靠；取决于
+13. solve problems / deal with problems 处理问题
+14. be used to 习惯于；适应
+15. express feelings 表达情感
+16. foreign countries 外国
+
+三、重点课文：Culture shock（文化冲击）
+
+1. 定义
+
+前往外国时，人产生困惑、陌生、焦虑的感受，这种体验叫做culture shock 文化冲击。
+成因：不了解当地语言、本土文化，思念家人朋友。
+
+2. 文化适应四阶段
+
+1. Honeymoon Phase 蜜月阶段
+抵达异国感到兴奋，一切新奇，乐于探索新文化。
+2. Negotiation Phase 协商阶段
+逐渐对新生活感到不快，容易生气、难过，沟通困难，思乡、孤独。
+3. Adjustment Phase 调整阶段
+慢慢应对困难，预判各类场景，接纳本土文化，学会处理不如意的事。
+4. Adaptation Phase 适应阶段
+在新文化中找到归属感，文化差异不再构成难题。
+
+3. 拓展概念
+
+reverse culture shock 逆向文化冲击
+长期旅居海外回到本国后，难以适应本土生活产生的冲击。
+
+四、核心词汇运用考点
+
+1. lonely adj. 孤独的（带有情感孤单）
+2. deal with 处理；应对
+3. expect v. 期待；预料
+4. accept v. 接受（主观接纳）
+5. unfamiliar adj. 不熟悉的 反义词 familiar
+6. homesick adj. 想家的
+
+五、重点句型积累
+
+1. It takes some time for people to… 人们需要一段时间去……
+2. You will have to find a way to deal with… 你需要找到方法应对……
+3. We can’t expect others to do… 我们不能指望别人去做……
+```
+
 # Latest
