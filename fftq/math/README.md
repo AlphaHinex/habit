@@ -2641,4 +2641,10 @@ k值互为负倒数（k_1·k_2=-1）⇔ 两直线垂直
 老师上课先讲了小测 接着讲了昨天的作业 然后讲了一次函数
 ```
 
+
+
+# 2026年8月5日 21:48 Wednesday
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260805/1785937732.jpg)
+
 # Latest
