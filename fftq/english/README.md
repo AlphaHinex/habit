@@ -4166,4 +4166,10 @@ slow down（减速），down 是副词，和动词构成短语
 21. be responsible for 对……负责
 ```
 
+
+
+# 2026年8月5日 22:20 Wednesday
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260805/1785939637.jpg)
+
 # Latest
