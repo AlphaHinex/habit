@@ -1,5 +1,9 @@
 ## 2026年8月5日 22:21 Wednesday
 
+[初二F班英语(6).docx](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260805/初二F班英语(6).docx)
+
+## 2026年8月5日 22:21 Wednesday
+
 ```
 💯英语小测反馈：
 1️⃣本节课小测是关于昨天单词的练习 孩子整体答的不是很好 课后改正整理[拳头][拳头]
