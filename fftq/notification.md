@@ -1,3 +1,21 @@
+## 2026年8月5日 21:43 Wednesday
+
+```
+7.27 初二F班语文小测
+答案：
+赤壁
+1. 折戟沉沙铁未销
+2. 铜雀春深锁二乔
+
+渔家傲
+1. 星河欲转千帆舞
+2. 仿佛梦魂归帝所
+3. 学诗谩有惊人句
+4. 九万里风鹏正举
+
+小测情况：
+```
+
 ## 2026年8月5日 21:42 Wednesday
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260805/1785937363.jpg)
