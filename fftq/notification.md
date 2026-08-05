@@ -1,5 +1,20 @@
 ## 2026年8月5日 22:12 Wednesday
 
+```
+8.2  初二F班英语小测
+答案：
+1. welcomed
+2. stole
+3. were written
+4. to finish
+5. to shoot
+6. impossible
+
+小测情况：
+```
+
+## 2026年8月5日 22:12 Wednesday
+
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260805/1785939119.jpg)
 
 ## 2026年8月5日 22:11 Wednesday
