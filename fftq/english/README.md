@@ -3986,4 +3986,10 @@ in order that 目的从句，常用 will/can + 动词原形（这里填 will hav
 小测情况：
 ```
 
+
+
+# 2026年8月5日 22:18 Wednesday
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260805/1785939531.jpg)
+
 # Latest
