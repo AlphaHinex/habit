@@ -2820,4 +2820,96 @@ Beijing is one of the biggest cities in China.
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260805/1785937363.jpg)
 
+
+
+# 2026年8月5日 21:46 Wednesday
+
+```
+🌟课堂主要内容及学生表现
+2026年7月28日 初二F班英语
+第16节             助教：姜老师
+❤️❤️认真关注每一个孩子，我们一同成长
+📚英语
+一、基本结构
+肯定句
+
+主语 + have / has + 动词过去分词
+I/You/We/They + have done
+He/She/It + has done
+
+否定句
+
+主语 + have/has + not + 过去分词
+haven’t = have not；hasn’t = has not
+
+一般疑问句
+
+Have / Has + 主语 + 过去分词？
+回答：Yes, 主语+have/has. / No, 主语+haven’t/hasn’t.
+
+二、两种核心用法
+
+1. 过去发生，对现在造成影响（无明确过去时间）
+标志词：already, yet, just, ever, never
+例：I have finished my homework.（现在作业写完了，可以出去玩）
+
+2. 动作从过去持续到现在
+标志词：for + 时间段；since + 时间点/过去句子
+动词必须用延续性动词
+例：I have lived here for 5 years.
+
+三、常考标志词
+
+1. already 已经（肯定句，句中/句末）
+
+2. yet 还、已经（否定句句末）
+
+3. just 刚刚；ever 曾经；never 从不
+
+4. before 以前；recently 最近
+
+5. for + 时长；since + 过去时间
+
+四、重点难点：短暂性动词 ↔ 延续性动词（必考）
+
+短暂动词不能和for/since连用，要转换：
+
+1. buy → have
+
+2. borrow → keep
+
+3. die → be dead
+
+4. leave → be away
+
+5. join → be in/be a member of
+
+6. begin/start → be on
+
+7. finish → be over
+
+8. arrive/reach/get to → be in/at
+
+例：He left 3 days ago.
+= He has been away for 3 days.
+
+五、have been to / have gone to / have been in 区分
+
+1. have been to + 地点：去过某地（现在已回来）
+
+2. have gone to + 地点：去了某地（人还没回来，不在现场）
+
+3. have been in + 地点 + 时长：待在某地多久
+
+六、易错点
+
+1. 不能和yesterday, last week, just now等过去时间词连用（搭配一般过去时）
+
+2. since后句子用一般过去时，主句现在完成时
+例：I have studied English since I was 10.
+
+3. It is + 时长 + since + 一般过去时句子
+例：It’s two years since we met.
+```
+
 # Latest
