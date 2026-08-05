@@ -3798,4 +3798,10 @@ reverse culture shock 逆向文化冲击
 41. get / feel tired / stressed / worried 感到疲惫/压力大/忧心忡忡
 ```
 
+
+
+# 2026年8月5日 22:13 Wednesday
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260805/1785939188.jpg)
+
 # Latest
