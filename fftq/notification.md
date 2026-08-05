@@ -1,5 +1,14 @@
 ## 2026年8月5日 22:11 Wednesday
 
+```
+s-t图像知识点：
+如果图像是一条直线，表示物体做匀速直线运动；
+直线与时间轴夹角越大，表示物体运动的速度越大。
+如图可知甲、乙均做匀速直线运动，但甲的速度大，乙的速度小。
+```
+
+## 2026年8月5日 22:11 Wednesday
+
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260805/1785939066.jpg)
 
 ## 2026年8月5日 22:11 Wednesday
