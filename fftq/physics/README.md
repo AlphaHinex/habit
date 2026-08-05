@@ -2237,4 +2237,18 @@ ps：熔化的熔是这个 千万别写成了融化
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260805/1785937528.jpg)
 
+
+
+# 2026年8月5日 21:45 Wednesday
+
+```
+铁架台 酒精灯 石棉网 烧杯 试管 海波 石蜡 温度计 搅拌棒 停表 火柴
+石棉网：受热均匀
+水浴法：受热均匀
+小颗粒：受热均匀
+搅拌棒：受热均匀
+
+三.
+```
+
 # Latest
