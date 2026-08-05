@@ -1,5 +1,9 @@
 ## 2026年8月5日 21:46 Wednesday
 
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260805/1785937571.jpg)
+
+## 2026年8月5日 21:46 Wednesday
+
 ```
 AB：液体 放热 温度降低 B：液体
 BC：固液共存 放热 温度不变  C：固体
