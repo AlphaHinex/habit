@@ -1,5 +1,9 @@
 ## 2026年8月5日 21:52 Wednesday
 
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260805/1785937931.jpg)
+
+## 2026年8月5日 21:52 Wednesday
+
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260805/1785937927.jpg)
 
 ## 2026年8月5日 21:52 Wednesday
