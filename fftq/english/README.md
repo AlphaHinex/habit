@@ -3846,4 +3846,19 @@ reverse culture shock 逆向文化冲击
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260805/1785939403.jpg)
 
+
+
+# 2026年8月5日 22:16 Wednesday
+
+```
+💯英语小测反馈：
+1️⃣本节课小测是关于昨天单词的练习 孩子整体答的不是很好 课后改正整理[拳头][拳头]
+⚠️注意：
+to do 三连：plan / take time / tend 后面一律接 to do。
+介词后面接 doing：be good at / as well as（这里的 as well as 相当于介词）。
+副词修饰形容词：mental 变 mentally 才能修饰 active。
+in order that 目的从句，常用 will/can + 动词原形（这里填 will have 或 can have 都算对，看老师要求）。
+2⃣家长们督促孩子整理错题‼‼
+```
+
 # Latest
