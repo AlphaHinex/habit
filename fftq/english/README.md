@@ -2924,4 +2924,178 @@ Have / Has + 主语 + 过去分词？
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260805/1785937635.jpg)
 
+
+
+# 2026年8月5日 21:50 Wednesday
+
+```
+🌟课堂主要内容及学生表现
+2026年7月29日 初二F班英语
+第17节             助教：姜老师
+❤️❤️认真关注每一个孩子，我们一同成长
+📚英语
+1. tour  n. 旅行；旅游 
+搭配：tour around the world 环游世界
+tourist n. 游客
+
+2. tai chi  n. 太极
+
+3. yet adv. 尚（未）；还；仍
+
+4. independent adj. 自主的
+Independence Day 独立日
+
+5. content  n. 内容
+
+6. feeling  n. 感觉；感情
+ 搭配：express feelings 表达情绪
+
+7. shock n. 震惊；令人震惊的事
+搭配：culture shock 文化冲击
+feel shocked 感到震惊
+
+8. foreign  adj. 外国的
+ 搭配：foreign countries 外国
+
+9. confused adj. 糊涂的；迷惑的
+
+10. anxious  adj. 焦虑的；忧虑的（近义词worried）
+
+11. host family 寄宿家庭
+
+12. at first 起初，一开始
+
+13. be grateful = be thankful 感激的
+
+14. spend time doing sth. 花费时间做某事
+
+15. the weekdays 工作日
+
+16. at the weekend 在周末
+
+17. go on tours 去旅行、游览
+
+18. places of interest 名胜古迹
+
+19. such as 例如（后接多个例子，介词like同义）
+
+20. in person 亲自，亲身
+
+21. snake its way through 蜿蜒穿过
+
+22. thousands of kilometres 数千公里
+
+23. no doubt 毫无疑问；句型 There is no doubt that… 毫无疑问……
+
+24. one of the + 形容词最高级 + 名词复数 最……之一
+
+25. at the weekend 在周末；on the weekdays 在工作日
+
+26. go on/have tours with sb 和某人去旅游
+
+27. places of interest = interesting places 名胜古迹
+
+28. the Summer Palace 颐和园
+
+29. the National Museum 国家博物馆；National Day 国庆节
+
+30. watch videos about... 看关于……的视频
+
+31. see ... in person 亲眼看到……
+
+32. snake its way through the mountains 蜿蜒穿行群山
+
+33. amazing achievements 令人惊叹的成就
+
+34. spend time doing sth / spend time on sth 花时间做某事
+
+35. Chinese culture 中国文化
+
+36. get to try... 尝试……
+
+37. so far 到目前为止
+
+38. a little water = a bit of water 一点水
+
+39. introduce sb to sth 使某人初次了解某物
+
+40. A is as old as B. A和B同龄。A is 12 years old as well. A也十二岁。
+
+41. be different from 与……不同
+
+42. art classes back home 国内的美术课
+
+43. dip...in... 把……浸入……
+
+44. paint on... 在……上绘画
+
+45. Xuan paper 宣纸
+
+46. keep trying 继续尝试
+
+47. make new friends 结交新朋友；make a snowman/footprints/dumplings 堆雪人/踩脚印/包饺子
+
+48. plan to do sth 计划做某事
+
+49. keep in touch with sb 与……保持联系
+
+50. return home 回家/回国
+
+51. come over to... (从远距离)到……来
+
+52. can't wait to do sth 迫不及待做某事；unforgettable 难以忘怀的
+
+53. believable sources 可信的来源；unbelievable 难以置信的
+
+54. pay attention to doing... 注意做……
+
+55. tourist sites 旅游景点
+
+56. hear from... = get a letter from sb 收到某人来信
+
+57. the same age as 与……同龄；as...as 和……一样
+
+58. get along well with sb = get on well with sb 和某人相处融洽
+
+59. on one's schedule/timetable 在某人的日程上
+
+60. a cultural exchange evening 一场文化交流晚会
+
+61. pack one's bags 收拾行李、打包
+
+62. go on an exchange trip 参加交换访学
+
+63. A cultural exchange 文化交流
+
+64. An exchange student 交换生
+
+65. exchange ideas 交换意见
+
+66. preparations for the trip = prepare for the trip 为旅游做准备
+
+67. plans for ... ……的计划
+
+68. a group of students 一群学生
+
+69. introduce sth to sb 把某物介绍给某人；introduction n.介绍
+
+70. make a to-do list 列一份待办事项清单；must-see/must-go 必看/必去
+
+71. Beijing opera 京剧
+
+72. Chinese painting 中国画
+
+73. Chinese characters 汉字
+
+74. an art form 一种艺术形式
+
+75. have a long history 有悠久的历史
+
+76. be widely practised/used 被广泛实践/使用
+
+77. learn to do sth 学习做某事
+
+78. speak a little Chinese 说一点中文
+```
+
 # Latest
