@@ -1,5 +1,24 @@
 ## 2026年8月5日 21:47 Wednesday
 
+```
+7.28 初二F班语文小测
+答案：
+1. 举例子
+2. 列数字
+3. 作比较
+4. 打比方
+5. 分类别
+6. 下定义
+7. 作诠释
+8. 摹状貌
+9. 引资料
+10. 列图表
+
+小测情况：
+```
+
+## 2026年8月5日 21:47 Wednesday
+
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260805/1785937635.jpg)
 
 ## 2026年8月5日 21:47 Wednesday
