@@ -2323,4 +2323,10 @@ CD：固体 放热 温度降低
 物体在熔过程中要吸热，在凝固过程中要放热，熔化和凝固互为逆过程。
 ```
 
+
+
+# 2026年8月5日 21:46 Wednesday
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260805/1785937571.jpg)
+
 # Latest
