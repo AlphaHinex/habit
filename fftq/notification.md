@@ -1,3 +1,7 @@
+## 2026年8月5日 22:23 Wednesday
+
+[1-5课笔记.zip](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260805/1-5课笔记.zip)
+
 ## 2026年8月5日 22:22 Wednesday
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260805/1785939719.jpg)
