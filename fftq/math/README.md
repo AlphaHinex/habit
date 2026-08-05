@@ -2582,4 +2582,10 @@ k值互为负倒数（k_1·k_2=-1）⇔ 两直线垂直
 ④k<0，b<0：经过二、三、四象限，y随x增大而减小
 ```
 
+
+
+# 2026年8月5日 21:44 Wednesday
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260805/1785937466.jpg)
+
 # Latest
