@@ -3141,4 +3141,10 @@ k+b=3
 4. 三元一次方程组逐步消元，降次求解
 ```
 
+
+
+# 2026年8月5日 22:14 Wednesday
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260805/1785939290.jpg)
+
 # Latest
