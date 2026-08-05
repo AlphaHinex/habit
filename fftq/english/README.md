@@ -3471,4 +3471,20 @@ reverse culture shock 逆向文化冲击
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260805/1785938501.jpg)
 
+
+
+# 2026年8月5日 22:07 Wednesday
+
+```
+8.1  初二F班英语小测
+答案：
+1. have taken
+2. secretly
+3. succeeded
+4. trying
+5. to sleep
+
+小测情况：
+```
+
 # Latest
