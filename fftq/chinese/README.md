@@ -3405,4 +3405,14 @@ A与B是_____逻辑顺序
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260805/1785937689.jpg)
 
+
+
+# 2026年8月5日 21:48 Wednesday
+
+```
+题目的作用
+①交代说明对象（说明内容）：xxx
+②交代说明对象特点：
+```
+
 # Latest
