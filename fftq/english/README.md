@@ -3681,4 +3681,28 @@ reverse culture shock 逆向文化冲击
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260805/1785939167.jpg)
 
+
+
+# 2026年8月5日 22:12 Wednesday
+
+```
+💯英语小测反馈：
+1️⃣本节课小测是关于昨天单词的练习 孩子整体答的不是很好 课后改正整理[拳头][拳头]
+⚠️注意：
+1. 时态看时间词
+   just now、long ago 必用一般过去时。
+   不规则动词过去式要记牢（如 steal → stole）。
+2. 被动语态别漏 be
+   主语是动作承受者时，用 be + 过去分词。
+   注意 be 动词的单复数（stories → were written）。
+3. 固定搭配
+   ask / order sb. 后面一律接 to do（动词不定式）。
+4. 否定前缀
+   possible 变否定是 impossible（p 开头用 im-，不是 in- 或 un-）。
+5. 写完检查
+   主语单复数是否影响 be 动词？
+   过去式是否写对（如 welcome→welcomed，shoot 这里填 to shoot 不是 shot）。
+2⃣家长们督促孩子整理错题‼‼
+```
+
 # Latest
