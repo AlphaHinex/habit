@@ -3822,4 +3822,22 @@ reverse culture shock 逆向文化冲击
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260805/1785939202.jpg)
 
+
+
+# 2026年8月5日 22:16 Wednesday
+
+```
+8.3  初二F班英语小测
+答案：
+1. to take
+2. to do
+3. to make
+4. mentally
+5. making
+6. will have
+7. exercising
+
+小测情况：
+```
+
 # Latest
