@@ -4022,4 +4022,77 @@ slow down（减速），down 是副词，和动词构成短语
 
 [初二F班英语(3).docx](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260805/初二F班英语(3).docx)
 
+
+
+# 2026年8月5日 22:19 Wednesday
+
+```
+🌟课堂主要内容及学生表现
+2026年8月4日 初二F班英语
+第23节             助教：姜老师
+❤️❤️认真关注每一个孩子，我们一同成长
+📚 英语
+1. the advantages and disadvantages of doing sth 做某事的优缺点
+
+2. physical appearance 外貌
+
+3. head to head = face to face 针锋相对；面对面
+
+4. keep dogs as pets 把狗当作宠物饲养
+
+5. give one's opinions on sth 给出某人关于某事的看法
+
+6. hold ...in one's arms 把……抱在怀里
+
+7. be pleased to do sth 很高兴做某事
+
+8. bark at strangers 对着陌生人吠叫
+
+9. keep sb awake 使某人无法入睡
+
+10. not all 并非全部（部分否定）
+
+11. It's common for people to live in flats. 人们住公寓很常见
+
+12. have no choice but to do sth 别无选择只能做某事
+
+13. spread one's wings 展翅；放手闯荡
+
+14. run on one's exercise wheel 在跑轮上跑
+
+15. take/have this exam 参加这次考试
+
+16. make a lot of noise 制造很多噪音
+
+17. at least 至少
+
+18. lie around 懒散度日；四处躺着
+
+19. need a lot of attention 需要很多关注
+
+20. swim around 游来游去
+
+21. on one's own = by myself = alone 独自一人；独立地
+
+22. take up much space 占用很大空间
+
+23. play with 和……玩耍
+
+24. not...at all 根本不；一点也不
+
+25. interact with 与……互动
+
+26. add up 把……加起来
+
+27. at work 在工作场合
+
+28. No shorts. 禁止穿短裤
+
+29. advise sb (not) to do sth 建议某人(不要)做某事
+
+30. a set of reasons 一系列理由
+
+31. in short 简而言之
+```
+
 # Latest
