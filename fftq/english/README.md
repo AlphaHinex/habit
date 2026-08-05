@@ -3493,4 +3493,10 @@ reverse culture shock 逆向文化冲击
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260805/1785938853.jpg)
 
+
+
+# 2026年8月5日 22:07 Wednesday
+
+[初二F班英语.docx](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260805/初二F班英语.docx)
+
 # Latest
