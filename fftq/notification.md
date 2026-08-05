@@ -1,5 +1,9 @@
 ## 2026年8月5日 22:03 Wednesday
 
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260805/1785938632.jpg)
+
+## 2026年8月5日 22:03 Wednesday
+
 ```
 1. 两条直线相交（k1≠k2）：有唯一交点，方程组有唯一一组解，交点坐标就是方程组的解。
 
