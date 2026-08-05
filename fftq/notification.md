@@ -1,5 +1,22 @@
 ## 2026年8月5日 22:17 Wednesday
 
+```
+8.3  初二F班语文小测
+答案：
+1.古来共谈
+2.清流见底
+3.两岸石壁
+4.四时俱备
+5.猿鸟乱鸣
+6.夕日欲颓
+7.自康乐以来
+8.未复有能与其奇者
+
+小测情况：
+```
+
+## 2026年8月5日 22:17 Wednesday
+
 [初二F班英语(1).docx](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260805/初二F班英语(1).docx)
 
 ## 2026年8月5日 22:17 Wednesday
