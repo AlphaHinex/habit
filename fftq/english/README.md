@@ -3368,4 +3368,95 @@ reverse culture shock 逆向文化冲击
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260805/1785938475.jpg)
 
+
+
+# 2026年8月5日 22:01 Wednesday
+
+```
+🌟课堂主要内容及学生表现
+2026年7月31日 初二F班英语
+第19节             助教：姜老师
+❤️❤️认真关注每一个孩子，我们一同成长
+📚英语
+1. Wisdom counts. 智慧至关重要
+
+2. the Trojan War 特洛伊战争
+
+3. the Trojan Horse 特洛伊木马
+
+4. the city of Troy 特洛伊城
+
+5. come down the stairs 从楼梯上走下来
+
+6. at a time 一次
+
+7. no longer 不再
+
+8. go up the stairs 走上楼梯
+
+9. stand on the high wall 站在高墙上
+
+10. look down at … 俯视……
+
+11. the Greek army 希腊军队
+
+12. sail away 航行离开
+
+13. take sth with sb 某人带上某物（一起走）
+
+14. main gate of the city 主城门
+
+15. pull … into … 把……拉入……
+
+16. obey orders 服从命令
+
+17. celebrate one's victory 庆祝胜利
+
+18. main square 主广场
+
+19. make jokes about … 开……的玩笑
+
+20. by midnight 截至到午夜时分
+
+21. except for 除……之外
+
+22. hide inside 藏在里面
+
+23. wait for another hour 再等一小时
+
+24. secret door 密门
+
+25. climb out 爬起来；爬出
+
+26. make one's way to 前往……
+
+27. wait outside 在外边等候
+
+28. take over 攻占；接管
+
+29. in the end 最后
+
+30. climb out of … 从……爬出
+
+31. pretend to do sth 假装做某事
+
+32. join the army 参军
+
+33. sail home 航行回家
+
+34. late at night 深夜
+
+35. read about … 阅读关于……
+
+36. in fact / actually 事实上
+
+37. a site of UNESCO World Heritage 联合国教科文组织世界遗产地
+
+二、语法&固定句型
+
+1. so…that… 如此……以至于……
+
+2. order sb to do sth 命令某人做某事
+```
+
 # Latest
