@@ -2729,4 +2729,89 @@ Leonardo da Vinci was born in the countryside in Italy.
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260805/1785937340.jpg)
 
+
+
+# 2026年8月5日 21:42 Wednesday
+
+```
+🌟课堂主要内容及学生表现
+2026年7月27日 初二F班英语
+第15节             助教：姜老师
+❤️❤️认真关注每一个孩子，我们一同成长
+📚英语
+一、基本概念
+1. 原级：描述本身，无对比
+2. 比较级：两者对比，“更……”
+3. 最高级：三者及以上对比，“最……”
+
+二、规则变化
+1. 直接加-er / -est
+tall→taller→tallest
+short→shorter→shortest
+slow→slower→slowest
+
+2. 以e结尾，只加-r / -st
+nice→nicer→nicest
+late→later→latest
+fine→finer→finest
+
+3. 重读闭音节：辅+元+辅，双写末尾字母再加-er/-est
+big→bigger→biggest
+thin→thinner→thinnest
+hot→hotter→hottest
+red→redder→reddest
+
+4. 辅音字母+y结尾：变y为i，再加-er/-est
+happy→happier→happiest
+easy→easier→easiest
+busy→busier→busiest
+
+5. 多音节词（3个音节及以上）/部分双音节词：前面加more / most
+beautiful → more beautiful → most beautiful
+interesting → more interesting → most interesting
+carefully → more carefully → most carefully
+
+三、不规则变化（必背）
+good/well → better → best
+bad/ill → worse → worst
+many/much → more → most
+little → less → least
+far → farther/further → farthest/furthest
+
+四、核心句型
+（1）原级句型
+1. as + 原级 + as  和……一样
+He is as tall as me.
+
+2. not as/so + 原级 + as  不如……
+She is not so outgoing as her sister.
+
+（2）比较级句型（两者比较）
+1. A + be/动词 + 比较级 + than + B  A比B更……
+Tom runs faster than Jack.
+
+2. 比较级 + and + 比较级  越来越……
+taller and taller 越来越高
+more and more beautiful 越来越漂亮
+
+3. the + 比较级，the + 比较级  越……，就越……
+The more you read, the better you will be.
+
+（3）最高级句型（三者/以上）
+1. 主语 + be/动词 + the + 最高级 + 范围（in/of短语）
+Lily is the thinnest in our class.
+
+2. one of the + 最高级 + 复数名词  最……之一
+Beijing is one of the biggest cities in China.
+
+五、易错点
+1. 最高级前面必须加the；副词最高级the可省略
+
+2. than前后对比对象要一致，不能人和物对比
+
+3. much/even/far 可修饰比较级（much taller 高得多）
+
+4. 出现than只用比较级；in/of+群体用最高级
+```
+
 # Latest
