@@ -3992,4 +3992,28 @@ in order that 目的从句，常用 will/can + 动词原形（这里填 will hav
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260805/1785939531.jpg)
 
+
+
+# 2026年8月5日 22:18 Wednesday
+
+```
+💯英语小测反馈：
+1️⃣本节课小测是关于昨天单词的练习 孩子整体答的不是很好 课后改正整理[拳头][拳头]
+⚠️注意：
+1. 词性转换（最常考）
+冠词 / 形容词性物主代词 + 名词（如 the __able → ability）
+名词前用形容词修饰（如 __nature disasters → natural）
+注意常见后缀：-able → -ability；-nature → -natural
+2. 非谓语动词（不定式）
+It takes time + to do（固定句型）
+不要漏掉 to，也不要用动名词
+3. 情态动词 + 动词原形
+should / can / must 后一律用原形，不受时态影响（如 cut）
+4. 过去分词作定语（表被动）
+ “由……组成” = be made up of，去掉be后保留过去分词 made 作后置定语
+5. 固定副词短语
+slow down（减速），down 是副词，和动词构成短语
+2⃣家长们督促孩子整理错题‼‼
+```
+
 # Latest
