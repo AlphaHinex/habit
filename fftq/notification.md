@@ -1,5 +1,9 @@
 ## 2026年8月6日 22:18 Thursday
 
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260806/1786025908.jpg)
+
+## 2026年8月6日 22:18 Thursday
+
 ```
 8.6 初二F班语文小测
 答案：
