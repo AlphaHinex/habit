@@ -1,5 +1,22 @@
 ## 2026年8月6日 22:18 Thursday
 
+```
+8.6 初二F班语文小测
+答案：
+结庐在人境
+悠然见南山
+山气日夕佳
+此中有真意
+孤山寺北贾亭西
+几处早莺争暖树
+浅草才能没马蹄
+绿杨阴里白沙堤
+
+小测情况：
+```
+
+## 2026年8月6日 22:18 Thursday
+
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260806/1786025886.jpg)
 
 ## 2026年8月6日 22:18 Thursday
