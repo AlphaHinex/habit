@@ -4246,4 +4246,22 @@ slow down（减速），down 是副词，和动词构成短语
 
 [初二F班英语(6).docx](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260805/初二F班英语(6).docx)
 
+
+
+# 2026年8月6日 22:16 Thursday
+
+```
+8.6 初二F班英语小测
+答案：
+1. are held
+2. reading
+3. attack
+4. watering / to be watered
+5. to live
+6. reasons
+7. to answer
+
+小测情况：
+```
+
 # Latest
