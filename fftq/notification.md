@@ -1,5 +1,9 @@
 ## 2026年9月3日 19:30 Thursday
 
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260903/1788435055.jpg)
+
+## 2026年9月3日 19:30 Thursday
+
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260903/1788435044.jpg)
 
 ## 2026年9月3日 19:30 Thursday
