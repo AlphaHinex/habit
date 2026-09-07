@@ -412,4 +412,10 @@
 
 [第九课.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260805/第九课.pdf)
 
+
+
+# 2026年9月7日 18:02 Monday
+
+[第一课笔记和思维导图.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260907/第一课笔记和思维导图.pdf)
+
 # Latest
