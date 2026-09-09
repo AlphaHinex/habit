@@ -2919,4 +2919,10 @@ v = s/t
 
 [物理小考9月7日，8日及答案.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260908/物理小考9月7日，8日及答案.pdf)
 
+
+
+# 2026年9月9日 17:13 Wednesday
+
+![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20260909/1788945194.jpg)
+
 # Latest
