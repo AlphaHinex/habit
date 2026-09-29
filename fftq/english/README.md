@@ -4610,4 +4610,10 @@ good（形容词 好的） — well（副词 好地）
 
 [沈阳牛津8A听力稿U2.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260929/沈阳牛津8A听力稿U2.pdf)
 
+
+
+# 2026年9月29日 17:48 Tuesday
+
+[OXFORD_8A_listen_U2.mp3](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20260929/OXFORD_8A_listen_U2.mp3)
+
 # Latest
