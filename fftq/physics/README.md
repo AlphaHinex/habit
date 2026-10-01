@@ -2987,4 +2987,10 @@ v = s/t
 
 [八年物理十一作业（二）实验题带答案.docx](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20261001/八年物理十一作业（二）实验题带答案.docx)
 
+
+
+# 2026年10月1日 20:33 Thursday
+
+[八年物理十一作业（三）模拟卷带答案.docx](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20261001/八年物理十一作业（三）模拟卷带答案.docx)
+
 # Latest
