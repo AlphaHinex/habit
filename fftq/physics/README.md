@@ -2975,4 +2975,10 @@ v = s/t
 温馨提示：居家实践注意用火、热水安全，劳逸结合，按时上交所有作业。
 ```
 
+
+
+# 2026年10月1日 20:33 Thursday
+
+[八年物理十一作业（一）典型题带答案.docx](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20261001/八年物理十一作业（一）典型题带答案.docx)
+
 # Latest
