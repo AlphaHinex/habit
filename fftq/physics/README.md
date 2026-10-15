@@ -2999,4 +2999,10 @@ v = s/t
 
 ![](https://gh-proxy.com/https://github.com/AlphaHinex/habit/blob/master/fftq/res/20261015/1792027475.jpg)
 
+
+
+# 2026年10月15日 09:25 Thursday
+
+[3.3水沸腾实验带答案.docx](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20261015/3.3水沸腾实验带答案.docx)
+
 # Latest
