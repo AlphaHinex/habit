@@ -454,4 +454,10 @@
 
 [1-4课导图及感受类答题模版.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20261015/1-4课导图及感受类答题模版.pdf)
 
+
+
+# 2026年10月16日 17:29 Friday
+
+[道法第五课电子笔记及思维导图.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20261016/道法第五课电子笔记及思维导图.pdf)
+
 # Latest
