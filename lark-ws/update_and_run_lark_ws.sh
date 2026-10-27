@@ -3,12 +3,7 @@
 
 DIR="$(cd "$(dirname "$0")"; pwd)"
 
-# 加载 .env （若存在）
-if [ -f "$DIR/.env" ]; then
-  set -a
-  . "$DIR/.env"
-  set +a
-fi
+# 凭据由 start.sh 统一从环境变量 / .env 加载，本脚本不再处理
 
 echo "1. 停止正在运行的 lark-ws 进程..."
 bash "$DIR/stop_lark_ws.sh"
@@ -32,7 +27,7 @@ esac
 FILENAME="lark-ws-${GOOS}-${GOARCH}"
 
 echo
-echo "3. 解压并启动最新 lark-ws..."
+echo "3. 解压最新 lark-ws..."
 unzip -o "$DIR/${FILENAME}.zip" -d "$DIR"
 rm -f "$DIR/${FILENAME}.zip"
 
@@ -41,7 +36,6 @@ BIN="$DIR/lark-ws"
 mv -f "$DIR/$FILENAME" "$BIN"
 chmod +x "$BIN"
 
-# 后台启动，输出到 log 文件
-nohup "$BIN" > "$DIR/lark-ws.log" 2>&1 &
-
-echo "启动完成：$BIN，日志输出至 $DIR/lark-ws.log"
+echo
+echo "4. 启动（环境变量由 start.sh 校验）..."
+exec bash "$DIR/start.sh"
