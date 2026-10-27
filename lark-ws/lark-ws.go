@@ -973,158 +973,328 @@ func processJob(parent context.Context, workerID int, job *messageJob) {
 	}
 }
 
-func handleMessage(ctx context.Context, job *messageJob) error {
-	// 一条消息只取一次时间，避免跨零点时目录日期与内容日期不一致。
-	now := time.Now().In(shanghaiLoc)
+// contentPart 是一条消息按内容格式拆分后的最小单元。
+type contentPart struct {
+	kind     string // text | code | image | file | media
+	text     string
+	language string
+	fileKey  string
+	imageKey string
+	fileName string
+}
 
-	switch job.msgType {
-	case "media":
-		return handleMediaMessage(ctx, job, now)
-	case "file":
-		return handleFileMessage(ctx, job, now)
-	case "image":
-		return handleImageMessage(ctx, job, now)
+const (
+	partText  = "text"
+	partCode  = "code"
+	partImage = "image"
+	partFile  = "file"
+	partMedia = "media"
+)
+
+type postPayload struct {
+	Title   string          `json:"title"`
+	Content [][]postElement `json:"content"`
+}
+
+type postElement struct {
+	Tag      string `json:"tag"`
+	Text     string `json:"text"`
+	Href     string `json:"href"`
+	UserID   string `json:"user_id"`
+	UserName string `json:"user_name"`
+	ImageKey string `json:"image_key"`
+	FileKey  string `json:"file_key"`
+	FileName string `json:"file_name"`
+	Language string `json:"language"`
+}
+
+// splitMessageContent 把一条飞书消息按内容格式拆成有序的多个片段。
+// 飞书的富文本（post）消息可以把文字、图片、视频、文件混排在同一条消息里，
+// 因此不能再假设「一条消息 = 一种内容类型」。
+func splitMessageContent(msgType, raw string) ([]contentPart, error) {
+	switch msgType {
 	case "text":
-		return handleTextMessage(ctx, job, now)
+		var msg TextMsg
+		if err := json.Unmarshal([]byte(raw), &msg); err != nil {
+			return nil, fmt.Errorf("%w: text: %v", errInvalidContent, err)
+		}
+		if strings.TrimSpace(msg.Text) == "" {
+			return nil, fmt.Errorf("%w: empty text", errInvalidContent)
+		}
+		return []contentPart{{kind: partText, text: msg.Text}}, nil
+
+	case "image":
+		var msg ImgMsg
+		if err := json.Unmarshal([]byte(raw), &msg); err != nil || msg.ImageKey == "" {
+			return nil, fmt.Errorf("%w: image missing image_key", errInvalidContent)
+		}
+		return []contentPart{{kind: partImage, imageKey: msg.ImageKey}}, nil
+
+	case "file":
+		var msg FileMsg
+		if err := json.Unmarshal([]byte(raw), &msg); err != nil || msg.FileKey == "" || msg.FileName == "" {
+			return nil, fmt.Errorf("%w: file missing file_key/file_name", errInvalidContent)
+		}
+		return []contentPart{{kind: partFile, fileKey: msg.FileKey, fileName: msg.FileName}}, nil
+
+	case "media":
+		var msg MediaMsg
+		if err := json.Unmarshal([]byte(raw), &msg); err != nil || msg.FileKey == "" {
+			return nil, fmt.Errorf("%w: media missing file_key", errInvalidContent)
+		}
+		return []contentPart{{
+			kind:     partMedia,
+			fileKey:  msg.FileKey,
+			imageKey: msg.ImageKey,
+			fileName: msg.FileName,
+		}}, nil
+
+	case "post":
+		return splitPostContent(raw)
+
 	default:
-		return fmt.Errorf("%w: %s", errUnsupportedType, job.msgType)
+		return nil, fmt.Errorf("%w: %s", errUnsupportedType, msgType)
 	}
 }
 
-func handleMediaMessage(ctx context.Context, job *messageJob, now time.Time) error {
-	var mediaMsg MediaMsg
-	if err := json.Unmarshal([]byte(job.content), &mediaMsg); err != nil {
-		return fmt.Errorf("%w: media content: %v", errInvalidContent, err)
-	}
-	if mediaMsg.FileKey == "" || mediaMsg.ImageKey == "" || mediaMsg.FileName == "" {
-		return fmt.Errorf("%w: media content missing file_key/image_key/file_name", errInvalidContent)
+func splitPostContent(raw string) ([]contentPart, error) {
+	var post postPayload
+	if err := json.Unmarshal([]byte(unwrapPostLocale(raw)), &post); err != nil {
+		return nil, fmt.Errorf("%w: post: %v", errInvalidContent, err)
 	}
 
-	fileData, err := downloadMessageResource(ctx, job.msgID, mediaMsg.FileKey, "file")
-	if err != nil {
-		return fmt.Errorf("download media file: %w", err)
+	var parts []contentPart
+
+	if title := strings.TrimSpace(post.Title); title != "" {
+		parts = append(parts, contentPart{kind: partText, text: title})
 	}
-	imageData, err := downloadMessageResource(ctx, job.msgID, mediaMsg.ImageKey, "image")
-	if err != nil {
-		return fmt.Errorf("download media poster: %w", err)
+
+	for _, line := range post.Content {
+		var buf strings.Builder
+
+		flush := func() {
+			if s := strings.TrimSpace(buf.String()); s != "" {
+				parts = append(parts, contentPart{kind: partText, text: s})
+			}
+			buf.Reset()
+		}
+
+		for _, el := range line {
+			switch el.Tag {
+			case "text":
+				buf.WriteString(el.Text)
+			case "a":
+				if el.Href != "" {
+					buf.WriteString(fmt.Sprintf("[%s](%s)", el.Text, el.Href))
+				} else {
+					buf.WriteString(el.Text)
+				}
+			case "at":
+				if el.UserName != "" {
+					buf.WriteString("@" + el.UserName)
+				} else {
+					buf.WriteString("@用户")
+				}
+			case "code_block":
+				flush()
+				parts = append(parts, contentPart{kind: partCode, text: el.Text, language: el.Language})
+			case "hr":
+				flush()
+				parts = append(parts, contentPart{kind: partText, text: "---"})
+			case "img":
+				flush()
+				if el.ImageKey != "" {
+					parts = append(parts, contentPart{kind: partImage, imageKey: el.ImageKey})
+				}
+			case "media":
+				flush()
+				if el.FileKey != "" {
+					parts = append(parts, contentPart{
+						kind:     partMedia,
+						fileKey:  el.FileKey,
+						imageKey: el.ImageKey,
+						fileName: el.FileName,
+					})
+				}
+			case "file":
+				flush()
+				if el.FileKey != "" {
+					parts = append(parts, contentPart{kind: partFile, fileKey: el.FileKey, fileName: el.FileName})
+				}
+			}
+		}
+		flush()
 	}
+
+	if len(parts) == 0 {
+		return nil, fmt.Errorf("%w: post has no supported element", errInvalidContent)
+	}
+	return parts, nil
+}
+
+// unwrapPostLocale 兼容 `{"zh_cn":{...}}` 这种带语言包装的格式（发送侧用）。
+func unwrapPostLocale(raw string) string {
+	var wrapper map[string]json.RawMessage
+	if err := json.Unmarshal([]byte(raw), &wrapper); err != nil {
+		return raw
+	}
+	if _, ok := wrapper["content"]; ok {
+		return raw
+	}
+	for _, key := range []string{"zh_cn", "en_us", "ja_jp"} {
+		if sub, ok := wrapper[key]; ok {
+			return string(sub)
+		}
+	}
+	return raw
+}
+
+func handleMessage(ctx context.Context, job *messageJob) error {
+	parts, err := splitMessageContent(job.msgType, job.content)
+	if err != nil {
+		return err
+	}
+
+	// 一条消息只取一次时间，保证目录名、链接、标题在跨零点时也一致。
+	now := time.Now().In(shanghaiLoc)
 
 	gitHubOpMu.Lock()
 	defer gitHubOpMu.Unlock()
 
-	dateDir := now.Format("20060102")
-	fileName, err := storeResource(ctx, now, sanitizeFileName(mediaMsg.FileName), fileData)
-	if err != nil {
-		return fmt.Errorf("upload media file: %w", err)
-	}
-	posterName, err := storeResource(ctx, now, imageResourceName(now), imageData)
-	if err != nil {
-		return fmt.Errorf("upload media poster: %w", err)
+	var (
+		blocks []string
+		errs   []string
+	)
+
+	for _, part := range parts {
+		block, err := renderPart(ctx, job, part, now)
+		if err != nil {
+			errs = append(errs, fmt.Sprintf("%s: %v", part.kind, err))
+			fmt.Printf("[handle] message %s part %s failed: %v\n", job.msgID, part.kind, err)
+			continue
+		}
+		blocks = append(blocks, block)
 	}
 
-	newContent := fmt.Sprintf("<video controls width=\"100%%\" src=\"%s\" poster=\"%s\"></video>",
-		proxiedBlobURL(dateDir, fileName), proxiedBlobURL(dateDir, posterName))
+	if len(blocks) == 0 {
+		return fmt.Errorf("all %d part(s) failed: %s", len(parts), strings.Join(errs, "; "))
+	}
 
-	if err := updateFileWithNewDayCheck(ctx, getFilePath(job.chatID), newContent, now); err != nil {
+	// 一条消息只写一次文件：既保持片段顺序，也把 GitHub 写请求降到最低。
+	if err := updateFileWithNewDayCheck(ctx, getFilePath(job.chatID), strings.Join(blocks, "\n\n"), now); err != nil {
 		return fmt.Errorf("update %s: %w", getFilePath(job.chatID), err)
 	}
 
-	fmt.Printf("[media] %s synced as %s\n", job.msgID, fileName)
+	fmt.Printf("[handle] message %s synced: %d/%d part(s)\n", job.msgID, len(blocks), len(parts))
+
+	if len(errs) > 0 {
+		return fmt.Errorf("%d/%d part(s) failed but the rest were synced: %s",
+			len(errs), len(parts), strings.Join(errs, "; "))
+	}
 	return nil
 }
 
-func handleFileMessage(ctx context.Context, job *messageJob, now time.Time) error {
-	var fileMsg FileMsg
-	if err := json.Unmarshal([]byte(job.content), &fileMsg); err != nil {
-		return fmt.Errorf("%w: file content: %v", errInvalidContent, err)
-	}
-	if fileMsg.FileKey == "" || fileMsg.FileName == "" {
-		return fmt.Errorf("%w: file content missing file_key/file_name", errInvalidContent)
+func renderPart(ctx context.Context, job *messageJob, part contentPart, now time.Time) (string, error) {
+	switch part.kind {
+	case partText:
+		// 纯文本消息沿用原来的代码块样式；富文本里的文字按原样输出。
+		if job.msgType == "text" {
+			return fmt.Sprintf("```\n%s\n```", part.text), nil
+		}
+		return part.text, nil
+
+	case partCode:
+		return fmt.Sprintf("```%s\n%s\n```", part.language, part.text), nil
+
+	case partImage:
+		return renderImagePart(ctx, job, part, now)
+
+	case partFile:
+		return renderFilePart(ctx, job, part, now)
+
+	case partMedia:
+		return renderMediaPart(ctx, job, part, now)
 	}
 
-	fileData, err := downloadMessageResource(ctx, job.msgID, fileMsg.FileKey, "file")
+	return "", fmt.Errorf("%w: part %s", errUnsupportedType, part.kind)
+}
+
+func renderImagePart(ctx context.Context, job *messageJob, part contentPart, now time.Time) (string, error) {
+	data, err := downloadMessageResource(ctx, job.msgID, part.imageKey, "image")
 	if err != nil {
-		return fmt.Errorf("download file: %w", err)
+		return "", fmt.Errorf("download image: %w", err)
 	}
 
-	gitHubOpMu.Lock()
-	defer gitHubOpMu.Unlock()
-
-	dateDir := now.Format("20060102")
-	storedName, err := storeResource(ctx, now, sanitizeFileName(fileMsg.FileName), fileData)
+	name, err := storeResource(ctx, now, imageResourceName(now), data)
 	if err != nil {
-		return fmt.Errorf("upload file: %w", err)
+		return "", fmt.Errorf("upload image: %w", err)
+	}
+
+	return fmt.Sprintf("![](%s)", proxiedBlobURL(now.Format("20060102"), name)), nil
+}
+
+func renderFilePart(ctx context.Context, job *messageJob, part contentPart, now time.Time) (string, error) {
+	if part.fileName == "" {
+		return "", fmt.Errorf("file key %s has no file_name", part.fileKey)
+	}
+
+	data, err := downloadMessageResource(ctx, job.msgID, part.fileKey, "file")
+	if err != nil {
+		return "", fmt.Errorf("download file: %w", err)
+	}
+
+	storedName, err := storeResource(ctx, now, sanitizeFileName(part.fileName), data)
+	if err != nil {
+		return "", fmt.Errorf("upload file: %w", err)
 	}
 
 	// 链接里使用实际落库的文件名，重名时可能是 xxx-1.pdf。
-	newContent := fmt.Sprintf("[%s](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/%s/%s)",
-		fileMsg.FileName, dateDir, storedName)
-
-	if err := updateFileWithNewDayCheck(ctx, getFilePath(job.chatID), newContent, now); err != nil {
-		return fmt.Errorf("update %s: %w", getFilePath(job.chatID), err)
-	}
-
-	fmt.Printf("[file] %s synced as %s\n", job.msgID, storedName)
-	return nil
+	return fmt.Sprintf("[%s](%s)", part.fileName, pdfViewerURL(now.Format("20060102"), storedName)), nil
 }
 
-func handleImageMessage(ctx context.Context, job *messageJob, now time.Time) error {
-	var imgMsg ImgMsg
-	if err := json.Unmarshal([]byte(job.content), &imgMsg); err != nil {
-		return fmt.Errorf("%w: image content: %v", errInvalidContent, err)
-	}
-	if imgMsg.ImageKey == "" {
-		return fmt.Errorf("%w: image content missing image_key", errInvalidContent)
-	}
-
-	imageData, err := downloadMessageResource(ctx, job.msgID, imgMsg.ImageKey, "image")
-	if err != nil {
-		return fmt.Errorf("download image: %w", err)
-	}
-
-	gitHubOpMu.Lock()
-	defer gitHubOpMu.Unlock()
-
+func renderMediaPart(ctx context.Context, job *messageJob, part contentPart, now time.Time) (string, error) {
 	dateDir := now.Format("20060102")
-	storedName, err := storeResource(ctx, now, imageResourceName(now), imageData)
+
+	data, err := downloadMessageResource(ctx, job.msgID, part.fileKey, "file")
 	if err != nil {
-		return fmt.Errorf("upload image: %w", err)
+		return "", fmt.Errorf("download media: %w", err)
 	}
 
-	newContent := fmt.Sprintf("![](%s)", proxiedBlobURL(dateDir, storedName))
-
-	if err := updateFileWithNewDayCheck(ctx, getFilePath(job.chatID), newContent, now); err != nil {
-		return fmt.Errorf("update %s: %w", getFilePath(job.chatID), err)
+	preferred := part.fileName
+	if preferred == "" {
+		preferred = fmt.Sprintf("video_%s.mp4", now.Format("20060102150405"))
 	}
 
-	fmt.Printf("[image] %s synced as %s\n", job.msgID, storedName)
-	return nil
+	storedName, err := storeResource(ctx, now, sanitizeFileName(preferred), data)
+	if err != nil {
+		return "", fmt.Errorf("upload media: %w", err)
+	}
+
+	src := proxiedBlobURL(dateDir, storedName)
+
+	// 封面图只是锦上添花，失败不影响视频本身。
+	poster := ""
+	if part.imageKey != "" {
+		imageData, err := downloadMessageResource(ctx, job.msgID, part.imageKey, "image")
+		if err != nil {
+			fmt.Printf("[media] download poster for %s failed: %v\n", job.msgID, err)
+		} else if posterName, err := storeResource(ctx, now, imageResourceName(now), imageData); err != nil {
+			fmt.Printf("[media] upload poster for %s failed: %v\n", job.msgID, err)
+		} else {
+			poster = proxiedBlobURL(dateDir, posterName)
+		}
+	}
+
+	if poster != "" {
+		return fmt.Sprintf("<video controls width=\"100%%\" src=\"%s\" poster=\"%s\"></video>", src, poster), nil
+	}
+	return fmt.Sprintf("<video controls width=\"100%%\" src=\"%s\"></video>", src), nil
 }
 
-func handleTextMessage(ctx context.Context, job *messageJob, now time.Time) error {
-	var textMsg TextMsg
-	if err := json.Unmarshal([]byte(job.content), &textMsg); err != nil {
-		return fmt.Errorf("%w: text content: %v", errInvalidContent, err)
-	}
-	if len(textMsg.Text) == 0 {
-		return fmt.Errorf("%w: empty text", errInvalidContent)
-	}
-
-	gitHubOpMu.Lock()
-	defer gitHubOpMu.Unlock()
-
-	newContent := fmt.Sprintf("```\n%s\n```", textMsg.Text)
-	if err := updateFileWithNewDayCheck(ctx, getFilePath(job.chatID), newContent, now); err != nil {
-		return fmt.Errorf("update %s: %w", getFilePath(job.chatID), err)
-	}
-
-	fmt.Printf("[text] %s synced to %s\n", job.msgID, getFilePath(job.chatID))
-	return nil
+func pdfViewerURL(dateDir, fileName string) string {
+	return fmt.Sprintf("https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/%s/%s",
+		dateDir, fileName)
 }
-
-// ---------------------------------------------------------------------------
-// 内容归档与合并
-// ---------------------------------------------------------------------------
 
 func isNewDay(fileContent string, now time.Time) bool {
 	lastEntryDate, ok := getLastEntryDate(fileContent)
