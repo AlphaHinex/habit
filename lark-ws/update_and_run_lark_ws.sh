@@ -36,9 +36,12 @@ echo "3. 解压并启动最新 lark-ws..."
 unzip -o "$DIR/${FILENAME}.zip" -d "$DIR"
 rm -f "$DIR/${FILENAME}.zip"
 
-chmod +x "$DIR/$FILENAME"
+# 统一二进制名为 lark-ws，与 start.sh / stop_lark_ws.sh 保持一致
+BIN="$DIR/lark-ws"
+mv -f "$DIR/$FILENAME" "$BIN"
+chmod +x "$BIN"
 
 # 后台启动，输出到 log 文件
-nohup "$DIR/$FILENAME" > "$DIR/${FILENAME}.log" 2>&1 &
+nohup "$BIN" > "$DIR/lark-ws.log" 2>&1 &
 
-echo "启动完成：$DIR/$FILENAME，日志输出至 $DIR/${FILENAME}.log"
+echo "启动完成：$BIN，日志输出至 $DIR/lark-ws.log"
