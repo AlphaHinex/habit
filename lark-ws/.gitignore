@@ -1,0 +1,9 @@
+.lark-ws.pid
+.lark-ws-state.json
+.lark-ws-state-*.tmp
+.env
+.gocache/
+.gotmp/
+lark-ws
+lark-ws-linux-*
+lark-ws-darwin-*
