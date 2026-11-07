@@ -1,35 +1,3 @@
-## 2026年11月6日 09:00 Friday
+# 2026年11月7日 19:49 Saturday
 
-![](https://gh-proxy.com/https://github.com/alphahinex/habit/blob/master/fftq/res/20261106/20261106090057_c584c165.jpg)
-
-![](https://gh-proxy.com/https://github.com/alphahinex/habit/blob/master/fftq/res/20261106/20261106090057_b3460494.jpg)
-
-## 2026年11月6日 09:00 Friday
-
-![](https://gh-proxy.com/https://github.com/alphahinex/habit/blob/master/fftq/res/20261106/20261106090051_14aa99c0.jpg)
-
-## 2026年11月6日 09:00 Friday
-
-![](https://gh-proxy.com/https://github.com/alphahinex/habit/blob/master/fftq/res/20261106/20261106090044_09aa7de1.jpg)
-
-## 2026年11月6日 09:00 Friday
-
-![](https://gh-proxy.com/https://github.com/alphahinex/habit/blob/master/fftq/res/20261106/20261106090038_bd6019b6.jpg)
-
-## 2026年11月6日 08:54 Friday
-
-![](https://gh-proxy.com/https://github.com/alphahinex/habit/blob/master/fftq/res/20261106/20261106085405_274f67a1.jpg)
-
-## 2026年11月6日 08:53 Friday
-
-![](https://gh-proxy.com/https://github.com/alphahinex/habit/blob/master/fftq/res/20261106/20261106085359_e0d1726d.jpg)
-
-## 2026年11月6日 08:53 Friday
-
-![](https://gh-proxy.com/https://github.com/alphahinex/habit/blob/master/fftq/res/20261106/20261106085352_0ba34839.jpg)
-
-# 2026年11月6日 08:53 Friday
-
-![](https://gh-proxy.com/https://github.com/alphahinex/habit/blob/master/fftq/res/20261106/20261106085330_98be7e79.jpg)
-
-![](https://gh-proxy.com/https://github.com/alphahinex/habit/blob/master/fftq/res/20261106/20261106085330_ce384924.jpg)
+[四、书面表达.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20261107/四、书面表达.pdf)
