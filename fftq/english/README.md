@@ -4730,4 +4730,8 @@ good（形容词 好的） — well（副词 好地）
 
 [四、书面表达.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20261107/四、书面表达-1.pdf)
 
+# 2026年11月10日 17:39 Tuesday
+
+[43中学八上期中测试题.mp3.mp3](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20261110/43中学八上期中测试题.mp3.mp3)
+
 # Latest
