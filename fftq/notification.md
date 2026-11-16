@@ -1,13 +1,5 @@
-## 2026年11月13日 17:40 Friday
+# 2026年11月16日 17:48 Monday
 
-![](https://gh-proxy.com/https://github.com/alphahinex/habit/blob/master/fftq/res/20261113/20261113174037_205c38a0.jpg)
+![](https://gh-proxy.com/https://github.com/alphahinex/habit/blob/master/fftq/res/20261116/20261116174831_28400fb1.jpg)
 
-## 2026年11月13日 17:40 Friday
-
-![](https://gh-proxy.com/https://github.com/alphahinex/habit/blob/master/fftq/res/20261113/20261113174025_875d2921.jpg)
-
-![](https://gh-proxy.com/https://github.com/alphahinex/habit/blob/master/fftq/res/20261113/20261113174025_6e65f024.jpg)
-
-# 2026年11月13日 09:02 Friday
-
-![](https://gh-proxy.com/https://github.com/alphahinex/habit/blob/master/fftq/res/20261113/20261113090250_f2623e3b.jpg)
+![](https://gh-proxy.com/https://github.com/alphahinex/habit/blob/master/fftq/res/20261116/20261116174831_fc00df40.jpg)
