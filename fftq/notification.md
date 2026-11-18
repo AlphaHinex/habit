@@ -1,27 +1,3 @@
-## 2026年11月16日 18:00 Monday
+# 2026年11月18日 17:38 Wednesday
 
-![](https://gh-proxy.com/https://github.com/alphahinex/habit/blob/master/fftq/res/20261116/20261116180051_2a67665c.jpg)
-
-![](https://gh-proxy.com/https://github.com/alphahinex/habit/blob/master/fftq/res/20261116/20261116180051_985e1b77.jpg)
-
-## 2026年11月16日 18:00 Monday
-
-![](https://gh-proxy.com/https://github.com/alphahinex/habit/blob/master/fftq/res/20261116/20261116180044_c85f82df.jpg)
-
-## 2026年11月16日 18:00 Monday
-
-![](https://gh-proxy.com/https://github.com/alphahinex/habit/blob/master/fftq/res/20261116/20261116180037_cb09e19f.jpg)
-
-## 2026年11月16日 17:48 Monday
-
-![](https://gh-proxy.com/https://github.com/alphahinex/habit/blob/master/fftq/res/20261116/20261116174847_93ad2dc5.jpg)
-
-## 2026年11月16日 17:48 Monday
-
-![](https://gh-proxy.com/https://github.com/alphahinex/habit/blob/master/fftq/res/20261116/20261116174842_21142857.jpg)
-
-# 2026年11月16日 17:48 Monday
-
-![](https://gh-proxy.com/https://github.com/alphahinex/habit/blob/master/fftq/res/20261116/20261116174831_28400fb1.jpg)
-
-![](https://gh-proxy.com/https://github.com/alphahinex/habit/blob/master/fftq/res/20261116/20261116174831_fc00df40.jpg)
+[铁西区26-27学年度上学期八年级听力音频. mp3(1).mp3](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20261118/铁西区26-27学年度上学期八年级听力音频._mp3(1).mp3)
