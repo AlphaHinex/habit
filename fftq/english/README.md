@@ -4758,4 +4758,8 @@ good（形容词 好的） — well（副词 好地）
 
 ![](https://gh-proxy.com/https://github.com/alphahinex/habit/blob/master/fftq/res/20261119/20261119130529_dc63ef73.jpg)
 
+# 2026年11月23日 17:45 Monday
+
+[英语听力.mp3](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20261123/英语听力.mp3)
+
 # Latest
