@@ -1,5 +1,9 @@
 ## 2026年11月27日 17:42 Friday
 
+[道法第十课电子笔记及思维导图.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20261127/道法第十课电子笔记及思维导图.pdf)
+
+## 2026年11月27日 17:42 Friday
+
 [道法第九课电子笔记及思维导图.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20261127/道法第九课电子笔记及思维导图.pdf)
 
 ## 2026年11月27日 17:42 Friday
