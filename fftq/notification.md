@@ -1,3 +1,7 @@
+## 2026年11月27日 17:42 Friday
+
+[道法第八课电子笔记及思维导图.pdf](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20261127/道法第八课电子笔记及思维导图.pdf)
+
 ## 2026年11月27日 17:41 Friday
 
 [月考听力检测（8上 沪教）.mp3](https://alphahinex.github.io/habit/pdfjs-5.4.624-legacy-dist/web/viewer.html?file=https://alphahinex.github.io/habit/fftq/res/20261127/月考听力检测（8上_沪教）.mp3)
